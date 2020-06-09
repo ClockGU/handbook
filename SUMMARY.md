@@ -10,4 +10,5 @@
 * [Datenschutz](benutzerhandbuch/privacy.md)
 * [Feedback](benutzerhandbuch/how2feedback.md)
 * [Häufige Fragen](benutzerhandbuch/faq.md)
-* [Zur Technik](benutzerhandbuch/about.md)
+* [Zur Geschichte](benutzerhandbuch/history.md)
+* [Zur Technik](benutzerhandbuch/technical.md)

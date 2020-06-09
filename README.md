@@ -1,6 +1,6 @@
 # Über das Projekt
 
-![](.gitbook/assets/clock_current_logo_600x150.png)
+![Clock Logo](.gitbook/assets/clock_current_logo_600x150.png)
 
 ## Arbeitszeitdokumentation einfach EINFACH
 
