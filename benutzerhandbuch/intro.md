@@ -1,7 +1,3 @@
----
-description: Clock Info
----
-
 # Einleitung
 
 Willkommen bei Clock - der Stundenzettel-App für Hilfskräfte an der Goethe-Universität!
@@ -14,7 +10,7 @@ Der Web-Dienst Clock ist ein Hilfsmittel für Hilfskräfte \("HiWis"\) an der Go
 
 Der offizielle Weg, Dein gesetztlich vorgeschriebenes _Arbeitszeitkonto_ zu führen, ist eine Excel-Datei, die nicht besonders praktisch ist und für manche Studierende, die nicht mit Office arbeiten, nicht gut funktioniert.
 
-Clock bietet Dir deshalb eine Alternative, Deine Arbeitszeit entsprechend der gesetzlichen Vorgaben zu dokumentieren,
+Clock bietet Dir deshalb eine Alternative, Deine Arbeitszeit entsprechend der gesetzlichen Vorgaben zu dokumentieren.
 
 ## Was kann Clock so alles?
 
@@ -52,4 +48,3 @@ Deine Dienstvorgesetzten oder PersonalServices können **nicht** auf Deine Daten
 Clock enthält keine versteckten oder geheimen Funktionen - der Programmcode ist vollständig _Open Source_. Das bedeutet, dass alle Funktionen der Software öffentlich einsehbar sind und von Menschen \(mit entsprechender Sachkenntnis\) überprüft werden können.
 
 Mehr zum Umgang von Clock mit Deinen Daten findest Du im Kapitel [Datenschutz](privacy.md).
-

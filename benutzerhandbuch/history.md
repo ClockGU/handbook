@@ -18,29 +18,28 @@ Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Feh
 
 Als dann Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
 
-Außerdem hatten sich Programmierkenntnisse weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
+Außerdem hatten sich die gesammelten Programmierkenntnisse weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
 
-Vor allem aber gab es eine Personalabteilung, die sehr interessiert daran war, eine gute Alternative zu der nicht ganz perfekten Excel-Methode anbieten zu können und sich vorstellen konnte, HiWi-Mittel zu investieren.
+Vor allem aber gab es eine Personalabteilung, die sehr interessiert daran war, eine gute Alternative zu der nicht ganz perfekten Excel-Methode anbieten zu können und sich vorstellen konnte, etwas in die Entwicklung zu investieren.
 
 #### Der Weg zu Clock 2.0
 
 Da man aus den Fehlern der Vergangenheit lernen soll, wurde das neue Projekt viel sorgfältiger geplant und ganz neu aufgezogen.
 
-In einem ersten Schritt \(mit nicht wenigen Mails und Meetings\) wurden [_User Stories_](../user-stories/introduction.md) geschrieben. Diese beschreiben, was die Anwendung aus Sicht eines Users können soll.
+In einem ersten Schritt \(mit nicht wenigen Mails und Meetings\) wurden _User Stories_ geschrieben, die beschreiben, was die Anwendung aus Sicht eines Users können soll.
 
-Die äußeren Anforderungen an die App \(z.B. die Regeln des Arbeitszeitkontos, Pausenzeiten etc.\) wurden außerdem als [_Business Rules_](../business-rules/introduction.md) formuliert.
+Die äußeren Anforderungen an die App \(z.B. die Regeln des Arbeitszeitkontos, Pausenzeiten etc.\) wurden außerdem als _Business Rules_ formuliert.
 
-Daraus ergeben sich sehr klare Anforderungen an die Anwendung und an die benötigten [Datenmodelle](https://github.com/ClockGU/documentation/tree/c22fe7cad3af1ba515417bf5663bb73f6193bda9/database/introduction.md).
+Daraus ergeben sich sehr klare Anforderungen an die Anwendung und an die benötigten Datenmodelle.
 
 ### Test... Test...
 
-Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Deshalb wird zuerst für einige Wochen ein "Alpha-Test" mit ausgewählten Benutzer\*innen durchgeführt, um ein erstes Gefühl von Außenstehenden zu bekommen. Danach wird die App für alle HiWis in einem offenen "Beta-Test" freigegeben.
+Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Deshalb wurde ein "Alpha-Test" mit ausgewählten Benutzer\*innen durchgeführt, um ein erstes Gefühl von Außenstehenden zu bekommen. Danach wird die App für einen größeren Kreis von HiWis in einem offenen "Beta-Test" freigegeben und schließlich allen zur Verfügung gestellt.
 
-Während dieser Beta-Phase werden noch viele Details nachgearbeitet, wir arbeiten aber schon mit echten Daten und man kann echte Stundenzettel erzeugen \(und wahrscheinlich wird man gar nicht merken, wenn das "Beta" wegfällt\).
+Während dieser Beta-Phase werden noch einige Details nachgearbeitet und Funktionen nachgereicht. Wir arbeiten aber schon mit echten Daten und es ist möglich, echte Stundenzettel zu erzeugen. Und vielleicht wird man gar nicht merken, wenn das "Beta" wegfällt.
 
-Dennoch ist Feedback an die Entwickler sehr wichtig - ob es um Fehler oder Verbesserungsvorschläge geht. Wie man diese Rückmeldung gibt, steht genauer im Kapitel [Feedback](how2feedback.md).
+Dennoch ist Feedback an die Entwickler sehr wichtig - ob es um Fehler oder Verbesserungsvorschläge geht. Im Kapitel [Feedback](how2feedback.md) ist beschrieben, wie ein hilfreiches Feedback aussehen kan.
 
 ## Mitarbeit
 
-Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de)
-
+Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).

@@ -4,7 +4,7 @@ description: Wie sieht gutes Feedback aus?
 
 # Feedback
 
-Besonders während der ersten Testphase \("Alpha-Test"\) benötigen wir die Rückmeldung unserer Testbenutzer, damit
+Besonders während der Testphase benötigen wir Eure Rückmeldung, damit
 
 * ...wir Fehler finden können, die uns bislang nicht aufgefallen sind
 * ...wir eine Rückmeldung über die Benutzung "von außen" bekommen
@@ -15,7 +15,7 @@ Wir unterteilen Feedback in vier Kategorien - mit absteigender Priorität:
 1. [Bugs](how2feedback.md#1.-Bugs) \(superwichtig!\)
 2. [Bedienung](how2feedback.md#2.-Bedienung) \(ziemlich wichtig\)
 3. [Design](how2feedback.md#3.-Design) \(Das Auge clockt mit\)
-4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen) \(Wünsch Dir was\)
+4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen) \(Wünsch' Dir was\)
 
 Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 
@@ -38,7 +38,7 @@ Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn fal
 
 * bei welcher Aktion trat der Fehler auf?
 * was hätte passieren soll/was funktioniert nicht?
-* Screenshot?
+* Hilfreich ist ein Screenshot.
 
 ## 2. Bedienung \("UX/UI"\)
 
@@ -56,7 +56,7 @@ Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet i
 * Beispiele aus anderen Anwendung, wie es funktionieren sollte?
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([_Material Design_](about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
+Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
 {% endhint %}
 
 ## 3. Design
@@ -83,4 +83,3 @@ Wir haben uns viele Gedanken über den Funktionsumfang gemacht - aber vielleicht
 * Ist es Deiner Ansicht nach ein absolut wichtiges Feature oder ein "nice to have"?
 
 Manchmal haben wir auch schon Ideen im Kopf, sind aber nicht sicher, ob unsere User sie für wichtig genug halten. Dann ist es gut, davon zu erfahren.
-

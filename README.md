@@ -8,4 +8,6 @@ Das Projekt ClockGU verfolgt die Bereitstellung einer Softwarelösung \(**Clock*
 
 Diese Seiten dienen vorerst als Handbuch.
 
-Noch ein Hinweis: Clock ist aktuell noch vollständig auf Englisch - eine deutschsprachige Bedienoberfläche ist bereits in Arbeit. Wenn Du mithelfen möchtest, Clock in andere Sprachen zu übersetzen, kannst Du Dich gerne bei uns melden: [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
+{% hint style="info" %}
+Clock ist aktuell noch vollständig auf Englisch - eine deutschsprachige Bedienoberfläche ist bereits in Arbeit. Wenn Du mithelfen möchtest, Clock in andere Sprachen zu übersetzen, kannst Du Dich gerne bei uns melden: [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
+{% endhint %}
