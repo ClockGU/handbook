@@ -56,7 +56,7 @@ Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet i
 * Beispiele aus anderen Anwendung, wie es funktionieren sollte?
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
+Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
 {% endhint %}
 
 ## 3. Design
@@ -83,3 +83,4 @@ Wir haben uns viele Gedanken über den Funktionsumfang gemacht - aber vielleicht
 * Ist es Deiner Ansicht nach ein absolut wichtiges Feature oder ein "nice to have"?
 
 Manchmal haben wir auch schon Ideen im Kopf, sind aber nicht sicher, ob unsere User sie für wichtig genug halten. Dann ist es gut, davon zu erfahren.
+

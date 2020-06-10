@@ -11,3 +11,4 @@ Diese Seiten dienen vorerst als Handbuch.
 {% hint style="info" %}
 Clock ist aktuell noch vollständig auf Englisch - eine deutschsprachige Bedienoberfläche ist bereits in Arbeit. Wenn Du mithelfen möchtest, Clock in andere Sprachen zu übersetzen, kannst Du Dich gerne bei uns melden: [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
 {% endhint %}
+

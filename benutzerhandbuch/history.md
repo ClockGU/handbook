@@ -2,6 +2,8 @@
 description: Zur Geschichte von Clock
 ---
 
+# Zur Geschichte
+
 ## History
 
 Die Idee von Clock gibt es schon seit etwa 2014. Damals wurden die monatlichen Stundenzettel neu eingeführt und das war ziemlich anstrengend und umständlich, denn alles musste von Hand eingetragen werden.
@@ -42,4 +44,5 @@ Dennoch ist Feedback an die Entwickler sehr wichtig - ob es um Fehler oder Verbe
 
 ## Mitarbeit
 
-Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+

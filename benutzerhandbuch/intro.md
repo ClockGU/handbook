@@ -39,7 +39,7 @@ Rechtsgrundlage und Praxis sind natürlich nicht immer leicht in Übereinstimmun
 
 ## Wer steht hinter Clock?
 
-Clock ist als studentisches Projekt eines genervten HiWis [entstanden](about.md#History) und wird vom Zentrum Naturwissenschaften und der Abteilung PersonalServices der Goethe-Universität finanziert.
+Clock ist als studentisches Projekt eines genervten HiWis [entstanden](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#History) und wird vom Zentrum Naturwissenschaften und der Abteilung PersonalServices der Goethe-Universität finanziert.
 
 Trotz der offiziellen Unterstützung der Uni sieht sich Clock als Service _**von Studierenden für Studierende**_: Die App wurde aus der Perspektive von Studierenden und ihren Interessen programmiert.
 
@@ -48,3 +48,4 @@ Deine Dienstvorgesetzten oder PersonalServices können **nicht** auf Deine Daten
 Clock enthält keine versteckten oder geheimen Funktionen - der Programmcode ist vollständig _Open Source_. Das bedeutet, dass alle Funktionen der Software öffentlich einsehbar sind und von Menschen \(mit entsprechender Sachkenntnis\) überprüft werden können.
 
 Mehr zum Umgang von Clock mit Deinen Daten findest Du im Kapitel [Datenschutz](privacy.md).
+

@@ -18,7 +18,7 @@ Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 30 Tage angemeldet, 
 
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract_\) anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags, wenn Du noch keinen hast. 
+Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract_\) anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags, wenn Du noch keinen hast.
 
 Wenn Du bereits einen Vertrag \(oder mehrere\) angelegt hast, wirst Du immer auf den zuletzt bearbeiteten Vertrag weitergeleitet.
 
@@ -59,10 +59,11 @@ Durch den Export wird der Monat gesperrt und gilt als "abgegeben" - Du kannst da
 
 ## Abmelden
 
-Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kannst Du dies tun. 
+Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kannst Du dies tun.
 
 Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 30 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
 
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
 Aktive Schichten laufen übrigens weiter, wenn Du abgemeldet bist!
+

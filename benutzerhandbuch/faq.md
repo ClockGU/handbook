@@ -24,7 +24,7 @@ A \| Clock verwendet ein paar besondere Begriffe, die [hier](terminology.md) gen
 
 A \| Du und die Clock-Admins, die sich aber nicht um Deine Daten, sondern um das System kümmern.
 
-"Die Uni" \(Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast _nachdem_ Du ihn exportiert und (auf Papier) abgegeben hast.
+"Die Uni" \(Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast _nachdem_ Du ihn exportiert und \(auf Papier\) abgegeben hast.
 
 ## Q \| Wie ist das mit dem Datenschutz?
 

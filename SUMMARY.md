@@ -12,3 +12,4 @@
 * [Häufige Fragen](benutzerhandbuch/faq.md)
 * [Zur Geschichte](benutzerhandbuch/history.md)
 * [Zur Technik](benutzerhandbuch/technical.md)
+

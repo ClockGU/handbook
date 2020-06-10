@@ -18,7 +18,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
   * Login-Name\*
   * HRZ-Mailadresse
   * Vor- und Nachname
-  * Statusgruppe (`student` oder `employee`)
+  * Statusgruppe \(`student` oder `employee`\)
   * Personalnummer \(die bekommst Du von der Uni - sie steht z.B. auf Deinen Gehaltsabrechnungen\)
   * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
   * Datum der letzten Änderung am Benutzerkonto
@@ -32,7 +32,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
   * Schichtdaten \(Datum & Zeit von Anfang und Ende der Schicht\)
   * zugehöriger Vertrag
   * Schichttyp \(normal, Urlaub, krank\)
-  * Notizen und _Tags_ (die Du eingegeben hast)
+  * Notizen und _Tags_ \(die Du eingegeben hast\)
   * Erstellungs- und Änderungsdaten
   * Status der Schicht \(geplante Schicht / bereits exportiert\)
 * die "Reports" - monatliche Zusammenfassungen Deiner Arbeitszeit
@@ -55,9 +55,11 @@ Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum.
 
 ## Wer kann meine Daten einsehen?
 
-Eigentlich nur Du. _Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
+Eigentlich nur Du. 
 
-Es ist möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann.
+_Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
+
+Es ist prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann. Diese Möglichkeit wird aktuell geprüft.
 
 Die Administratoren kontrollieren dann zwar auch die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
 
@@ -79,7 +81,9 @@ Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitsko
 
 ## Darf ich meine Daten haben?
 
-Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) wird es eine Möglichkeit geben, alle Deine Daten in einer gängigen maschinenlesbaren Form (JSON) zu exportieren.
+Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren. 
+
+Du findest die Funktion in den _Settings_  &gt; _GDPR_, wenn Du auf Deinen Namen klickst.
 
 ## Kann ich Euch das alles glauben?
 
@@ -87,4 +91,5 @@ Clock ist ein Projekt von Studis für Studis - das haben wir bei den Vereinbarun
 
 Außerdem ist Clock _Open Source_: Alle funktionalen Programmteile und Informationen sind öffentlich und können von Menschen mit Programmierkenntnissen nachvollzogen werden.
 
-Aber natürlich geht es hier um Vertrauen. Du bist jederzeit eingeladen, mit uns direkt ins Gespräch zu kommen: [clock-kontakt@dlist.uni-frankfurt.de](clock-kontakt@dlist.uni-frankfurt.de) oder im [Rocketchat der Uni](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+Aber natürlich geht es hier um Vertrauen. Du bist jederzeit eingeladen, mit uns direkt ins Gespräch zu kommen: [clock-kontakt@dlist.uni-frankfurt.de](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/clock-kontakt@dlist.uni-frankfurt.de) oder im [Rocketchat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user) der Uni.
+
