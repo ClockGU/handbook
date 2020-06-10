@@ -8,7 +8,7 @@ Clock verwendet einige besondere Begriffe, die wir hier vorstellen und erklären
 
 ## Vertrag \| Contract
 
-Der _Vertrag_ \(_Contract_\) bildet Deinen realen Arbeitsvertrag in Clock ab.
+Der _Vertrag_ bildet Deinen realen Arbeitsvertrag in Clock ab.
 
 Als Hilfskraft hast Du mit der Universität einen _Arbeitsvertrag_ abgeschlossen. In diesem steht...
 
@@ -34,10 +34,13 @@ Für Schichten gelten einige Regeln:
 
 * Eine Schicht gehört immer zu einem Vertrag.
 * Eine Schicht darf höchstens 6 Stunden lang sein \(danach wird die Schicht automatisch unterbrochen und eine gesetzliche Pause von 30 Minuten eingetragen\).
-* Eine Schicht darf beliebig kurz sein. Clock fragt aber kritisch nach, wenn Deine Schicht kürzer als 5 Minuten ist - es könnte ja ein Versehen sein.
+* Eine Schicht darf beliebig kurz sein.
 * Eine Schicht gehört immer zu einem festen Datum. Wenn Du über Mitternacht hinweg arbeitest, macht Clock daraus 2 Schichten.
 
-_Aktive_ Schichten sind Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ hast.
+Wenn Du eine Schicht über mehrere Tage laufen lässt, erscheint beim Ausclocken ein Dialog und Du musst entscheiden, wie mit den Schichten umgegangen werden soll.
+
+_Aktive_ Schichten sind übrigens Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ hast.
+
 
 ## Clocken
 
@@ -46,7 +49,7 @@ _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das beenden o
 * _Einclocken_ \(`Clock in`\) beginnt eine Schicht.
 * _Ausclocken_ \(`Clock out`\) beendet eine Schicht.
 
-`Clock in` / `Clock out` ist immer am oberen Rand der App zu finden. Wenn eine Schicht _aktiv_ ist, wir im Button die aktuelle Laufzeit angezeigt.
+`Clock in` / `Clock out` ist immer auf dem Dashboard zu finden. Wenn eine Schicht _aktiv_ ist, wird Dir die aktuelle Laufzeit angezeigt. Du kannst eine laufende Schicht beenden, um sie zu speichern, oder auch ganz löschen.
 
 ## Arbeitszeitkonto \| AZK
 
@@ -61,4 +64,3 @@ Dieser Vorgang ist gewissermaßen _endgültig_, da beim Export alle Schichten ge
 ## Benutzer \| User
 
 Der Benutzer - das bist natürlich Du. Und wir freuen uns, dass Du an Bord bist!
-

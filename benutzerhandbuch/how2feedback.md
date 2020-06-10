@@ -24,7 +24,7 @@ Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 * Kommentare zum _Design_ können gerne gesammelt werden, falls es nicht kritisch ist.
 * _Neue Funktionen_ brauchen ohnehin Zeit zur Umsetzung und können in Ruhe formuliert werden
 
-### **Feedback erreicht uns über** [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
+**Feedback erreicht uns über** [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
 
 Bei Serverfehlern, die zu Beginn durchaus häufiger auftreten können, öffnet sich automatisch ein Fenster, in das man auch direkt einen Fehlerbericht eintragen kann.
 
