@@ -36,13 +36,11 @@ Daraus ergeben sich sehr klare Anforderungen an die Anwendung und an die benöti
 
 ### Test... Test...
 
-Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Deshalb wurde ein "Alpha-Test" mit ausgewählten Benutzer\*innen durchgeführt, um ein erstes Gefühl von Außenstehenden zu bekommen. Danach wird die App für einen größeren Kreis von HiWis in einem offenen "Beta-Test" freigegeben und schließlich allen zur Verfügung gestellt.
+Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Bevor wir also mit Clock Uni-weit durchstarten, werden wir die Anwendung erstmal testen - und dafür ist auch Dein [Feedback](how2feedback.md) wichtig! Nach der Testphase im Sommer 2020 wird Clock allen zur Verfügung gestellt.
 
-Während dieser Beta-Phase werden noch einige Details nachgearbeitet und Funktionen nachgereicht. Wir arbeiten aber schon mit echten Daten und es ist möglich, echte Stundenzettel zu erzeugen. Und vielleicht wird man gar nicht merken, wenn das "Beta" wegfällt.
-
-Dennoch ist Feedback an die Entwickler sehr wichtig - ob es um Fehler oder Verbesserungsvorschläge geht. Im Kapitel [Feedback](how2feedback.md) ist beschrieben, wie ein hilfreiches Feedback aussehen kan.
+Es wird immer wieder dazu kommen, dass einige Details nachgearbeitet und Funktionen nachgereicht werden. Wir arbeiten aber schon mit echten Daten und es ist möglich, echte Stundenzettel zu erzeugen. Und vielleicht wird man gar nicht merken, wenn die Testphase beendet ist.
 
 ## Mitarbeit
 
-Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest \(z.B. eine Übersetzung in eine andere Sprache\), dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
 

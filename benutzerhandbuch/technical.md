@@ -25,7 +25,7 @@ Das Frontend ist mit dem Javascript-Framework [Vue.js](http://vuejs.org) umgeset
 
 Apps verwenden wir \(fast\) alle - auf mobilen oder nichtmobilen Geräten - und da gibt es viele Varianten, die Benutzeroberfläche zu gestalten.
 
-Wir halten uns an die Designsprache [Material Design](http://material.io), die von Google entwickelt wurde und zu einem gewissen Standard im Web und insbesondere auf Android-Geräten geworden ist.
+Wir halten uns weitestgehend an die Designsprache [Material Design](http://material.io), die von Google entwickelt wurde und zu einem gewissen Standard im Web geworden ist.
 
 Diese Richtlinien beschreiben die Darstellung einzelner Komponenten, aber auch die Positionierung von Menüs, Buttons etc. Dabei wird auf Logik, Konsistenz und Klarheit geachtet.
 
@@ -33,5 +33,5 @@ Zur Umsetzung von Material Design in Vue.js kommt die Design-Bibliothek [Vuetify
 
 ## Mitarbeit
 
-Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de).
+Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
 

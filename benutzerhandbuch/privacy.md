@@ -59,9 +59,9 @@ Eigentlich nur Du.
 
 _Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
 
-Es ist prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann. Diese Möglichkeit wird aktuell geprüft.
+Es ist prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann. Diese Möglichkeit wird noch von uns geprüft.
 
-Die Administratoren kontrollieren dann zwar auch die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
+Die Administratoren kontrollieren natürlich die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
 
 ## Kann ich meine Daten einsehen?
 
@@ -71,7 +71,7 @@ Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die
 
 ## Kann ich meine Daten löschen?
 
-Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern sie noch nicht exportiert sind.
+Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
 
 Du kannst alle Daten komplett löschen indem Du Deinen Useraccount löschst bzw. zurücksetzt \("Recht auf Vergessenwerden"\).
 
@@ -83,7 +83,7 @@ Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitsko
 
 Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren. 
 
-Du findest die Funktion in den _Settings_  &gt; _GDPR_, wenn Du auf Deinen Namen klickst.
+Du findest die Funktion in den _Settings_  &gt; _DSGVO_, wenn Du auf Deinen Namen klickst.
 
 ## Kann ich Euch das alles glauben?
 

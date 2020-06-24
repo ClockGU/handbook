@@ -39,7 +39,7 @@ Für Schichten gelten einige Regeln:
 
 Wenn Du eine Schicht über mehrere Tage laufen lässt, erscheint beim Ausclocken ein Dialog und Du musst entscheiden, wie mit den Schichten umgegangen werden soll.
 
-_Aktive_ Schichten sind übrigens Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ hast.
+_Aktive_ Schichten sind übrigens Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ bist.
 
 ## Clocken
 
@@ -52,13 +52,15 @@ _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das beenden o
 
 ## Arbeitszeitkonto \| AZK
 
-Das _Arbeitszeitkonto_ \(AZK\) ist eine vom Gesetzgeber vorgeschriebene Zusammenfassung Deiner geleisteten Arbeitszeit. Das Arbeitszeitkonto unterliegt besonderen Regeln, die von der Clock-Logik automatisch berücksichtigt werden, z.B. wieviele Stunden von einem Monat in den nächsten übertragen werden dürfen etc.
+Das _Arbeitszeitkonto_ \(AZK\) ist eine vom Gesetzgeber vorgeschriebene Zusammenfassung Deiner geleisteten Arbeitszeit. Das Arbeitszeitkonto unterliegt besonderen Regeln, die von der Clock-Logik berücksichtigt werden, z.B. wieviele Stunden von einem Monat in den nächsten übertragen werden dürfen etc.
 
-## Request Report \(Export\)
+## Export \| Report
 
 Der _Export_ erzeugt einen _Stundenzettel_ in Form einer PDF-Datei.
 
-Dieser Vorgang ist gewissermaßen _endgültig_, da beim Export alle Schichten gesperrt werden und nicht mehr nachträglich geändert werden dürfen: der Stundenzettel bezieht sich immer auf einen Monat und ist der finale Zustand der erfassten Arbeitszeiten, der auch so bei der Dienststelle abgegeben wird.
+Da der Stand des AZK auch immer vom vorangegangenen Monat abhängig ist, muss dieser gesperrt werden, um den Stundenzettel für den nächsten Monat exportieren zu können. 
+
+Das Sperren bedeutet: "Ich habe den Zettel abgegeben und will nichts mehr ändern." Dann erst wird der Export des nächsten Monats freigegeben.
 
 ## Benutzer \| User
 
