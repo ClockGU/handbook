@@ -55,7 +55,13 @@ In einem späteren Update wird eine Wiederholungsfunktion das Anlegen regelmäß
 
 Beim Exportieren wird ein Stundenzettel generiert, den Du als PDF herunterladen kannst.
 
-Durch den Export wird der Monat gesperrt und gilt als "abgegeben" - Du kannst dann in diesem Monat keine Schichten mehr ändern.
+Du kannst den Stundenzettel immer wieder neu erzeugen, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
+
+Wenn Der Stundenzettel abgabefertig ist, kannst Du den Monat _sperren_. Dann können keine Schichten mehr verändert werden. 
+
+{% hint style="info" %}
+Um einen Stundenzettel für einen neuen Monat zu exportieren, muss der vorangegangene Monat gesperrt werden. Damit wird sichergestellt, dass der Stundenübertrag richtig berechnet wird.
+{% endhint %}
 
 ## Abmelden
 

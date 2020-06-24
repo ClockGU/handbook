@@ -41,7 +41,6 @@ Wenn Du eine Schicht über mehrere Tage laufen lässt, erscheint beim Ausclocken
 
 _Aktive_ Schichten sind übrigens Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ hast.
 
-
 ## Clocken
 
 _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das beenden oder Starten einer Schicht.
@@ -64,3 +63,4 @@ Dieser Vorgang ist gewissermaßen _endgültig_, da beim Export alle Schichten ge
 ## Benutzer \| User
 
 Der Benutzer - das bist natürlich Du. Und wir freuen uns, dass Du an Bord bist!
+
