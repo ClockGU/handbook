@@ -22,7 +22,7 @@ In Clock hat ein Vertrag zusätzlich einen _Namen_ \(z.B. "Mathe 2 Tutorium"\), 
 Der Vertrag ist die Basis für die Erfassung Deiner Arbeitszeit. Deshalb musst Du immer zuerst einen Vertrag anlegen bevor Du überhaupt Zeiten erfassen kannst.
 {% endhint %}
 
-Du kannst mehrere parallele Verträge mit verschiedenen Dienststellen an der Uni haben. Die gesamte monatliche Arbeitszeit _aller_ Verträge darf nur _80_ Stunden nicht überschreiten \(dann würdest Du Deinen studentischen Status verlieren und steuerlich als "normale" Arbeitnehmer\*in behandelt\).
+Du kannst mehrere parallele Verträge mit verschiedenen Dienststellen an der Uni haben. Die gesamte monatliche Arbeitszeit _aller_ Verträge darf nur _80_ Stunden nicht überschreiten \(dann würdest Du Deinen studentischen Status verlieren und steuerlich als "normale\*r" Arbeitnehmer\*in behandelt\).
 
 Ebenso soll die gesamte monatliche Arbeitszeit _aller_ Verträge nicht weniger als _20_ Stunden betragen, wobei hier Ausnahmen möglich sind. Ein einzelner Vertrag kann im Prinzip jede Stundenzahl haben, sofern die genannten Randbedingungen eingehalten werden.
 
@@ -60,7 +60,7 @@ Der _Export_ erzeugt einen _Stundenzettel_ in Form einer PDF-Datei.
 
 Da der Stand des AZK auch immer vom vorangegangenen Monat abhängig ist, muss dieser gesperrt werden, um den Stundenzettel für den nächsten Monat exportieren zu können. 
 
-Das Sperren bedeutet: "Ich habe den Zettel abgegeben und will nichts mehr ändern." Dann erst wird der Export des nächsten Monats freigegeben.
+Das Sperren bedeutet: "Ich habe den Zettel abgegeben und will nichts mehr ändern." Dann erst kannst Du Stundenzettel für den nächsten Monats exportieren.
 
 ## Benutzer \| User
 

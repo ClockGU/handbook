@@ -4,7 +4,7 @@ description: Clock-Arbeitsabläufe
 
 # Schnelleinstieg
 
-Die Arbeit mit Clock ist sehr einfach, aber vielleicht findest Du sie nicht ganz selbsterklärend. Darum haben wir den Ablauf der wichtigsten Tätigkeiten hier zusammengestellt.
+Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz selbsterklärend. Darum haben wir den Ablauf der wichtigsten Tätigkeiten hier zusammengestellt.
 
 ## Anmelden
 

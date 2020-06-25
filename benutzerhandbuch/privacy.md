@@ -51,7 +51,7 @@ Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider
 
 ## Wo liegen meine Daten?
 
-Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum.
+Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum, der vom Clock-Team administriert wird.
 
 ## Wer kann meine Daten einsehen?
 
@@ -59,9 +59,9 @@ Eigentlich nur Du.
 
 _Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
 
-Es ist prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann. Diese Möglichkeit wird noch von uns geprüft.
+Es ist zwar prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann, dies ist jedoch ein Aufwand, der auch von anderen Diensten selten betrieben wird, da die üblichen Sicherheitsrichtlinien einen ausreichenden Datenschutz gewährleisten.
 
-Die Administratoren kontrollieren natürlich die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
+Die Möglichkeit einer Verschlüsselung wird aber noch von uns geprüft. Die Administratoren kontrollieren natürlich die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
 
 ## Kann ich meine Daten einsehen?
 
@@ -73,7 +73,7 @@ Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die
 
 Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
 
-Du kannst alle Daten komplett löschen indem Du Deinen Useraccount löschst bzw. zurücksetzt \("Recht auf Vergessenwerden"\).
+Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Natürlich hat das keinen Einfluss auf Deinen HRZ-Account.
 
 {% hint style="info" %}
 Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitskopien erhalten. Bei der Wiederherstellung des Systems nach einem Datenverlust werden Deine gelöschten Daten nicht wiederhergestellt.
@@ -83,7 +83,7 @@ Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitsko
 
 Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren. 
 
-Du findest die Funktion in den _Settings_  &gt; _DSGVO_, wenn Du auf Deinen Namen klickst.
+Du findest die Funktion in den _Settings_  &gt; _DSGVO_, wenn Du oben  auf Deinen Namen klickst.
 
 ## Kann ich Euch das alles glauben?
 
