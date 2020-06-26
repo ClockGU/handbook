@@ -16,7 +16,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 * die Daten Deines Benutzerkontos:
   * Login-Name\*
-  * HRZ-Mailadresse
+  * HRZ-Mailadresse\**
   * Vor- und Nachname
   * Statusgruppe \(`student` oder `employee`\)
   * Personalnummer \(die bekommst Du von der Uni - sie steht z.B. auf Deinen Gehaltsabrechnungen\)
@@ -44,6 +44,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
 _\*\) Clock speichert Dein Passwort nicht - die Anmeldung läuft über einen Server beim HRZ._
+_\*\*\) Deine Mailadresse wird uns vom HRZ-Login-Server geliefert und unterscheidet sich von Deiner gewohnten Adresse entspricht; Deine @stud-Adresse ist nämlich ein so genannter_ Alias _._
 
 ## Welche anderen Daten werden noch gespeichert?
 
@@ -73,10 +74,12 @@ Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die
 
 Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
 
-Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Natürlich hat das keinen Einfluss auf Deinen HRZ-Account.
+Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestägigung musst Du dafür Deine Mailadresse eingeben. Du musst Dich nicht wundern, wenn diese anders aussieht als Deine gewohnte Adresse: @stud Adressen sind so genannte _Aliasse_ und verweisen auf Deine "wahre" Adresse. 
+
+Natürlich hat das Löschen des Clock-Accounts keinen Einfluss auf Deinen HRZ-Account.
 
 {% hint style="info" %}
-Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitskopien erhalten. Bei der Wiederherstellung des Systems nach einem Datenverlust werden Deine gelöschten Daten nicht wiederhergestellt.
+Aus technischen Gründen bleiben die Daten in den Sicherheitskopien erhalten. Bei der Wiederherstellung des Systems nach einem Datenverlust werden Deine gelöschten Daten aber nicht wiederhergestellt.
 {% endhint %}
 
 ## Darf ich meine Daten haben?
