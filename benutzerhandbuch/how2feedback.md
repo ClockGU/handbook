@@ -9,16 +9,16 @@ Besonders während der Testphase benötigen wir Eure Rückmeldung, damit
 * ...wir Fehler finden können, die uns bislang nicht aufgefallen sind.
 * ...wir eine Rückmeldung über die Benutzung "von außen" bekommen.
 * ...wir ein Gespür dafür kommen, ob der Dienst leistet, was er soll und ob wir noch nachbessern müssen.
-* ...wir uns auch über positives Feedback freuen! \(gerne auch über positives...\)
+* ...wir uns auch über Feedback freuen! \(gerne auch über positives...\)
 
 Dafür kannst Du das Feedback-Formular nutzen, das immer links unten zu finden ist. Das Feedback wird automatisch mit Deiner HRZ-Mailadresse verknüpft, so dass wir auch Kontakt zu Dir aufnehmen können.
 
 Wir unterteilen Feedback in vier Kategorien:
 
 1. [Fehler melden](how2feedback.md#1.-Bugs) \(superwichtig!\)
-2. [Verbesserung vorschlagen](how2feedback.md#2.-Bedienung) \(superhilfreich\)
-3. [Frage](how2feedback.md#3.-Design) \(supersinnvoll\)
-4. [Allgemein](how2feedback.md#4.-neue-Funktionen) \(supergeil\)
+2. [Verbesserung vorschlagen](how2feedback.md#2.-Bedienung) \(superhilfreich!\)
+3. [Frage](how2feedback.md#3.-Design) \(supersinnvoll!\)
+4. [Allgemein](how2feedback.md#4.-neue-Funktionen) \(supergeil!\)
 
 Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 
@@ -46,26 +46,22 @@ Wichtig ist eine möglichst präzise Beschreibung:
 
 Wir haben uns zwar sehr viele Gedanken über den Funktionsumfang von Clock gemacht - aber vielleicht auch nicht an alles gedacht. 
 
-Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher macher können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch eine anderes Design sein.
-
-Wir verwenden hier die Begriffe **UX** für "User eXperience" - also die Erfahrung, die Du als Nutzer\*in machst - und **UI** für "User Interface" - also die Benutzeroberfläche einer Anwendung.
-
-Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet ist, dann ist das ein Grund, UI und UX zu verbessern:
+Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher macher können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch eine anderes Design sein. Du kannst Dich an folgenden Fragen orientieren:
 
 * Welchen Ablauf erwarte ich? An welcher Position erwarte ich ein Bedienelement?
 * Hat mich eine Funktion/ein Ablauf verwirrt? Ist die Bedienung unlogisch?
 * Was könnte besser aussehen? Welche Farben wären besser geeignet?
-* ggf. gibt es Beispiele aus anderen Apps/Websites, die schöner aussehen \(pöh!\)
+* gibt es Beispiele aus anderen Apps/Websites, die schöner aussehen? \(pöh!\)
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
+Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#Design)\) und andere durchdachte Richtlinien in Bezug auf Oberfläche und Benutzerinteraktion. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
 {% endhint %}
 
 ## 3. Fragen
 
 Natürlich kannst Du auch einfach eine Frage stellen - und dazu wollen wir Dich ermuntern! Es ist ja außerdem oft so, dass andere die gleiche Frage haben - und dann ist es gut, wenn sie einmal gestellt wird. Dann kann man sie gleich für alle beantworten - oder vielleicht etwas am Programm verbessern.
 
-Wir haben auch eine FAQ-Sektion im nächsten Abschnitt, in dem wir allgemeine Fragen sammeln können. Vielleicht taucht eine neue Frage, die Du gestellt hast, dann auch dort auf?
+Wir haben auch eine [FAQ](faq.md)-Sektion im nächsten Abschnitt, in dem wir allgemeine Fragen sammeln können. Vielleicht taucht eine neue Frage, die Du gestellt hast, dann auch dort auf?
 
 ## 4. Allgemeines Feedback
 

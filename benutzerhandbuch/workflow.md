@@ -10,7 +10,7 @@ Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz
 
 Die Anmeldung erfolgt mit Deinem HRZ-Account.
 
-Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock den Login mit Deinem Nutzerkonto erlauben musst. Danach wirst Du bei Clock angemeldet.
+Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, sich über Dein HRZ-Konto zu authentifizieren.
 
 {% hint style="info" %}
 Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 30 Tage angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt\). Nach Ablauf dieser Zeit musst Du Dich wieder bei der Uni authentifizieren.
@@ -21,6 +21,8 @@ Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 30 Tage angemeldet, 
 Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract_\) anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags, wenn Du noch keinen hast.
 
 Wenn Du bereits einen Vertrag \(oder mehrere\) angelegt hast, wirst Du immer auf den zuletzt bearbeiteten Vertrag weitergeleitet.
+
+Falls Du Deine Personalnummer gerade nicht zur Hand hast \(sie steht auf Deinen Gehaltsabrechnungen\), kannst Du die Eingabe überspringen. Du wirst dann beim ersten Stundenzettel-Export nochmals nach der Nummer gefragt oder kannst Sie in den `Einstellungen` eingeben.
 
 ## Clocken
 
@@ -69,7 +71,7 @@ Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kan
 
 Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 30 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
 
-An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
+An fremden Rechnern und Geräten solltest Du Dich übrigens **immer** abmelden.
 
 Aktive Schichten laufen übrigens weiter, wenn Du abgemeldet bist!
 

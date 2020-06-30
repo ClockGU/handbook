@@ -8,7 +8,7 @@ Clock ist eine _Web-App,_ die aus verschiedenen Komponenten besteht:
 
 ### Backend
 
-Das, was die Benutzer\*innen nicht zu sehen bekommen. Dazu gehören:
+Das, was die Benutzer\*innen _nicht_ zu sehen bekommen. Dazu gehören:
 
 * die Datenbank \(in der alle Daten gespeichert werden\)
 * die Schnittstelle \(über die man Daten auslesen und speichern kann\) 

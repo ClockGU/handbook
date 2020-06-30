@@ -37,9 +37,11 @@ Für Schichten gelten einige Regeln:
 * Eine Schicht darf beliebig kurz sein.
 * Eine Schicht gehört immer zu einem festen Datum. Wenn Du über Mitternacht hinweg arbeitest, macht Clock daraus 2 Schichten.
 
-Wenn Du eine Schicht über mehrere Tage laufen lässt, erscheint beim Ausclocken ein Dialog und Du musst entscheiden, wie mit den Schichten umgegangen werden soll.
+{% hint style="info" %}
+Wenn Du eine Schicht über Nacht oder mehrere Tage laufen lässt, erscheint beim Ausclocken ein Dialog und Du musst entscheiden, wie mit den Schichten umgegangen werden soll.
+{% endhint %}
 
-_Aktive_ Schichten sind übrigens Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ bist.
+_Aktive_ Schichten bezeichnen Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ bist. Aktive Schichten können immer direkt gelöscht werden, falls Du versehentlich eingeclockt hast.
 
 ## Clocken
 
@@ -48,7 +50,7 @@ _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das beenden o
 * _Einclocken_ \(`Clock in`\) beginnt eine Schicht.
 * _Ausclocken_ \(`Clock out`\) beendet eine Schicht.
 
-`Clock in` / `Clock out` ist immer auf dem Dashboard zu finden. Wenn eine Schicht _aktiv_ ist, wird Dir die aktuelle Laufzeit angezeigt. Du kannst eine laufende Schicht beenden, um sie zu speichern, oder auch ganz löschen.
+`Clock in` / `Clock out` ist immer auf dem _Dashboard_ zu finden. Wenn eine Schicht _aktiv_ ist, wird Dir die aktuelle Laufzeit angezeigt. Du kannst eine laufende Schicht beenden, um sie zu speichern, oder auch ganz löschen.
 
 ## Arbeitszeitkonto \| AZK
 

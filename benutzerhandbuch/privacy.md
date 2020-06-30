@@ -16,10 +16,10 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 * die Daten Deines Benutzerkontos:
   * Login-Name\*
-  * HRZ-Mailadresse\**
+  * HRZ-Mailadresse\*\*
   * Vor- und Nachname
   * Statusgruppe \(`student` oder `employee`\)
-  * Personalnummer \(die bekommst Du von der Uni - sie steht z.B. auf Deinen Gehaltsabrechnungen\)
+  * Personalnummer \(die bekommst Du von der Uni\)
   * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
   * Datum der letzten Änderung am Benutzerkonto
 * die Daten für jeden Vertrag, den Du in Clock angelegt hast
@@ -44,7 +44,8 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
 _\*\) Clock speichert Dein Passwort nicht - die Anmeldung läuft über einen Server beim HRZ._
-_\*\*\) Deine Mailadresse wird uns vom HRZ-Login-Server geliefert und unterscheidet sich von Deiner gewohnten Adresse entspricht; Deine @stud-Adresse ist nämlich ein so genannter_ Alias _._
+
+_\*\*\) Deine Mailadresse wird uns vom HRZ-Login-Server geliefert und unterscheidet sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Namen \(Alias\) ist._
 
 ## Welche anderen Daten werden noch gespeichert?
 
@@ -56,13 +57,11 @@ Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum, der vom Cl
 
 ## Wer kann meine Daten einsehen?
 
-Eigentlich nur Du. 
+Eigentlich nur Du.
 
 _Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
 
-Es ist zwar prinzipiell möglich, alle Daten in der Datenbank zu verschlüsseln, so dass man nicht einfach Informationen im Klartext anschauen kann, dies ist jedoch ein Aufwand, der auch von anderen Diensten selten betrieben wird, da die üblichen Sicherheitsrichtlinien einen ausreichenden Datenschutz gewährleisten.
-
-Die Möglichkeit einer Verschlüsselung wird aber noch von uns geprüft. Die Administratoren kontrollieren natürlich die Verschlüsselung und können - _theoretisch_ - auch die gespeicherten Daten wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen.
+Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen!
 
 ## Kann ich meine Daten einsehen?
 
@@ -74,7 +73,7 @@ Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die
 
 Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
 
-Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestägigung musst Du dafür Deine Mailadresse eingeben. Du musst Dich nicht wundern, wenn diese anders aussieht als Deine gewohnte Adresse: @stud Adressen sind so genannte _Aliasse_ und verweisen auf Deine "wahre" Adresse. 
+Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestätigung musst Du dafür Deine Mailadresse eingeben. Diese sieht evtl. anders aus als Deine gewohnte Adresse, weil @stud-Adressen so genannte _Aliasse_ \(alternative Namen\) sind.
 
 Natürlich hat das Löschen des Clock-Accounts keinen Einfluss auf Deinen HRZ-Account.
 
@@ -84,15 +83,15 @@ Aus technischen Gründen bleiben die Daten in den Sicherheitskopien erhalten. Be
 
 ## Darf ich meine Daten haben?
 
-Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren. 
+Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren.
 
-Du findest die Funktion in den _Settings_  &gt; _DSGVO_, wenn Du oben  auf Deinen Namen klickst.
+Du findest die Funktion in den _Settings_ &gt; _DSGVO_, wenn Du oben auf Deinen Namen klickst.
 
 ## Kann ich Euch das alles glauben?
 
 Clock ist ein Projekt von Studis für Studis - das haben wir bei den Vereinbarungen mit den offiziellen Stellen der Uni \(PersonalServices\) auch immer wieder klar gemacht.
 
-Außerdem ist Clock _Open Source_: Alle funktionalen Programmteile und Informationen sind öffentlich und können von Menschen mit Programmierkenntnissen nachvollzogen werden.
+Außerdem ist Clock _Open Source_: Alle funktionalen Programmteile und Informationen sind öffentlich und können von Menschen mit entsprechenden Programmierkenntnissen nachvollzogen werden.
 
 Aber natürlich geht es hier um Vertrauen. Du bist jederzeit eingeladen, mit uns direkt ins Gespräch zu kommen: [clock-kontakt@dlist.uni-frankfurt.de](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/clock-kontakt@dlist.uni-frankfurt.de) oder im [Rocketchat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user) der Uni.
 
