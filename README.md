@@ -1,6 +1,6 @@
 # Über das Projekt
 
-![Clock Logo](.gitbook/assets/clock_current_logo_600x150.png)
+![](.gitbook/assets/clock_current_logo_600x150.png)
 
 ## Arbeitszeitdokumentation einfach EINFACH
 
@@ -11,4 +11,6 @@ Diese Seiten dienen vorerst als Handbuch. Später werden die Inhalte auch innerh
 {% hint style="info" %}
 Clock "spricht" aktuell englisch und deutsch - nur ein englisches Handbuch haben wir derzeit noch nicht. Wenn Du mithelfen möchtest, Clock in andere Sprachen zu übersetzen, kannst Du Dich gerne bei uns melden: [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
 {% endhint %}
+
+Clock findest Du unter [clock.uni-frankfurt.de](http://clock.uni-frankfurt.de)
 
