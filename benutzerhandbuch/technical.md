@@ -35,5 +35,5 @@ Zur Umsetzung von Material Design in Vue.js kommt die Design-Bibliothek [Vuetify
 
 Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
 
-Der Source Code von Clock "lebt" auf Github: [https://github.com/ClockGU](https://github.com/ClockGU)
+Der Source Code von Clock "lebt" auf Github: [https://github.com/ClockGU](https://github.com/ClockGU).
 
