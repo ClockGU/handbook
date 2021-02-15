@@ -40,7 +40,7 @@ Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine
 
 ### It's alive!
 
-Im Herbst 2020 haben wir schließlich beschlossen, Clock allen zur Verfügung zu stellen - und Clock einfach bei den Formularen für Hilfskräfte verlinkt. Seither haben wir eine stetig steigende Benutzerzahl und werden das Produkt stärker bewerben.
+Im Herbst 2020 haben wir schließlich beschlossen, Clock allen zur Verfügung zu stellen - und Clock einfach bei den Formularen für Hilfskräfte verlinkt. Seither haben wir eine stetig steigende Benutzerzahl und werden das Produkt demnächst auch stärker bewerben.
 
 Es wird immer wieder dazu kommen, dass einige Details nachgearbeitet und Funktionen nachgereicht werden - und auch, dass mal etwas nicht perfekt funktioniert. Dafür ist auch Dein [Feedback](how2feedback.md) wichtig!
 
