@@ -20,9 +20,15 @@ Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account
 
 **A** \| Clock ist ein Service von HiWis für HiWis. Er wird von der Goethe-Uni unterstützt, aber nicht kontrolliert.
 
-## Q \|  Clocken? Verträge? Schichten? Reports? Hä?
+## Q \|  Clocken? Verträge? Schichten? Hä?
 
 **A** \| Clock verwendet ein paar besondere Begriffe, die [hier](terminology.md) genauer erklärt sind.
+
+## Q \|  Ich kann keinen Stundenzettel anfordern!
+
+**A** \| Wahrscheinlich hast Du den vorangegangenen Monat noch nicht _gesperrt_. Das ist notwendig, damit die Berechnung konsistent bleibt.
+
+Du kannst einen Monat erst anfordern wenn der vorangegangene Monat gesperrt ist.
 
 ## Q \|  Wer kann meine Daten sehen?
 

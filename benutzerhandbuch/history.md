@@ -6,7 +6,7 @@ description: Zur Geschichte von Clock
 
 ## History
 
-Die Idee von Clock gibt es schon seit etwa 2014. Damals wurden die monatlichen Stundenzettel neu eingeführt und das war ziemlich anstrengend und umständlich, denn alles musste von Hand eingetragen werden.
+Die Idee von Clock entstand ca. 2014 am [Zentrum Naturwissenschaften](https://www.starkerstart.uni-frankfurt.de/38922940/ZNWK). Damals wurden die monatlichen Stundenzettel neu eingeführt und das war ziemlich anstrengend und umständlich, denn alles musste von Hand eingetragen werden.
 
 #### Beginnings
 
@@ -18,7 +18,7 @@ Also ergab sich daraus das Vorhaben, eine Web-Anwendung zu bauen, die genau das 
 
 Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Fehler und war daher immer ganz knapp vor dem Punkt, an dem man das Produkt hätte richtig veröffentlichen können.
 
-Als dann Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
+Als dann das Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
 
 Außerdem hatten sich die gesammelten Programmierkenntnisse weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
 

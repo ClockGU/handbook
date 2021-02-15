@@ -4,7 +4,7 @@ description: Wie sieht gutes Feedback aus?
 
 # Feedback
 
-Besonders während der Testphase benötigen wir Eure Rückmeldung, damit
+Wir benötigen Eure Rückmeldung damit
 
 * ...wir Fehler finden können, die uns bislang nicht aufgefallen sind.
 * ...wir eine Rückmeldung über die Benutzung "von außen" bekommen.
@@ -12,6 +12,10 @@ Besonders während der Testphase benötigen wir Eure Rückmeldung, damit
 * ...wir uns auch über Feedback freuen! \(gerne auch über positives...\)
 
 Dafür kannst Du das Feedback-Formular nutzen, das immer links unten zu finden ist. Das Feedback wird automatisch mit Deiner HRZ-Mailadresse verknüpft, so dass wir auch Kontakt zu Dir aufnehmen können.
+
+Natürlich kannst Du uns einfach schreiben - wenn Du es besonders gut machen willst, folgen ein paar Hinweise, wie Dein Feedback besonders hilfreich ist und gut weiterverarbeitet werden kann.
+
+## Feedback "für Streber"
 
 Wir unterteilen Feedback in vier Kategorien:
 
@@ -24,8 +28,8 @@ Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 
 * **Fehler** \("Bugs"\) sollten **sofort** und auch gerne kleinteilig gemeldet werden.
 * Verbesserungen dürfen gerne ausführlich und auch subjektiv beschrieben werden.
-* Fragen darfst Du immer stellen, wenn etwas unklar ist
-* Allgemeines Feedback ist vor allem Lob und Kritik - oder wenn Du Dir nicht sicher bist
+* Fragen darfst Du immer stellen, wenn etwas unklar ist.
+* Allgemeines Feedback ist vor allem Lob und Kritik - oder wenn Du Dir nicht sicher bist.
 
 Feedback erreicht uns ansonsten auch per Mail über [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder per [RocketChat \(clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user)\).
 
@@ -40,13 +44,13 @@ Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn fal
 Wichtig ist eine möglichst präzise Beschreibung:
 
 * bei welcher Aktion trat der Fehler auf?
-* was hätte passieren soll/was funktioniert nicht?
+* was hätte passieren sollen/was funktioniert nicht?
 
 ## 2. Verbesserung vorschlagen 
 
 Wir haben uns zwar sehr viele Gedanken über den Funktionsumfang von Clock gemacht - aber vielleicht auch nicht an alles gedacht. 
 
-Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher macher können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch eine anderes Design sein. Du kannst Dich an folgenden Fragen orientieren:
+Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher machen können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch ein anderes Design sein. Du kannst Dich an folgenden Fragen orientieren:
 
 * Welchen Ablauf erwarte ich? An welcher Position erwarte ich ein Bedienelement?
 * Hat mich eine Funktion/ein Ablauf verwirrt? Ist die Bedienung unlogisch?
@@ -59,7 +63,7 @@ Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empf
 
 ## 3. Fragen
 
-Natürlich kannst Du auch einfach eine Frage stellen - und dazu wollen wir Dich ermuntern! Es ist ja außerdem oft so, dass andere die gleiche Frage haben - und dann ist es gut, wenn sie einmal gestellt wird. Dann kann man sie gleich für alle beantworten - oder vielleicht etwas am Programm verbessern.
+Natürlich kannst Du auch einfach eine Frage stellen - und dazu wollen wir Dich ermuntern! Es ist ja außerdem oft so, dass andere die gleiche Frage haben - und dann ist es gut, wenn sie einmal gestellt wird. Dann kann man sie gleich für alle beantworten oder vielleicht etwas am Programm verbessern.
 
 Wir haben auch eine [FAQ](faq.md)-Sektion im nächsten Abschnitt, in dem wir allgemeine Fragen sammeln können. Vielleicht taucht eine neue Frage, die Du gestellt hast, dann auch dort auf?
 

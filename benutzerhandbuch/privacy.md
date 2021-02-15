@@ -49,7 +49,7 @@ _\*\*\) Deine Mailadresse wird uns vom HRZ-Login-Server geliefert und unterschei
 
 ## Welche anderen Daten werden noch gespeichert?
 
-Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch vom Clock-Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese werden aber nicht in der Clock-Datenbank gespeichert.
+Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch vom Clock-Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese Daten werden aber nicht in der Clock-Datenbank gespeichert.
 
 ## Wo liegen meine Daten?
 
@@ -59,13 +59,13 @@ Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum, der vom Cl
 
 Eigentlich nur Du.
 
-_Eigentlich_ deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
+"Eigentlich" __deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
 
-Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden. Versprochen!
+Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden.
 
 ## Kann ich meine Daten einsehen?
 
-Prinzipiell enthält Clock nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder live-clocken von Schichten. Diese kannst Du immer einsehen.
+Clock enthält nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder live-Clocken von Schichten. Diese kannst Du immer einsehen.
 
 Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die, die Du nicht ändern kannst\).
 
@@ -81,11 +81,15 @@ Natürlich hat das Löschen des Clock-Accounts keinen Einfluss auf Deinen HRZ-Ac
 Aus technischen Gründen bleiben die Daten in den Sicherheitskopien erhalten. Bei der Wiederherstellung des Systems nach einem Datenverlust werden Deine gelöschten Daten aber nicht wiederhergestellt.
 {% endhint %}
 
+{% hint style="danger" %}
+Ein gelöschter Account kann nicht wieder hergestellt werden!
+{% endhint %}
+
 ## Darf ich meine Daten haben?
 
 Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren.
 
-Du findest die Funktion in den _Settings_ &gt; _DSGVO_, wenn Du oben auf Deinen Namen klickst.
+Du findest die Funktion in den _Einstellungen_ &gt; _DSGVO_, wenn Du oben auf Deinen Namen klickst.
 
 ## Kann ich Euch das alles glauben?
 
