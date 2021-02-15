@@ -13,3 +13,7 @@
 * [Zur Geschichte](benutzerhandbuch/history.md)
 * [Zur Technik](benutzerhandbuch/technical.md)
 
+---
+
+* [Changelog](changelog.md)
+
