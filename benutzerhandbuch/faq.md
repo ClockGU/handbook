@@ -28,7 +28,7 @@ Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account
 
 **A** \| Du und die Clock-Admins, die sich aber nicht um Deine Daten, sondern um das System kümmern.
 
-"Die Uni" \(Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast _nachdem_ Du ihn exportiert und \(auf Papier\) abgegeben hast.
+"Die Uni" \(= Deine Dienststelle, also Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast _nachdem_ Du ihn exportiert und \(auf Papier\) abgegeben hast.
 
 ## Q \| Wie ist das mit dem Datenschutz?
 

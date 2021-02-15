@@ -36,9 +36,13 @@ Daraus ergeben sich sehr klare Anforderungen an die Anwendung und an die benöti
 
 ### Test... Test...
 
-Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Bevor wir also mit Clock Uni-weit durchstarten, werden wir die Anwendung erstmal testen - und dafür ist auch Dein [Feedback](how2feedback.md) wichtig! Nach der Testphase im Sommer 2020 wird Clock allen zur Verfügung gestellt.
+Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine Fehler produziert und überhaupt benutzbar ist. Bevor wir also mit Clock Uni-weit durchstarten, wurde die Anwendung erstmal getestet - auch wenn es schwierig war, genügend HiWis dazu zu überreden, ein halbfertiges Produkt ernsthaft zu nutzen.
 
-Es wird immer wieder dazu kommen, dass einige Details nachgearbeitet und Funktionen nachgereicht werden. Wir arbeiten aber schon mit echten Daten und es ist möglich, echte Stundenzettel zu erzeugen. Und vielleicht wird man gar nicht merken, wenn die Testphase beendet ist.
+### It's alive!
+
+Im Herbst 2020 haben wir schließlich beschlossen, Clock allen zur Verfügung zu stellen - und Clock einfach bei den Formularen für Hilfskräfte verlinkt. Seither haben wir eine stetig steigende Benutzerzahl und werden das Produkt stärker bewerben.
+
+Es wird immer wieder dazu kommen, dass einige Details nachgearbeitet und Funktionen nachgereicht werden - und auch, dass mal etwas nicht perfekt funktioniert. Dafür ist auch Dein [Feedback](how2feedback.md) wichtig!
 
 ## Mitarbeit
 
