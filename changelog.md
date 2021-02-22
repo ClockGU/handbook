@@ -38,6 +38,14 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 * korrekte Berücksichtigung des Vertragsendes
 * Korrekturen und Übersetzungen in Anzeigetexten
 * kleinere Verbesserungen und Fehlerkorrekturen
+* an Schichten vergebene Tags können auch wieder gelöscht werden
+
+## Fix 2021.02a
+
+#### Fehlerbehebungen 
+
+* Der Download der in Clock gespeicherten Daten \(nach DSGVO / GDPR\) funktioniert nun für alle User
+* korrekte Berechnung von Schichten, die in einen anderen Vertrag verschoben wurden
 
 
 
