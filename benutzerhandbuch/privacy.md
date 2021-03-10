@@ -18,8 +18,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
   * Login-Name\*
   * HRZ-Mailadresse\*\*
   * Vor- und Nachname
-  * Statusgruppe \(`student` oder `employee`\)
-  * Personalnummer \(die bekommst Du von der Uni\)
+  * Personalnummer \(die erhältst Du von der Uni\)
   * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
   * Datum der letzten Änderung am Benutzerkonto
 * die Daten für jeden Vertrag, den Du in Clock angelegt hast
@@ -43,9 +42,9 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
-_\*\) Clock speichert Dein Passwort nicht - die Anmeldung läuft über einen Server beim HRZ._
+_\*\) Clock speichert Dein Passwort nicht - die Anmeldung läuft über einen Server beim HRZ \(CAS - Central Authentification Service\)_
 
-_\*\*\) Deine Mailadresse wird uns vom HRZ-Login-Server geliefert und unterscheidet sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Namen \(Alias\) ist._
+_\*\*\) Deine Mailadresse wird uns vom HRZ-CAS-Server geliefert und unterscheidet sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Namen \(Alias\) ist._
 
 ## Welche anderen Daten werden noch gespeichert?
 
