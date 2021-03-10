@@ -16,8 +16,8 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 * die Daten Deines Benutzerkontos:
   * Login-Name\*
-  * HRZ-Mailadresse\*\*
-  * Vor- und Nachname
+  * HRZ-Mailadresse\*
+  * Vor- und Nachname\*
   * Personalnummer \(die erhältst Du von der Uni\)
   * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
   * Datum der letzten Änderung am Benutzerkonto
@@ -42,13 +42,17 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
-_\*\) Clock speichert Dein Passwort nicht - die Anmeldung läuft über einen Server beim HRZ \(CAS - Central Authentification Service\)_
+_\*\) Diese Daten erhalten wir vom Zentralen Authentifizierungsdienst \(CAS\) des Hochschulrechenzentrums. Dein HRZ-Passwort wird in Clock_ nicht _gespeichert._ 
 
-_\*\*\) Deine Mailadresse wird uns vom HRZ-CAS-Server geliefert und unterscheidet sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Namen \(Alias\) ist._
+_Hinweis: Da uns Deine Mailadresse vom HRZ-CAS-Server geliefert wird, unterscheidet sie sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Name \(Alias\) ist. Die bei uns gespeicherte Adresse hat die Form &lt;nutzername&gt;@uni-frankfurt.de_
 
 ## Welche anderen Daten werden noch gespeichert?
 
 Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch vom Clock-Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese Daten werden aber nicht in der Clock-Datenbank gespeichert.
+
+Die Anmeldung bei Clock wird über den Zentralen Authentifizierungsdienst \(CAS\) des Hochschulrechenzentrums abgewickelt, der bei der erfolgreichen Anmeldung ein Cookie in Deinem Browser gesetzt.
+
+Clock setzt keine Cookies, nutzt aber den lokalen Speicher __\(local Storage\) deines Browsers, um dort ein Anmelde-Token abzulegen. Beim Besuch von Clock wird beim CAS nachgefragt, ob die Token gültig sind und du ordnungsgemäß angemeldet bist. Wenn nicht, musst Dich erneut beim CAS-Server anmelden.
 
 ## Wo liegen meine Daten?
 
