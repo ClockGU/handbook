@@ -4,15 +4,15 @@
 
 ## Benutzerhandbuch
 
-- [Einleitung](de/intro.md)
-- [Schnelleinstieg](de/workflow.md)
-- [Begriffe](de/terminology.md)
-- [Datenschutz](de/privacy.md)
-- [Feedback](de/how2feedback.md)
-- [Häufige Fragen](de/faq.md)
-- [Zur Geschichte](de/history.md)
-- [Zur Technik](de/technical.md)
+- [Einleitung](en/intro.md)
+- [Schnelleinstieg](en/workflow.md)
+- [Begriffe](en/terminology.md)
+- [Datenschutz](en/privacy.md)
+- [Feedback](en/how2feedback.md)
+- [Häufige Fragen](en/faq.md)
+- [Zur Geschichte](en/history.md)
+- [Zur Technik](en/technical.md)
 
 ---
 
-- [Changelog](changelog.md)
+- [Changelog](en/changelog.md)

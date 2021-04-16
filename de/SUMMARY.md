@@ -15,4 +15,4 @@
 
 ---
 
-- [Changelog](changelog.md)
+- [Changelog](de/changelog.md)
