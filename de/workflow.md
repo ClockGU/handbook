@@ -10,6 +10,10 @@ Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz
 
 Die Anmeldung erfolgt mit Deinem HRZ-Account.
 
+{% hint style="info" %}
+Wir empfehlen Dir, Deinen studentischen Account (s1234567) zu benutztn und nicht Dinen Dienstaccount, falls Du einen hast. Dein Dienstaccount wird sofort nach Vertragsende ungültig und Du kannst Clock nicht mehr benutzen.
+{% endhint %}
+
 Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, Dich über Dein HRZ-Konto zu authentifizieren.
 
 {% hint style="info" %}
@@ -20,7 +24,7 @@ Du kannst auf mehreren Geräten gleichzeitig eingeloggt sein. Du musst Dich jedo
 
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract\)_ anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags, wenn Du noch keinen hast.
+Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract\)_ anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags.
 
 Wenn Du bereits einen Vertrag \(oder mehrere\) angelegt hast, wirst Du immer auf den zuletzt bearbeiteten Vertrag weitergeleitet. Wenn Du die Ansicht wechselst, bleibst Du im jeweils ausgewählten Vertrag.
 
@@ -32,8 +36,8 @@ Nach dem erstmaligen Anlegen eines Vertrags musst Du die Einwilligung dazu geben
 
 ## Clocken
 
-* Um eine Schicht zu starten, wählst Du den passenden Vertrag aus und startest die Zeiterfassung mit dem Button `Einclocken`. Die aktuelle Laufzeit der Schicht wird Dir angezeigt.
-* Eine laufende \(_aktive_\) Schicht wird mit dem gleichen Button wieder gestoppt.
+- Um eine Schicht zu starten, wählst Du den passenden Vertrag aus und startest die Zeiterfassung mit dem Button `Einclocken`. Die aktuelle Laufzeit der Schicht wird Dir angezeigt.
+- Eine laufende \(_aktive_\) Schicht wird mit dem gleichen Button wieder gestoppt.
 
 {% hint style="info" %}
 Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken \(nachdem Du zur U-Bahn gerannt bist...\). Eventuell musst Du die Seite neu laden, um den aktuellen Stand einer laufenden Schicht zu sehen.
@@ -67,7 +71,7 @@ Um eine Schicht zu überprüfen musst Du sie zum Bearbeiten öffnen und kannst d
 
 ## Stundenzettel exportieren
 
-Du kannst zu einem Monat einen Stundenzettel `anfordern` und dann herunterladen. 
+Du kannst zu einem Monat einen Stundenzettel `anfordern` und dann herunterladen.
 
 Du kannst den Stundenzettel immer wieder neu erzeugen, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
 
@@ -86,4 +90,3 @@ Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem ak
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
 Aktive Schichten laufen übrigens weiter, wenn Du abgemeldet bist!
-
