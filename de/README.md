@@ -2,8 +2,6 @@
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
 
---> [English Reading Version](en/README.md)
-
 ## Arbeitszeitdokumentation einfach EINFACH
 
 Das Projekt ClockGU stellt eine Softwarelösung \(**Clock**\) zur Verfügung, die Hilfskräften an der Goethe-Universität die Führung des Arbeitszeitkontos \(AZK\) nach den Maßgaben der aktuellen gesetzlichen Regelungen im Rahmen des Gesetzes zur Regelung eines allgemeinen Mindestlohns \(MiLoG\) erleichtern soll.
@@ -17,3 +15,4 @@ Clock "spricht" aktuell englisch und deutsch - nur ein englisches Handbuch haben
 {% endhint %}
 
 Clock findest Du unter [clock.uni-frankfurt.de](http://clock.uni-frankfurt.de)
+
