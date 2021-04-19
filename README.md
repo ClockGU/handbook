@@ -2,8 +2,6 @@
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
 
-[Deutsche Fassung](benutzerhandbuch-deutsch/intro.md) \| [English Reading Version](handbook-english/intro.md)
-
 ## Arbeitszeitdokumentation einfach EINFACH
 
 Das Projekt ClockGU stellt eine Softwarelösung \(**Clock**\) zur Verfügung, die Hilfskräften an der Goethe-Universität die Führung des Arbeitszeitkontos \(AZK\) nach den Maßgaben der aktuellen gesetzlichen Regelungen im Rahmen des Gesetzes zur Regelung eines allgemeinen Mindestlohns \(MiLoG\) erleichtern soll.

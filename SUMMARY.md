@@ -17,18 +17,3 @@
 
 * [Changelog](changelog.md)
 
-## Handbook \(English\)
-
-* [Introduction](handbook-english/intro.md)
-* [Quick Start](handbook-english/workflow.md)
-* [Terminology](handbook-english/terminology.md)
-* [Privacy](handbook-english/privacy.md)
-* [Feedback](handbook-english/how2feedback.md)
-* [FAQ](handbook-english/faq.md)
-* [History](handbook-english/history.md)
-* [Technical](handbook-english/technical.md)
-
----
-
-* [Changelog](changelog-1.md)
-
