@@ -1,8 +1,6 @@
-# Über das Projekt
+# About the project
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
-
-[Deutsche Fassung](benutzerhandbuch-deutsch/intro.md) \| [English Reading Version](handbook-english/intro.md)
 
 ## Arbeitszeitdokumentation einfach EINFACH
 
