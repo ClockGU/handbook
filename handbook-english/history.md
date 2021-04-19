@@ -8,15 +8,15 @@ The idea for Clock originated around 2014 at [Zentrum Naturwissenschaften](https
 
 ### Beginnings
 
-A student assistant (and his boss) had the idea to build a web applicaton to facilitate the job: An app to track your working time like an actual time clock. Of course, some research was done in advance, to find out whether there was an existing software solution up to the job. However, existing solutions turned out to be either very expensive or too complex for simple time reports.
+A student assistant \(and his boss\) had the idea to build a web applicaton to facilitate the job: An app to track your working time like an actual time clock. Of course, some research was done in advance, to find out whether there was an existing software solution up to the job. However, existing solutions turned out to be either very expensive or too complex for simple time reports.
 
-So the decision was made to just build it. Moreover, this was a thrilling project to learn how to design and program such an application (the very same student now works at Apple, it was a good investment).
+So the decision was made to just build it. Moreover, this was a thrilling project to learn how to design and program such an application \(the very same student now works at Apple, it was a good investment\).
 
 ### Clock 0.1
 
 The very first version of Clock looked quite promising, although it had a few bugs that kept it in a nearly publishable, but unready state for a long time.
 
-When finally the Working Time Account according to German Minimum Wage Law (_Mindestlohngesetz_, MiLoG) was officially introduced, it became apparent that an adaptation of the existing code would be more complicated than recreating the application from scratch.
+When finally the Working Time Account according to German Minimum Wage Law \(_Mindestlohngesetz_, MiLoG\) was officially introduced, it became apparent that an adaptation of the existing code would be more complicated than recreating the application from scratch.
 
 Furthermore, programming skills as a whole had evolved, and new technologies had come into existence that made the job easier.
 
@@ -46,4 +46,5 @@ You can also participate in improving by sending us your [feedback](file:///C:\U
 
 ## How to contribute
 
-If you know something about the [technology](file:///C:\Users\trueper\Documents\Handbuch%20CLOCK%20Uebers\technical.md) of front-end or back-end development and are interested in participating, drop us a note: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de), or via [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user). You are also welcome if you feel you can contribute something else to the project (e.g. a translation into yet another language).
+If you know something about the [technology](file:///C:\Users\trueper\Documents\Handbuch%20CLOCK%20Uebers\technical.md) of front-end or back-end development and are interested in participating, drop us a note: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de), or via [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user). You are also welcome if you feel you can contribute something else to the project \(e.g. a translation into yet another language\).
+

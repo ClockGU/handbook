@@ -11,7 +11,7 @@ Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz
 Die Anmeldung erfolgt mit Deinem HRZ-Account.
 
 {% hint style="info" %}
-Wir empfehlen Dir, Deinen studentischen Account (s1234567) zu benutztn und nicht Dinen Dienstaccount, falls Du einen hast. Dein Dienstaccount wird sofort nach Vertragsende ungültig und Du kannst Clock nicht mehr benutzen.
+Wir empfehlen Dir, Deinen studentischen Account \(s1234567\) zu benutztn und nicht Dinen Dienstaccount, falls Du einen hast. Dein Dienstaccount wird sofort nach Vertragsende ungültig und Du kannst Clock nicht mehr benutzen.
 {% endhint %}
 
 Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, Dich über Dein HRZ-Konto zu authentifizieren.
@@ -36,8 +36,8 @@ Nach dem erstmaligen Anlegen eines Vertrags musst Du die Einwilligung dazu geben
 
 ## Clocken
 
-- Um eine Schicht zu starten, wählst Du den passenden Vertrag aus und startest die Zeiterfassung mit dem Button `Einclocken`. Die aktuelle Laufzeit der Schicht wird Dir angezeigt.
-- Eine laufende \(_aktive_\) Schicht wird mit dem gleichen Button wieder gestoppt.
+* Um eine Schicht zu starten, wählst Du den passenden Vertrag aus und startest die Zeiterfassung mit dem Button `Einclocken`. Die aktuelle Laufzeit der Schicht wird Dir angezeigt.
+* Eine laufende \(_aktive_\) Schicht wird mit dem gleichen Button wieder gestoppt.
 
 {% hint style="info" %}
 Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken \(nachdem Du zur U-Bahn gerannt bist...\). Eventuell musst Du die Seite neu laden, um den aktuellen Stand einer laufenden Schicht zu sehen.
@@ -90,3 +90,4 @@ Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem ak
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
 Aktive Schichten laufen übrigens weiter, wenn Du abgemeldet bist!
+

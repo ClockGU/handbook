@@ -11,13 +11,14 @@ Working with Clock is quite easy. But perhaps not all of the tasks are self-expl
 You can log into Clock using your HRZ Account.
 
 {% hint style="info" %}
-We recommend to use your student account (s1234567) and not your work account, which you might also have. Your work account expires immediately after your contract's end and you may not be able to use Clock anymore.
+We recommend to use your student account \(s1234567\) and not your work account, which you might also have. Your work account expires immediately after your contract's end and you may not be able to use Clock anymore.
 {% endhint %}
 
-During your initial login, you will be redirected to the Single Sign On-Page of Goethe University (CAS). You will have to enter your password and allow Clock to use your HRZ Account to authenticate you as a user.
+During your initial login, you will be redirected to the Single Sign On-Page of Goethe University \(CAS\). You will have to enter your password and allow Clock to use your HRZ Account to authenticate you as a user.
 
-{% hint style="info" %} You will stay logged-in with clock on the same device (e.g. mobile, tablet, desktop computer) for 30 days, unless you log off yourself (instead of e.g. merely closing the window). Afterwards, you will have to login with the University once again. Nevertheless, your data remains permanently available, of course.
-{%endhint %}
+{% hint style="info" %}
+You will stay logged-in with clock on the same device \(e.g. mobile, tablet, desktop computer\) for 30 days, unless you log off yourself \(instead of e.g. merely closing the window\). Afterwards, you will have to login with the University once again. Nevertheless, your data remains permanently available, of course.
+{% endhint %}
 
 You can be logged in with several devices at once. However, you will need to login with the University for each device separately at least once.
 
@@ -25,10 +26,9 @@ You can be logged in with several devices at once. However, you will need to log
 
 Before you can start working with Clock, you have to set up a _Contract_.\* An onboarding wizard will guide you through this process step-by-step.
 
-In case you do not have your Personnel Number ready (it is printed out on your salary statement), you can skip this step. Consequently, you will be asked for your Personnel Number each time you are about to export a time
-report; alternatively, it is always possible to change it in your Settings.
+In case you do not have your Personnel Number ready \(it is printed out on your salary statement\), you can skip this step. Consequently, you will be asked for your Personnel Number each time you are about to export a time report; alternatively, it is always possible to change it in your Settings.
 
-If you currently have (at least) one active Contract in Clock, you will always be redirected to the last-modified Contract. When changing to another view (e.g. the calendar), you stay in your selected Contract.
+If you currently have \(at least\) one active Contract in Clock, you will always be redirected to the last-modified Contract. When changing to another view \(e.g. the calendar\), you stay in your selected Contract.
 
 #### Accepting the Privacy Statement
 
@@ -36,16 +36,16 @@ When initialising your very first Contract in Clock, you have to grant us permis
 
 ## Clocking
 
-- To start a Shift, select the right contract, and start recording your working time by clicking the `clock in` Button. The current duration of the Shift will be displayed.
-- An active Shift is terminated using the same button `clock out`.
+* To start a Shift, select the right contract, and start recording your working time by clicking the `clock in` Button. The current duration of the Shift will be displayed.
+* An active Shift is terminated using the same button `clock out`.
 
 {% hint style="info" %}
-You may also clock "across devices", e.g. logging on with the desktop PC at work and off again using your mobile later on (after running to catch the subway...). In some cases, you will have to reload the page in order to view the current state of the Shift on the Dashboard.
+You may also clock "across devices", e.g. logging on with the desktop PC at work and off again using your mobile later on \(after running to catch the subway...\). In some cases, you will have to reload the page in order to view the current state of the Shift on the Dashboard.
 {% endhint %}
 
 ## Entering/Changing Shifts manually
 
-Apart from the clocking procedure, you may also enter Shifts manually (and edit them anytime).
+Apart from the clocking procedure, you may also enter Shifts manually \(and edit them anytime\).
 
 New Shifts may be added using the `Add Shift` Button.
 
@@ -62,8 +62,8 @@ A _Scheduled Shift_ is a Shift meant to take place in the future.
 Accordingly, you may record Shifts; if you already know in advance when you will be going to work. It is even possible to record repeating Shifts, e.g. "Tutorial every Wednesday". Of course, you may edit scheduled Shifts like all other Shifts, as well.
 
 {% hint style="info" %}
-Repeating Shifts are not saved as a series, but as individual Shifts. If you delete one of them, the others
-remain intact. {% endhint %}
+Repeating Shifts are not saved as a series, but as individual Shifts. If you delete one of them, the others remain intact.
+{% endhint %}
 
 ### Reviewing Shifts
 
@@ -81,7 +81,7 @@ If the Time Record is ready for handing it in, you can _lock_ the month. After t
 
 {% hint style="warning" %}
 To export a Time Report for a new month, the previous month _must_ be locked. This guarantees that the balance and carry-over of working hours between months is calculated correctly.
-{%endhint %}
+{% endhint %}
 
 ## Logging Out
 
@@ -92,3 +92,4 @@ After 30 days, however, you will definitely have to login again.
 When using foreign computers and devices, you should **always** logout explicitly!
 
 Active shifts keep running while you are logged out of Clock.
+

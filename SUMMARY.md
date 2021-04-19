@@ -1,33 +1,34 @@
 # Table of contents
 
-- [Über das Projekt](README.md)
+* [Über das Projekt](README.md)
 
-## Benutzerhandbuch (Deutsch)
+## Benutzerhandbuch \(Deutsch\)
 
-- [Einleitung](de/intro.md)
-- [Schnelleinstieg](de/workflow.md)
-- [Begriffe](de/terminology.md)
-- [Datenschutz](de/privacy.md)
-- [Feedback](de/how2feedback.md)
-- [Häufige Fragen](de/faq.md)
-- [Zur Geschichte](de/history.md)
-- [Zur Technik](de/technical.md)
-
----
-
-- [Changelog](de/changelog.md)
-
-## Handbook (English)
-
-- [Introduction](en/intro.md)
-- [Quick Start](en/workflow.md)
-- [Terminology](en/terminology.md)
-- [Privacy](en/privacy.md)
-- [Feedback](en/how2feedback.md)
-- [FAQ](en/faq.md)
-- [History](en/history.md)
-- [Technical](en/technical.md)
+* [Einleitung](benutzerhandbuch-deutsch/intro.md)
+* [Schnelleinstieg](benutzerhandbuch-deutsch/workflow.md)
+* [Begriffe](benutzerhandbuch-deutsch/terminology.md)
+* [Datenschutz](benutzerhandbuch-deutsch/privacy.md)
+* [Feedback](benutzerhandbuch-deutsch/how2feedback.md)
+* [Häufige Fragen](benutzerhandbuch-deutsch/faq.md)
+* [Zur Geschichte](benutzerhandbuch-deutsch/history.md)
+* [Zur Technik](benutzerhandbuch-deutsch/technical.md)
 
 ---
 
-- [Changelog](en/changelog.md)
+* [Changelog](changelog.md)
+
+## Handbook \(English\)
+
+* [Introduction](handbook-english/intro.md)
+* [Quick Start](handbook-english/workflow.md)
+* [Terminology](handbook-english/terminology.md)
+* [Privacy](handbook-english/privacy.md)
+* [Feedback](handbook-english/how2feedback.md)
+* [FAQ](handbook-english/faq.md)
+* [History](handbook-english/history.md)
+* [Technical](handbook-english/technical.md)
+
+---
+
+* [Changelog](changelog-1.md)
+

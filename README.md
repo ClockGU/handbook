@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
 
---> [English Reading Version](en/README.md)
+[Deutsche Fassung](benutzerhandbuch-deutsch/intro.md) \| [English Reading Version](handbook-english/intro.md)
 
 ## Arbeitszeitdokumentation einfach EINFACH
 
@@ -17,3 +17,4 @@ Clock "spricht" aktuell englisch und deutsch - nur ein englisches Handbuch haben
 {% endhint %}
 
 Clock findest Du unter [clock.uni-frankfurt.de](http://clock.uni-frankfurt.de)
+

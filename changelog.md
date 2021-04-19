@@ -42,10 +42,8 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 
 ## Fix 2021.02a
 
-#### Fehlerbehebungen 
+### Fehlerbehebungen
 
 * Der Download der in Clock gespeicherten Daten \(nach DSGVO / GDPR\) funktioniert nun für alle User
 * korrekte Berechnung von Schichten, die in einen anderen Vertrag verschoben wurden
-
-
 

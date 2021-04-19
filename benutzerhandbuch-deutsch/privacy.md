@@ -14,31 +14,31 @@ Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. 
 
 Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, werden in einer _Datenbank_ gespeichert. Dazu gehören
 
-- die Daten Deines Benutzerkontos:
-  - Login-Name\*
-  - HRZ-Mailadresse\*
-  - Vor- und Nachname\*
-  - Personalnummer \(die erhältst Du von der Uni\)
-  - Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
-  - Datum der letzten Änderung am Benutzerkonto
-- die Daten für jeden Vertrag, den Du in Clock angelegt hast
-  - Name des Vertrags
-  - Start- und Enddatum
-  - Stundenzahl
-  - Erstellungsdaten \(Datum und Benutzer\)
-  - Änderungsdaten \(Datum und Nutzer der letzten Änderung\)
-- die Arbeitszeiten, die Du in Clock eingegeben hast
-  - Schichtdaten \(Datum & Zeit von Anfang und Ende der Schicht\)
-  - zugehöriger Vertrag
-  - Schichttyp \(normal, Urlaub, krank\)
-  - Notizen und _Tags_ \(die Du eingegeben hast\)
-  - Erstellungs- und Änderungsdaten
-  - Status der Schicht \(geplante Schicht / bereits exportiert\)
-- die "Reports" - monatliche Zusammenfassungen Deiner Arbeitszeit
-  - Datum \(Monat und Jahr\)
-  - aktuell gearbeitete Stunden
-  - zugehöriger Vertrag
-  - Erstellungs- und Änderungsdaten
+* die Daten Deines Benutzerkontos:
+  * Login-Name\*
+  * HRZ-Mailadresse\*
+  * Vor- und Nachname\*
+  * Personalnummer \(die erhältst Du von der Uni\)
+  * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
+  * Datum der letzten Änderung am Benutzerkonto
+* die Daten für jeden Vertrag, den Du in Clock angelegt hast
+  * Name des Vertrags
+  * Start- und Enddatum
+  * Stundenzahl
+  * Erstellungsdaten \(Datum und Benutzer\)
+  * Änderungsdaten \(Datum und Nutzer der letzten Änderung\)
+* die Arbeitszeiten, die Du in Clock eingegeben hast
+  * Schichtdaten \(Datum & Zeit von Anfang und Ende der Schicht\)
+  * zugehöriger Vertrag
+  * Schichttyp \(normal, Urlaub, krank\)
+  * Notizen und _Tags_ \(die Du eingegeben hast\)
+  * Erstellungs- und Änderungsdaten
+  * Status der Schicht \(geplante Schicht / bereits exportiert\)
+* die "Reports" - monatliche Zusammenfassungen Deiner Arbeitszeit
+  * Datum \(Monat und Jahr\)
+  * aktuell gearbeitete Stunden
+  * zugehöriger Vertrag
+  * Erstellungs- und Änderungsdaten
 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
@@ -101,3 +101,4 @@ Clock ist ein Projekt von Studis für Studis - das haben wir bei den Vereinbarun
 Außerdem ist Clock _Open Source_: Alle funktionalen Programmteile und Informationen sind öffentlich und können von Menschen mit entsprechenden Programmierkenntnissen nachvollzogen werden.
 
 Aber natürlich geht es hier um Vertrauen. Du bist jederzeit eingeladen, mit uns direkt ins Gespräch zu kommen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user) der Uni.
+
