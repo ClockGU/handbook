@@ -1,4 +1,4 @@
-# About tue Project
+# About the Project
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
 
