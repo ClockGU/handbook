@@ -49,9 +49,18 @@ Neben dem Clocken können Schichten auch von Hand eingetragen \(und jederzeit ge
 
 Neue Schichten können mit dem Button `Schicht hinzufügen` erstellt werden.
 
-Bestehende Schichten kannst Du ändern, indem Du eine Schicht im Kalender oder in der Schicht-Tabelle auswählst. Dann kannst Du Start- und Endzeit korrigieren, Notizen und _Tags_ hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist. In der Schicht-Ansicht kannst Du auch mehrere Schichten auswählen und sie gesammelt löschen oder einem anderen Vertrag zuweisen.
+Bestehende Schichten kannst Du ändern, indem Du eine Schicht im "Letzte Aktivität"-Feld auf dem Dashboard, im Kalender oder in der Schicht-Tabelle auswählst. Dann kannst Du Start- und Endzeit korrigieren, Notizen und Tags hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist. 
 
-Deine 5 letzten Schichten werden auch auf dem Dashboard angezeigt und Du kannst sie direkt anklicken und ändern.
+{% hint style="info" %}
+Die Angabe von Uhrzeiten per Tastatur ist relativ flexibel:
+
+* "14" wird zu "14:00"
+* "1402" wird zu "14:02"
+* "142" wird zu "1:42" \(!\)
+* "jetzt" oder "now" wird durch die aktuelle Zeit ersetzt
+{% endhint %}
+
+In der Schicht-Ansicht kannst Du auch mehrere Schichten auswählen und sie gesammelt löschen oder einem anderen Vertrag zuweisen.
 
 ## Schichten planen und überprüfen
 
