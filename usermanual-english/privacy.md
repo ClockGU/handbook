@@ -1,101 +1,104 @@
-# Privacy
+---
+description: Was geschieht mit meinen Daten?
+---
 
-Clock is a web app for individual users.
+# Datenschutz
 
-This implies that Clock may only be used with a user account and a password because your recorded working hours are nobody's business but _yours_.
+Clock ist eine Web-App für individuelle Benutzer\*innen.
 
-This also implies, however, that the data you enter is saved somewhere. This chapter explains, which data are concerned.
+Das bedeutet, dass man Clock nur mit einem Benutzerkonto und einem Passwort benutzen kann, weil Deine gesammelten Arbeitszeiten nur _Dich_ etwas angehen.
 
-## Collected data
+Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Artikel.
 
-All data relating to you as a user, and all the data you enter, respectively, is stored in a _database._ This includes above all:
+## Gepeicherte Daten
 
-* The data implicated in your user account:
-  * Login name\*
-  * HRZ- E-mail address\*
-  * Your full name\*
-  * Personnel Number \(assigned to you by the University\)
-  * Creation date \(equals your first login with Clock\)
-  * Last modification \(Date and user\)
-* The data for each of the Contracts you created in Clock:
-  * Name of the Contract
-  * Date of beginning and expiry
-  * Number of working hours expected
-  * creation and last modification \(Date and User\)
-* The working hours you documented using Clock
-  * Shift data \(Date & Time for begin and end of each shift\)
-  * Contract the Shift belongs to
-  * Shift type \(\_s\_hift, \_v\_acation, \_s\_ick leave\)
-  * Notes and _tags_ \(entered by yourself\)
-  * Creation and modification dates
-  * Shift status \(scheduled / reviewed / exported\)
-* The "Reports" which are monthly summaries of your working hours
-  * Date \(month and year\)
-  * actual working Hours
-  * Contract the report belongs to
-  * Creation and modification dates
+Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, werden in einer _Datenbank_ gespeichert. Dazu gehören
 
-From all this data, the Time Sheets are generated and made available to you for download. These PDF files are not stored in the database, but created anew with every Time Sheet you request.
+* die Daten Deines Benutzerkontos:
+  * Login-Name\*
+  * HRZ-Mailadresse\*
+  * Vor- und Nachname\*
+  * Personalnummer \(die erhältst Du von der Uni\)
+  * Erstellungsdatum \(entspricht Deiner ersten Anmeldung bei Clock\)
+  * Datum der letzten Änderung am Benutzerkonto
+* die Daten für jeden Vertrag, den Du in Clock angelegt hast
+  * Name des Vertrags
+  * Start- und Enddatum
+  * Stundenzahl
+  * Erstellungsdaten \(Datum und Benutzer\)
+  * Änderungsdaten \(Datum und Nutzer der letzten Änderung\)
+* die Arbeitszeiten, die Du in Clock eingegeben hast
+  * Schichtdaten \(Datum & Zeit von Anfang und Ende der Schicht\)
+  * zugehöriger Vertrag
+  * Schichttyp \(normal, Urlaub, krank\)
+  * Notizen und _Tags_ \(die Du eingegeben hast\)
+  * Erstellungs- und Änderungsdaten
+  * Status der Schicht \(geplante Schicht / bereits exportiert\)
+* die "Reports" - monatliche Zusammenfassungen Deiner Arbeitszeit
+  * Datum \(Monat und Jahr\)
+  * aktuell gearbeitete Stunden
+  * zugehöriger Vertrag
+  * Erstellungs- und Änderungsdaten
 
-_\*\) This data is retrieved from the Central Authentication Service \(CAS\) of the HRZ \(Hochschulrechenzentrum, the University's IT service provider\) when you log in for the first time. Your HRZ password is not saved in our Clock database._
+Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
+
+_\*\) Diese Daten erhalten wir vom Zentralen Authentifizierungsdienst \(CAS\) des Hochschulrechenzentrums. Dein HRZ-Passwort wird in Clock_ nicht _gespeichert._
+
+_Hinweis: Da uns Deine Mailadresse vom HRZ-CAS-Server geliefert wird, unterscheidet sie sich möglicherweise von Deiner gewohnten Adresse, weil Deine @stud-Adresse nur ein alternativer Name \(Alias\) ist. Die bei uns gespeicherte Adresse hat die Form &lt;nutzername&gt;@uni-frankfurt.de_
+
+## Welche anderen Daten werden noch gespeichert?
+
+Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch vom Clock-Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese Daten werden aber nicht in der Clock-Datenbank gespeichert.
+
+Die Anmeldung bei Clock wird über den Zentralen Authentifizierungsdienst \(CAS\) des Hochschulrechenzentrums abgewickelt, der bei der erfolgreichen Anmeldung ein Cookie in Deinem Browser gesetzt.
+
+Clock setzt keine Cookies, nutzt aber den lokalen Speicher \_\_\(local Storage\) deines Browsers, um dort ein Anmelde-Token abzulegen. Beim Besuch von Clock wird beim CAS nachgefragt, ob die Token gültig sind und du ordnungsgemäß angemeldet bist. Wenn nicht, musst Dich erneut beim CAS-Server anmelden.
+
+## Wo liegen meine Daten?
+
+Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum, der vom Clock-Team administriert wird.
+
+## Wer kann meine Daten einsehen?
+
+Eigentlich nur Du.
+
+"Eigentlich" \_\_deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
+
+Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden.
+
+## Kann ich meine Daten einsehen?
+
+Clock enthält nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder live-Clocken von Schichten. Diese kannst Du immer einsehen.
+
+Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die, die Du nicht ändern kannst\).
+
+## Kann ich meine Daten löschen?
+
+Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
+
+Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestätigung musst Du dafür Deine Mailadresse eingeben. Diese sieht evtl. anders aus als Deine gewohnte Adresse, weil @stud-Adressen so genannte _Aliasse_ \(alternative Namen\) sind.
+
+Natürlich hat das Löschen des Clock-Accounts keinen Einfluss auf Deinen HRZ-Account.
 
 {% hint style="info" %}
-Your email-address is provided to us by the HRZ CAS-Server and may differ from your usual address. Your @stud-address is just an alias \(alternative name\). The address saved in our system will have the form &lt;username&gt;@uni-frankfurt.de .
-{% endhint %}
-
-## Which other items of data are saved?
-
-Whenever you access the service via internet, your internet provider as well as the Clock server will routinely save access data \(IP address and time of access\). However, these details are not stored in the Clock database.
-
-The login process with Clock is conducted via the Central Authentication Service \(CAS\) of HRZ, which stores a Cookie in your browser once your login has been successfully completed.
-
-Clock itself does not use Cookies, but it employs your browser's local storage to place a login token there \(which is a similar technology\). Whenever you visit Clock, a request to CAS is sent, to verify that your access tokens are still valid and you are using a proper login. If such a token does not exist, you are required to login again on the CAS server.
-
-## Where is my data located?
-
-The Clock database is located on a server at HRZ, administered by the Clock Team and subject to the standard security guidelines of the HRZ.
-
-## Who can view my data?
-
-The simple answer is: Only you can access your data.
-
-The full answer is: the administrators in charge of Clock and its future development need to be able to access the database for technical reasons and can not be technically barred from viewing your data.
-
-They will not access any data concerning your individual working hours without asking you, or acting on your request.
-
-## How can I view my own data?
-
-Clock only contains the data you entered there yourself: either manually \(by setting up a Contract\) or by clocking Shifts. You can always view these entries, this idea of transparency is largely what Clock is about.
-
-Likewise, you can view the data stored in your user account \(even those items you cannot change\).
-
-## How can I delete my data?
-
-You can always delete individual Shifts yourself, as long as the month concerned has not been blocked yet.
-
-You can delete all your data completely by deleting your entire account \(cf. "Right to erasure", GPDR Art 17\). To confirm this step, you will have to enter your e-mail address. This address may look different from the one you usually use but it will be displayed - it is just to make the step complicated enough so it does not happen by accident.
-
-Of course, deleting your Clock account does not affect your HRZ account in any way.
-
-{% hint style="info" %}
-For technical reasons, your data remains in our database backup. In the event of a system recovery following data loss, your deleted data will not be restored
+Aus technischen Gründen bleiben die Daten in den Sicherheitskopien erhalten. Bei der Wiederherstellung des Systems nach einem Datenverlust werden Deine gelöschten Daten aber nicht wiederhergestellt.
 {% endhint %}
 
 {% hint style="danger" %}
-A deleted account cannot be recovered! All your Contracts and Shifts will be gone.
+Ein gelöschter Account kann nicht wieder hergestellt werden!
 {% endhint %}
 
-## How can I export all my personal data?
+## Darf ich meine Daten haben?
 
-As required by the GDPR \(Art. 15 & 20\) you can export all Clock data into a customary machine-readable format \(JSON\).
+Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Clock-Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren.
 
-You can find this feature in the _Settings_ \(GDPR\).
+Du findest die Funktion in den _Einstellungen_ &gt; _DSGVO_, wenn Du oben auf Deinen Namen klickst.
 
-## Can I trust you on any of these issues?
+## Kann ich Euch das alles glauben?
 
-Clock is a project by students for students: in all agreements with official representatives of the University \(Human Resources / PersonalServices\), we have insisted on that, unequivocally.
+Clock ist ein Projekt von Studis für Studis - das haben wir bei den Vereinbarungen mit den offiziellen Stellen der Uni \(PersonalServices\) auch immer wieder klar gemacht.
 
-Moreover, Clock is _Open Source_: All functional components of code and all information is publicly available, so it can be reviewed by people with the respective programing skills.
+Außerdem ist Clock _Open Source_: Alle funktionalen Programmteile und Informationen sind öffentlich und können von Menschen mit entsprechenden Programmierkenntnissen nachvollzogen werden.
 
-But of course, this is all about trust. You're welcome to get in touch with us any time: [mailto:clock-kontakt@dlist.uni-frankfurt.de](https://github.com/ClockGU/handbook/tree/c6780545131183b61f042c6c884a9e1316ca60b5/en/clock-kontakt@dlist.uni-frankfurt.de) or via the University's [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+Aber natürlich geht es hier um Vertrauen. Du bist jederzeit eingeladen, mit uns direkt ins Gespräch zu kommen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user) der Uni.
 

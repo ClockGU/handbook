@@ -1,33 +1,39 @@
-# Technical
+---
+description: Das CLOCK Projekt aus technischer Perspektive
+---
 
-Clock is a _Web App_ consisting of several components:
+# Zur Technik
 
-### The Backend
+Clock ist eine _Web-App,_ die aus verschiedenen Komponenten besteht:
 
-That's what users won't get to see. The backend includes:
+### Backend
 
-* the database \(where all data is stored\)
-* the programming interface \(to access and update the database\)
+Das, was die Benutzer\*innen _nicht_ zu sehen bekommen. Dazu gehören:
 
-The Clock-Database is based on [PostGreSQL 9.4+](https://www.postgresql.org/). The interface has been realised using the [Django-REST](https://www.django-rest-framework.org/)-Framework. Such an interface is also called an _API_ \(Advanced Programming Interface\).
+* die Datenbank \(in der alle Daten gespeichert werden\)
+* die Schnittstelle \(über die Daten ausgelesen und gespeichert werden können\) 
+
+Die Clock-Datenbank basiert auf [PostGreSQL 9.4+](https://www.postgresql.org/). Die Schnittstelle ist mit dem [Django-REST](https://www.django-rest-framework.org/)-Framework umgesetzt. Eine solche Schnittstelle wird auch als _API_ \(Advanced Programming Interface\) bezeichnet.
 
 ### Frontend
 
-That's what you as a user get to see: the _User Interface_ \(_UI_\). The Frontend communicates with the databank via the _API_.
+Das, was Du als Benutzer\*in zu sehen bekommst: die Benutzeroberfläche \(das _User-Interface_ oder auch _UI_\). Das Frontend kommuniziert über die _API_ mit der Datenbank .
 
-The Frontend has been realised using the Javascript Framework [Vue.js](http://vuejs.org), which allows developers to build web applications that run in every \(modern\) browser.
+Das Frontend ist mit dem Javascript-Framework [Vue.js](http://vuejs.org) umgesetzt, mit dem man Web-Apps programmieren kann, die in jedem \(modernen\) Webbrowser laufen.
 
-We \(nearly\) all use apps frequently – on mobile and non-mobile devices – and there are accordingly many ways to design an app's user interface.
+### Design
 
-For the most part, we comply with Google's design language [Material Design](http://material.io), which has become something like a standard on the web.
+Apps verwenden wir \(fast\) alle - auf mobilen oder nichtmobilen Geräten - und da gibt es viele Varianten, die Benutzeroberfläche zu gestalten.
 
-These guidelines specify the visual design of individual components, but also the positioning of menus, buttons etc. They foster logic, consistency and clarity.
+Wir halten uns weitestgehend an die Designsprache [Material Design](http://material.io), die von Google entwickelt wurde und zu einem gewissen Standard im Web geworden ist.
 
-To realise Material Design using Vue.js, the Design Library [Vuetify](http://vuetifyjs.com) has been employed.
+Diese Richtlinien beschreiben die Darstellung einzelner Komponenten, aber auch die Positionierung von Menüs, Buttons etc. Dabei wird auf Logik, Konsistenz und Klarheit geachtet.
 
-## Collaboration
+Zur Umsetzung von Material Design in Vue.js kommt die Design-Bibliothek [Vuetify](http://vuetifyjs.com) zum Einsatz.
 
-If you know something about the technologies used in the frontend and the backend, and would like to chat with us or contribute something to the project, feel free to contact us via: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) or via [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+## Mitarbeit
 
-Clock's source code "resides" on [Github](https://github.com/ClockGU).
+Wenn Du Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder im GU-Rocketchat [clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+
+Der Source Code von Clock "lebt" auf Github: [https://github.com/ClockGU](https://github.com/ClockGU).
 
