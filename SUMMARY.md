@@ -4,15 +4,15 @@
 
 ## User Manual \(English\) <a id="usermanual-english"></a>
 
-* [Introduction](usermanual-english/introduction.md)
-* [Quick Start](usermanual-english/quick-start.md)
-* [Terminology](usermanual-english/terminology.md)
-* [Privacy](usermanual-english/privacy.md)
-* [Feedback](usermanual-english/feedback.md)
-* [History](usermanual-english/history.md)
-* [Technical](usermanual-english/technical.md)
+* [Introduction](en/introduction.md)
+* [Quick Start](en/quick-start.md)
+* [Terminology](en/terminology.md)
+* [Privacy](en/privacy.md)
+* [Feedback](en/feedback.md)
+* [History](en/history.md)
+* [Technical](en/technical.md)
 
 ---
 
-* [Changelog](changelog.md)
+* [Changelog](en/changelog.md)
 
