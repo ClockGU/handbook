@@ -4,7 +4,7 @@
 
 ## Benutzerhanduch \(Deutsch\) <a id="usermanual-english"></a>
 
-* [Einführung](/intro.md)
+* [Einführung](benutzerhandbuch-deutsch/intro.md)
 * [Schnelleinstieg](benutzerhandbuch-deutsch/workflow.md)
 * [Begriffe](benutzerhandbuch-deutsch/terminology.md)
 * [Datenschutz](benutzerhandbuch-deutsch/privacy.md)
