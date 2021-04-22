@@ -1,17 +1,23 @@
 ---
-description: Wie sieht gutes Feedback aus?
+description: How to deliver valuable Feedback
 ---
 
 # Feedback
 
 We need your responses in order to...
 
-* ...be able to detect mistakes that have escaped us so far.
+* ...be able to detect errors that have escaped us so far.
 * ...get simple feedback on the actual usage of clock from you, the user.
 * ...get an idea whether the service does what it should do and if we need to improve things.
-* ...make us happy! Feedback is a reminder that you are using the app - and that's why we built it. Positive feedback makes us especially happy...
+* ...make us happy! Feedback is a reminder that you are using the app - and that's why we built it. On a side note: Positive feedback makes us especially happy... 😉 
 
-To provide feedback, please use the Feedback Form. You can always find it on the bottom-left corner of the app. Feedback messages are automatically connected to your HRZ e-mail, so that we can get in touch with you, too. Of course, you may also simply write an e-mail to [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de). If you wish to provide a high quality feedback, here are some hints. It is easpecially helpful to indicate which type of feedback you are giving us and it is even more likely to inspire concrete improvements.
+To provide feedback, please use the Feedback Form. You can always find it on the bottom-left corner of the app. 
+
+Feedback messages are automatically connected to your HRZ e-mail, so that we can get in touch with you, too. Of course, you may also simply write an e-mail to [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) or contact us via the University's [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
+
+That is all you need to know... 
+
+...however, if you wish to provide "high quality feedback", here are some hints. It is especially helpful to indicate which type of feedback you are giving us and makes is even more likely that your ideas inspire concrete improvements.
 
 ## Feedback "for nerds"
 
@@ -52,18 +58,18 @@ We have spent a great deal of thought on Clock and its range of functionalities 
 * Do you have examples of other apps that do look or work nicer? \(Pshaw!\)
 
 {% hint style="info" %}
-To build Clock's user interface, we closely observed Google's design recommendations \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/en/about.md#Design)\) and several other sophisticated guidelines concerning user interface and interaction. But, needless to say, personal preferences have a role to play here, as well.
+To build Clock's user interface, we stuck mostly Google's design recommendations \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/en/about.md#Design)\) and several other sophisticated guidelines concerning user interface and interaction. But, needless to say, personal preferences have a role to play here, as well.
 {% endhint %}
 
 ## 3. Questions
 
-Of course, you may also simply ask a question – and we would like to encourage you to do so! It is often the case that many people come across the same question – so it is a good thing if it is asked at least once. We can put it into our FAQ or In and answer it once for all our users, or we may use it to improve the app.
+Of course, you may also simply ask a question – and we would like to encourage you to do so! It is often the case that many people come across the same question – so it is a good thing if it is asked at least once. We can put it into our FAQ and answer it once for all our users, or we may use it to improve the app.
 
-In the App, you can find a FAQ Section with general questions. Maybe a new question you brought up will be listed there, someday?
+In the app, you can find a FAQ section with general questions. Maybe a new question you brought up will be listed there, someday?
 
 ## 4. General
 
-Feel free to use general feedback for everything that does not seem to fit any of the other categories. In addition, we would also like to learn if you are content with Clock \(or not\) – this is the right way to tell us.
+Feel free to use general feedback for everything that does not seem to fit any of the other categories. In addition, we would also like to learn if you are content with Clock \(or not\) – this is the best way to tell us.
 
 **Thank you!**
 

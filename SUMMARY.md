@@ -9,7 +9,6 @@
 * [Terminology](usermanual-english/terminology.md)
 * [Privacy](usermanual-english/privacy.md)
 * [Feedback](usermanual-english/how2feedback.md)
-* [FAQ](usermanual-english/faq.md)
 * [History](usermanual-english/history.md)
 * [Technical](usermanual-english/technical.md)
 

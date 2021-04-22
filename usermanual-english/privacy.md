@@ -35,12 +35,12 @@ All data relating to you as a user, and all the data you enter, respectively, is
   * Contract the report belongs to
   * Creation and modification dates
 
-From this data, the time sheets are generated and made available to you for download. These PDF files are not stored in the database, but created anew with every Time Sheet you request.
+From all this data, the Time Sheets are generated and made available to you for download. These PDF files are not stored in the database, but created anew with every Time Sheet you request.
 
-_\*\\) This data is retrieved from the Central Authentication Service \(CAS\) of the HRZ \(Hochschulrechenzentrum, the University's IT service provider\) when you log in for the first time. Your HRZ password is not saved in our Clock database._
+_\*\) This data is retrieved from the Central Authentication Service \(CAS\) of the HRZ \(Hochschulrechenzentrum, the University's IT service provider\) when you log in for the first time. Your HRZ password is not saved in our Clock database._
 
 {% hint style="info" %}
-Your email-address is provided to us by the HRZ CAS-Server and may differ from your usual address. Your \@stud-address is just an alias \(alternative name\). The address saved in our system will have the form \&lt;username&gt;\@uni-frankfurt.de .
+Your email-address is provided to us by the HRZ CAS-Server and may differ from your usual address. Your @stud-address is just an alias \(alternative name\). The address saved in our system will have the form &lt;username&gt;@uni-frankfurt.de .
 {% endhint %}
 
 ## Which other items of data are saved?
@@ -53,19 +53,19 @@ Clock itself does not use Cookies, but it employs your browser's local storage t
 
 ## Where is my data located?
 
-The Clock database is located on a server at HRZ, administered by the Clock Team.
+The Clock database is located on a server at HRZ, administered by the Clock Team and subject to the standard security guidelines of the HRZ.
 
 ## Who can view my data?
 
 The simple answer is: Only you can access your data.
 
-The administrators in charge of Clock and its future development need to be able to access the database for technical reasons and can not be technically barred from viewing your data.
+The full answer is: the administrators in charge of Clock and its future development need to be able to access the database for technical reasons and can not be technically barred from viewing your data.
 
 They will not access any data concerning your individual working hours without asking you, or acting on your request.
 
 ## How can I view my own data?
 
-Clock only contains the data you entered there yourself: either manually or by clocking Shifts. You can always view these entries, this is largely what Clock is about.
+Clock only contains the data you entered there yourself: either manually \(by setting up a Contract\) or by clocking Shifts. You can always view these entries, this idea of transparency is largely what Clock is about.
 
 Likewise, you can view the data stored in your user account \(even those items you cannot change\).
 
@@ -87,13 +87,13 @@ A deleted account cannot be recovered! All your Contracts and Shifts will be gon
 
 ## How can I export all my personal data?
 
-As required by the [GDPR](https://dsgvo-gesetz.de) \(Art. 15 & 20\) you can export all Clock data into a customary machine-readable format \(JSON\).
+As required by the GDPR \(Art. 15 & 20\) you can export all Clock data into a customary machine-readable format \(JSON\).
 
-You will find this feature in the _Settings_ \(GDPR\).
+You can find this feature in the _Settings_ \(GDPR\).
 
 ## Can I trust you on any of these issues?
 
-Clock is a project by students for students: in all agreements with official representatives of the University \(PersonalServices\), we have insisted on that, unequivocally.
+Clock is a project by students for students: in all agreements with official representatives of the University \(Human Resources / PersonalServices\), we have insisted on that, unequivocally.
 
 Moreover, Clock is _Open Source_: All functional components of code and all information is publicly available, so it can be reviewed by people with the respective programing skills.
 
