@@ -1,73 +1,75 @@
 ---
-description: Wie sieht gutes Feedback aus?
+description: How to deliver valuable Feedback
 ---
 
 # Feedback
 
-Wir benötigen Eure Rückmeldung damit
+We need your responses in order to...
 
-* ...wir Fehler finden können, die uns bislang nicht aufgefallen sind.
-* ...wir eine Rückmeldung über die Benutzung "von außen" bekommen.
-* ...wir ein Gespür dafür kommen, ob der Dienst leistet, was er soll und ob wir noch nachbessern müssen.
-* ...wir uns auch über Feedback freuen! \(gerne auch über positives...\)
+* ...be able to detect errors that have escaped us so far.
+* ...get simple feedback on the actual usage of clock from you, the user.
+* ...get an idea whether the service does what it should do and if we need to improve things.
+* ...make us happy! Feedback is a reminder that you are using the app - and that's why we built it. On a side note: Positive feedback makes us especially happy... 😉 
 
-Dafür kannst Du das Feedback-Formular nutzen, das immer links unten zu finden ist. Das Feedback wird automatisch mit Deiner HRZ-Mailadresse verknüpft, so dass wir auch Kontakt zu Dir aufnehmen können.
+To provide feedback, please use the Feedback Form. You can always find it on the bottom-left corner of the app.
 
-Natürlich kannst Du uns einfach schreiben - wenn Du es besonders gut machen willst, folgen ein paar Hinweise, wie Dein Feedback besonders hilfreich ist und gut weiterverarbeitet werden kann.
+Feedback messages are automatically connected to your HRZ e-mail, so that we can get in touch with you, too. Of course, you may also simply write an e-mail to [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) or contact us via the University's [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
 
-## Feedback "für Streber"
+That is all you need to know...
 
-Wir unterteilen Feedback in vier Kategorien:
+...however, if you wish to provide "high quality feedback", here are some hints. It is especially helpful to indicate which type of feedback you are giving us and makes is even more likely that your ideas inspire concrete improvements.
 
-1. [Fehler melden](how2feedback.md#1.-Bugs) \(superwichtig!\)
-2. [Verbesserung vorschlagen](how2feedback.md#2.-Bedienung) \(superhilfreich!\)
-3. [Frage](how2feedback.md#3.-Design) \(supersinnvoll!\)
-4. [Allgemein](how2feedback.md#4.-neue-Funktionen) \(supergeil!\)
+## Feedback "for nerds"
 
-Die einzelnen Kategorien sind unten nochmal genauer erläutert.
+We have 4 categories of feedback:
 
-* **Fehler** \("Bugs"\) sollten **sofort** und auch gerne kleinteilig gemeldet werden.
-* Verbesserungen dürfen gerne ausführlich und auch subjektiv beschrieben werden.
-* Fragen darfst Du immer stellen, wenn etwas unklar ist.
-* Allgemeines Feedback ist vor allem Lob und Kritik - oder wenn Du Dir nicht sicher bist.
+1. Bug report \(super important!\)
+2. Feature request \(super helpful!\)
+3. Question \(super smart!\)
+4. General \(super awesome!\)
 
-Feedback erreicht uns ansonsten auch per Mail über [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) oder per [RocketChat \(clock\_user](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user)\).
+Further details for the individual categories are given below, but here is a short guideline:
 
-Bei Serverfehlern, die ab und an auftreten können, öffnet sich automatisch ein Fenster, in das man auch direkt einen Fehlerbericht eintragen kann.
+* **Bugs** should be reported immediately. Feel free to report minor concerns as well, and in minute detail \(if you can\).
+* For **feature requests**, we welcome detailed descriptions. It's okay to write them from a very subjective perspective.
+* **Questions** should be asked about anything that is unclear to you.
+* **General feedback** is meant to contain critique \(and praise\) – or anything else if you are not sure about which category to use.
 
-## 1. Fehler \| Bugs
+We also accept feedback via e-mail: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) or via [Rocket.chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user) \(channel `#clock_user`\).
 
-...sind \(offensichtliche\) _Programmfehler_, die so schnell wie möglich behoben werden müssen.
+In case of server errors a window receiving an error report opens automatically. Please use it to inform us about any system errors.
 
-Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn falsche Zeiten angezeigt werden, plötzlich alle Schichten weg sind oder sonstige seltsame Dinge geschehen.
+## 1. Bugs
 
-Wichtig ist eine möglichst präzise Beschreibung:
+...are \(evident\) programming errors that need to be corrected as soon as possible.
 
-* bei welcher Aktion trat der Fehler auf?
-* was hätte passieren sollen/was funktioniert nicht?
+If a feature of the app does not work as intended: that's a bug, e.g. the display of incorrect times, your Shifts are gone or other strange things happen. Please describe the problem as detailed as possible:
 
-## 2. Verbesserung vorschlagen
+* What action was \(being\) performed when the problem occurred?
+* What was supposed to happen / What does not work?
 
-Wir haben uns zwar sehr viele Gedanken über den Funktionsumfang von Clock gemacht - aber vielleicht auch nicht an alles gedacht.
+## 2. Feature Request
 
-Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher machen können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch ein anderes Design sein. Du kannst Dich an folgenden Fragen orientieren:
+We have spent a great deal of thought on Clock and its range of functionalities – but we certainly have not thought of everything. If you have any ideas on how to improve Clock and make it even more usable, we are happy to listen to your suggestions! Suggestions may concern new features, special elements of the user interface or a new design altogether. You may use these questions to detail your suggestion:
 
-* Welchen Ablauf erwarte ich? An welcher Position erwarte ich ein Bedienelement?
-* Hat mich eine Funktion/ein Ablauf verwirrt? Ist die Bedienung unlogisch?
-* Was könnte besser aussehen? Welche Farben wären besser geeignet?
-* gibt es Beispiele aus anderen Apps/Websites, die schöner aussehen? \(pöh!\)
+* What is expected behaviour? In which place do I expect a control element to be?
+* Did a function or workflow step confuse me? Does the user experience feel illogical?
+* Could anything look better? Which colours are better suited for our purposes?
+* Do you have examples of other apps that do look or work nicer? \(Pshaw!\)
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#Design)\) und andere durchdachte Richtlinien in Bezug auf Oberfläche und Benutzerinteraktion. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
+To build Clock's user interface, we stuck mostly Google's design recommendations \([Material Design](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/en/about.md#Design)\) and several other sophisticated guidelines concerning user interface and interaction. But, needless to say, personal preferences have a role to play here, as well.
 {% endhint %}
 
-## 3. Fragen
+## 3. Questions
 
-Natürlich kannst Du auch einfach eine Frage stellen - und dazu wollen wir Dich ermuntern! Es ist ja außerdem oft so, dass andere die gleiche Frage haben - und dann ist es gut, wenn sie einmal gestellt wird. Dann kann man sie gleich für alle beantworten oder vielleicht etwas am Programm verbessern.
+Of course, you may also simply ask a question – and we would like to encourage you to do so! It is often the case that many people come across the same question – so it is a good thing if it is asked at least once. We can put it into our FAQ and answer it once for all our users, or we may use it to improve the app.
 
-Wir haben auch eine [FAQ](https://github.com/ClockGU/handbook/tree/0ee7e2b2af2b22cad046c0aeb90068483f6d2e2e/benutzerhandbuch-deutsch/faq.md)-Sektion im nächsten Abschnitt, in dem wir allgemeine Fragen sammeln können. Vielleicht taucht eine neue Frage, die Du gestellt hast, dann auch dort auf?
+In the app, you can find a FAQ section with general questions. Maybe a new question you brought up will be listed there, someday?
 
-## 4. Allgemeines Feedback
+## 4. General
 
-Alles, was Deiner Meinung nach nicht in die anderen Kategorien passt, kannst Du uns gerne als allgemeines Feedback schicken. Natürlich würden wir auch gerne wissen, ob Du mit Clock zufrieden bist oder nicht - dann ist das hier der richtige Ort.
+Feel free to use general feedback for everything that does not seem to fit any of the other categories. In addition, we would also like to learn if you are content with Clock \(or not\) – this is the best way to tell us.
+
+**Thank you!**
 
