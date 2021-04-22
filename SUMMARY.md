@@ -4,15 +4,16 @@
 
 ## Benutzerhanduch \(Deutsch\) <a id="usermanual-english"></a>
 
-* [Einführung](benutzerhandbuch-deutsch/intro.md)
-* [Schnelleinstieg](benutzerhandbuch-deutsch/workflow.md)
-* [Begriffe](benutzerhandbuch-deutsch/terminology.md)
-* [Datenschutz](benutzerhandbuch-deutsch/privacy.md)
-* [Feedback](benutzerhandbuch-deutsch/how2feedback.md)
-* [Zur Geschichte](benutzerhandbuch-deutschh/history.md)
-* [Zur Technik](benutzerhandbuch-deutsch/technical.md)
+* [Einführung](de/intro.md)
+* [Schnelleinstieg](de/workflow.md)
+* [Begriffe](de/terminology.md)
+* [Datenschutz](de/privacy.md)
+* [Feedback](de/how2feedback.md)
+* [Zur Geschichte](de/history.md)
+* [Zur Technik](de/technical.md)
+* [FAQ](de/faq.md)
 
 ---
 
-* [Changelog](benutzerhandbuch-deutsch/changelog.md)
+* [Changelog](de/changelog.md)
 
