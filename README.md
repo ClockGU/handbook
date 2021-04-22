@@ -1,4 +1,4 @@
-# About the project
+# About the Project
 
 ![](.gitbook/assets/clock_current_logo_600x150.png)
 

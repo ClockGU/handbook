@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the project](README.md)
+* [About the Project](README.md)
 
 ## User Manual \(English\) <a id="usermanual-english"></a>
 

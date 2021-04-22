@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Clock – the time sheet app for student and graduate research assistants \("Hilfskräfte" or "HiWis"\) at Goethe University. This brief manual will answer most of your questions about our app. 
+Welcome to Clock – the time sheet app for student and graduate research assistants \("Hilfskräfte" or "HiWis"\) at Goethe University. This brief manual will answer most of your questions about our app.
 
 If you have any further questions, feel free to use the feedback form in the app to contact us or simply write an E-Mail to clock-kontakt@dlist.uni-frankfurt.de
 
@@ -39,7 +39,7 @@ The general legal regulations are not always made for what actually happens "on 
 
 Clock originated as a student project at the "Zentrum Naturwissenschaften", initiated by student-assistant annoyed by the time-sheet requirements. The service is now hosted by the Human Resources Department of Goethe University. Despite this official support and adoption by the University, Clock is designed to be a service _for students by students_: The app was developed from a student perspective, guided by student interests - and students are still involved in the development, operation and maintenance of the app.
 
-Neither your supervisors nor the PersonalServices department can access your data. The "data exchange" between yourself and the University is achieved exclusively by means of your time report – which is a time sheet. Printed on paper. 
+Neither your supervisors nor the PersonalServices department can access your data. The "data exchange" between yourself and the University is achieved exclusively by means of your time report – which is a time sheet. Printed on paper.
 
 Clock does not contain any hidden or clandestine functions: its source code is open and all the software’s functions are publicly accessible and may be examined by everyone \(provided they have the knowledge and expertise\). Read more on how Clock handles your data in the chapter on [privacy](privacy.md).
 

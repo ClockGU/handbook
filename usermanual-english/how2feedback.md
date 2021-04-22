@@ -11,11 +11,11 @@ We need your responses in order to...
 * ...get an idea whether the service does what it should do and if we need to improve things.
 * ...make us happy! Feedback is a reminder that you are using the app - and that's why we built it. On a side note: Positive feedback makes us especially happy... 😉 
 
-To provide feedback, please use the Feedback Form. You can always find it on the bottom-left corner of the app. 
+To provide feedback, please use the Feedback Form. You can always find it on the bottom-left corner of the app.
 
 Feedback messages are automatically connected to your HRZ e-mail, so that we can get in touch with you, too. Of course, you may also simply write an e-mail to [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de) or contact us via the University's [Rocket.Chat](https://chat.studiumdigitale.uni-frankfurt.de/channel/clock_user).
 
-That is all you need to know... 
+That is all you need to know...
 
 ...however, if you wish to provide "high quality feedback", here are some hints. It is especially helpful to indicate which type of feedback you are giving us and makes is even more likely that your ideas inspire concrete improvements.
 

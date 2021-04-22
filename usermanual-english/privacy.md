@@ -25,7 +25,7 @@ All data relating to you as a user, and all the data you enter, respectively, is
 * The working hours you documented using Clock
   * Shift data \(Date & Time for begin and end of each shift\)
   * Contract the Shift belongs to
-  * Shift type \(_s_hift, _v_acation, _s_ick leave\)
+  * Shift type \(\_s\_hift, \_v\_acation, \_s\_ick leave\)
   * Notes and _tags_ \(entered by yourself\)
   * Creation and modification dates
   * Shift status \(scheduled / reviewed / exported\)
