@@ -1,4 +1,4 @@
-# Table of contents
+# Inhaltsverzeichnis
 
 * [Über das Projekt](README.md)
 
