@@ -1,3 +1,7 @@
+---
+description: Clock from a technical point of view
+---
+
 # Technical
 
 Clock is a _Web App_ consisting of several components:

@@ -1,5 +1,5 @@
 ---
-description: What happens with my data?
+description: What about my data?
 ---
 
 # Privacy
