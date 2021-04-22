@@ -14,5 +14,5 @@
 
 ---
 
-* [Changelog](changelog-1.md)
+* [Changelog](changelog.md)
 
