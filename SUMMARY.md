@@ -2,17 +2,14 @@
 
 * [About the Project](README.md)
 
-## User Manual \(English\) <a id="usermanual-english"></a>
+## User Manual \(English\) <a id="en"></a>
 
-* [Introduction](en/introduction.md)
-* [Quick Start](en/quick-start.md)
+* [Introduction](en/intro.md)
+* [Quick Start](en/workflow.md)
 * [Terminology](en/terminology.md)
 * [Privacy](en/privacy.md)
-* [Feedback](en/feedback.md)
+* [Feedback](en/how2feedback.md)
 * [History](en/history.md)
 * [Technical](en/technical.md)
-
----
-
 * [Changelog](en/changelog.md)
 
