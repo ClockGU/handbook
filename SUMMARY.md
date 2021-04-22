@@ -14,5 +14,5 @@
 
 ---
 
-* [Changelog](changelog.md)
+* [Changelog](benutzerhandbuch-deutsch/changelog.md)
 
