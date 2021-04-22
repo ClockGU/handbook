@@ -1,49 +1,49 @@
 ---
-description: Updates und Änderungen an Clock
+description: Updates und changes
 ---
 
 # Changelog
 
 ## Release 2021.02
 
-Veröffentlicht am 15.02.2021 - 22:00 Uhr
+Released Feb. 15, 2021 - 22:00
 
-**Neue Features**
+### New Features
 
-* Nachrichten auf dem Dashboard!
-* verbessertes Schicht-Formular
-  * wiederholbare Schichten \(z.B. für wöchentliche Tutorien\)
-  * verbesserte Uhrzeiteingabe per Tastatur
-  * Überprüfung \(review\) von geplanten Schichten
-  * _Letzte Aktivität_ zeigt nur vergangene Schichten
-  * Klick auf _Letzte Aktivität_ führt direkt zur Bearbeitung der Schicht
-* Neue Schichtansicht
-  * Trennung zwischen abgeschlossenen und geplanten \(zukünftigen\) Schichten
-  * transparente Darstellung von überprüften / nicht überprüften Schichten
-  * gleichzeitige Bearbeitung mehrerer Schichten \(Löschen, Vertrag ändern, überprüfen\)
-* Kalender
-  * nicht überprüfte und zukünftige Schichten werden heller dargestellt
+* Messages on the Dashboard!
+* improved Shift form
+  * recurring Shifts \(e.g. for weekly tutorials or fixed work schedules\)
+  * improved time entry by keyboard
+  * review of scheduled Shifts
+  * _last activity_ displays only past Shifts
+  * clicking a Shift on the _last activity_ card opens the edit dialog
+* New Shift View
+  * past and future \(scheduled\) Shifts are separated
+  * better display of reviewed / unreviewed Shifts
+  * batch editing of multiple Shifts \(delete, assign to Contract, review\)
+* Calendard
+  * unreviewed and future Shifts are displayed in a lighter tone
 
-**Anpassungen**
+### Modifications
 
-* Einwilligung in die Datenverarbeitung \(Akzeptieren der Datenschutzerklärung\)
-* Wochenbeginn am Montag
-* abgelaufene Verträge werden überall klarer dargestellt
+* data storage consent \(Accept the privacy agreement\)
+* the week begins on monday
+* better display of expired Contracts
 
-**Fehlerbehebungen**
+### Bugfixes
 
-* Der ausgewählte Vertrag bleibt beim Sprung auf die Kalenderansicht erhalten
-* korrekte Berechnung der monatlichen Stundenzahl bei untermonatigem Ein- oder Austritt
-* korrekte Anzeige der noch offenen Stunden/Monat
-* korrekte Berücksichtigung des Vertragsendes
-* Korrekturen und Übersetzungen in Anzeigetexten
-* kleinere Verbesserungen und Fehlerkorrekturen
-* an Schichten vergebene Tags können auch wieder gelöscht werden
+* The selected contract remains being selected after switching views/tabs
+* correct computation of monthly work time if a Contract starts/ends in the middle of a month
+* correct display of remaining hours per month
+* correct treatment of a Contract's end date
+* corrections and translations
+* Smaller corrections and fixes
+* Shift tags may be deleted
 
 ## Fix 2021.02a
 
-### Fehlerbehebungen
+### Bugfixes
 
-* Der Download der in Clock gespeicherten Daten \(nach DSGVO / GDPR\) funktioniert nun für alle User
-* korrekte Berechnung von Schichten, die in einen anderen Vertrag verschoben wurden
+* download of your own data \(GDPR\) works for all Users
+* correct computation of Shifts that are moved to another Contract
 
