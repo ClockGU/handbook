@@ -1,18 +1,17 @@
 # Table of contents
 
-* [Über das Projekt](README.md)
+* [About the Project](README.md)
 
-## Benutzerhanduch \(Deutsch\) <a id="usermanual-english"></a>
+## User Manual \(English\) <a id="usermanual-english"></a>
 
-* [Einführung](usermanual-english/intro.md)
-* [Schnelleinstieg](usermanual-english/workflow.md)
-* [Begriffe](usermanual-english/terminology.md)
-* [Datenschutz](usermanual-english/privacy.md)
+* [Introduction](usermanual-english/intro.md)
+* [Quick Start](usermanual-english/workflow.md)
+* [Terminology](usermanual-english/terminology.md)
+* [Privacy](usermanual-english/privacy.md)
 * [Feedback](usermanual-english/how2feedback.md)
-* [Zur Geschichte](usermanual-english/zur-geschichte.md)
-* [Zur Technik](usermanual-english/technical.md)
+* [History](usermanual-english/history.md)
+* [Technical](usermanual-english/technical.md)
 
 ---
 
 * [Changelog](changelog.md)
-
