@@ -1,3 +1,7 @@
+---
+description: What happens with my data?
+---
+
 # Privacy
 
 Clock is a web app for individual users.
