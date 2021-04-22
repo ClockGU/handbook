@@ -8,7 +8,7 @@ Mit diesem kleinen Handbuch wirst Du die meisten Fragen rund um unseren Zeiterfa
 
 Der Web-Dienst Clock ist ein Hilfsmittel für Hilfskräfte \("HiWis"\) an der Goethe-Universität und unterstützt Dich beim Führen Deines Arbeitszeitkontos im Rahmen des Mindestlohngesetzes \(MiLoG\) - oder einfacher gesagt: beim rechtlich konformen Ausfüllen Deines Stundenzettels.
 
-Clock ist eine anerkannte Alternative zur bekannten [Excel-Datei](https://www.uni-frankfurt.de/47065133/Formularcenter#hilfskraefte), die nicht besonders praktisch ist und für Studierende, die nicht mit Office arbeiten, oft nicht gut funktioniert.
+Clock ist die offizielle Alternative zur Excel-Lösung, die nicht besonders praktisch ist und für Studierende, die nicht mit Office arbeiten, oft nicht gut funktioniert.
 
 ## Was kann Clock so alles?
 

@@ -44,14 +44,14 @@ Wenn Du eine Schicht über Nacht oder mehrere Tage laufen lässt, erscheint beim
 {% endhint %}
 
 {% hint style="info" %}
-Wenn sich Schichten überlappen, erscheint eine Warnung und Du musst diesen Konflikt spätestens vor dem Export Deines Stundenzettels beheben. Denn Dich gibt es nur einmal ;-\)
+Wenn sich Schichten überlappen, erscheint eine Warnung und Du musst diesen Konflikt spätestens vor dem Export Deines Stundenzettels beheben. Denn Dich gibt es nur einmal😉 
 {% endhint %}
 
-_Aktive_ Schichten bezeichnen Schichten, die gerade laufen - z.B. weil Du _eingeclockt_ bist. Aktive Schichten können immer direkt gelöscht werden, falls Du versehentlich eingeclockt hast.
+_Aktive_ Schichten bezeichnen Schichten, die gerade laufen – z.B. weil Du _eingeclockt_ bist. Aktive Schichten können immer direkt gelöscht werden, falls Du versehentlich eingeclockt hast.
 
 Es ist nicht möglich, eine laufende Schlicht zu bearbeiten, z.B. die Startzeit zu ändern, wenn Du zu spät eingeclockt hast. Du kannst die Schicht aber nach dem Ausclocken korrigieren.
 
-Schichten sind vor allem eine Erleichterung für Dich - beim Exportieren Deines Stundenzettels werden alle Schichten eines Tages zusammengerechnet und auf dem Arbeitszeitkonto eingetragen.
+Schichten sind vor allem eine Erleichterung für Dich – beim Exportieren Deines Stundenzettels werden alle Schichten eines Tages zusammengerechnet und auf dem Arbeitszeitkonto eingetragen.
 
 ## Clocken
 
