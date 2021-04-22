@@ -44,7 +44,7 @@ Wenn Du eine Schicht über Nacht oder mehrere Tage laufen lässt, erscheint beim
 {% endhint %}
 
 {% hint style="info" %}
-Wenn sich Schichten überlappen, erscheint eine Warnung und Du musst diesen Konflikt spätestens vor dem Export Deines Stundenzettels beheben. Denn Dich gibt es nur einmal😉 
+Wenn sich Schichten überlappen, erscheint eine Warnung und Du musst diesen Konflikt spätestens vor dem Export Deines Stundenzettels beheben. Denn Dich gibt es nur einmal😉
 {% endhint %}
 
 _Aktive_ Schichten bezeichnen Schichten, die gerade laufen – z.B. weil Du _eingeclockt_ bist. Aktive Schichten können immer direkt gelöscht werden, falls Du versehentlich eingeclockt hast.

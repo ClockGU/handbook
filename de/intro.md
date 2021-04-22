@@ -1,4 +1,4 @@
-# Einleitung
+# Einführung
 
 Willkommen bei Clock - der Stundenzettel-App für Hilfskräfte an der Goethe-Universität!
 
@@ -41,7 +41,7 @@ Rechtsgrundlage und Praxis sind natürlich nicht immer leicht in Übereinstimmun
 
 Clock ist am [Zentrum Naturwissenschaften](https://www.starkerstart.uni-frankfurt.de/38922940/Zentrum_Naturwissenschaften) als studentisches Projekt eines genervten HiWis [entstanden](https://github.com/ClockGU/handbook/tree/c6a3efe17c130c71ac14b67706cb399e4d331dfb/benutzerhandbuch/about.md#History) und wird mittlerweile vom Bereich Human Resources der Goethe-Universität zur Verfügung gestellt.
 
-Trotz der offiziellen Unterstützung der Uni sieht sich Clock als Service **von Studierenden für Studierende**:   Die App wurde aus der Perspektive von Studierenden und ihren Interessen programmiert.
+Trotz der offiziellen Unterstützung der Uni sieht sich Clock als Service **von Studierenden für Studierende**: Die App wurde aus der Perspektive von Studierenden und ihren Interessen programmiert.
 
 Deine Dienstvorgesetzten oder PersonalServices können **nicht** auf Deine Daten zugreifen. Die "Übertragung" von Deinen Daten und der Universität funktioniert nur über den Stundenzettel. Auf Papier.
 

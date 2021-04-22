@@ -49,7 +49,7 @@ Neben dem Clocken können Schichten auch von Hand eingetragen \(und jederzeit ge
 
 Neue Schichten können mit dem Button `Schicht hinzufügen` erstellt werden.
 
-Bestehende Schichten kannst Du ändern, indem Du eine Schicht im "Letzte Aktivität"-Feld auf dem Dashboard, im Kalender oder in der Schicht-Tabelle auswählst. Dann kannst Du Start- und Endzeit korrigieren, Notizen und Tags hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist. 
+Bestehende Schichten kannst Du ändern, indem Du eine Schicht im "Letzte Aktivität"-Feld auf dem Dashboard, im Kalender oder in der Schicht-Tabelle auswählst. Dann kannst Du Start- und Endzeit korrigieren, Notizen und Tags hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist.
 
 {% hint style="info" %}
 Die Angabe von Uhrzeiten per Tastatur ist relativ flexibel:
@@ -75,7 +75,7 @@ Wiederholte Schichten werden nicht als Serie, sondern als einzelne Schichten ang
 
 Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In den verschiedenen Ansichten kannst Du nicht-überprüfte Schichten immer leicht erkennen. Sie werden im Kalender heller dargestellt, tragen ein ❌ in der Schicht-Tabelle oder einen Hinweis im "Letzte Aktivitäten"-Bereich auf dem Dashboard.
 
-Um eine Schicht zu überprüfen  musst Du sie zum Bearbeiten öffnen und kannst den Haken zum Überprüfen setzen. Diesen Vorgang kannst Du nicht rückgängig machen, da es nicht möglich ist, in der Vergangenheit liegende, nicht-überprüfte  Schichten abzuspeichern.
+Um eine Schicht zu überprüfen musst Du sie zum Bearbeiten öffnen und kannst den Haken zum Überprüfen setzen. Diesen Vorgang kannst Du nicht rückgängig machen, da es nicht möglich ist, in der Vergangenheit liegende, nicht-überprüfte Schichten abzuspeichern.
 
 ## Stundenzettel exportieren
 

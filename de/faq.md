@@ -2,7 +2,7 @@
 description: Häufige Fragen (und Antworten!) zu Clock.
 ---
 
-# Häufige Fragen
+# FAQ
 
 ## Q \| Was ist Clock?
 
@@ -14,7 +14,7 @@ description: Häufige Fragen (und Antworten!) zu Clock.
 
 ## Q \| Ist Clock kostenlos?
 
-Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account geknüpft und funktioniert nur, so lange dieser gültig ist. Wenn Du z.B. exmatrikuliert wirst, kannst Du auf Clock nicht mehr zugreifen. 
+Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account geknüpft und funktioniert nur, so lange dieser gültig ist. Wenn Du z.B. exmatrikuliert wirst, kannst Du auf Clock nicht mehr zugreifen.
 
 ## Q \|  Wem gehört Clock?
 

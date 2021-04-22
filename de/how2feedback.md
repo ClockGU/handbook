@@ -46,9 +46,9 @@ Wichtig ist eine möglichst präzise Beschreibung:
 * bei welcher Aktion trat der Fehler auf?
 * was hätte passieren sollen/was funktioniert nicht?
 
-## 2. Verbesserung vorschlagen 
+## 2. Verbesserung vorschlagen
 
-Wir haben uns zwar sehr viele Gedanken über den Funktionsumfang von Clock gemacht - aber vielleicht auch nicht an alles gedacht. 
+Wir haben uns zwar sehr viele Gedanken über den Funktionsumfang von Clock gemacht - aber vielleicht auch nicht an alles gedacht.
 
 Wenn Du eine Idee hast, wie wir Clock noch besser und bedienfreundlicher machen können, sind wir sehr gespannt auf Deine Vorschläge! Das können neue Funktionen, besondere Bedienelemente oder auch ein anderes Design sein. Du kannst Dich an folgenden Fragen orientieren:
 
