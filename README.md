@@ -11,3 +11,4 @@ In other words: Clock is a comfortable tool to track your working hours and expo
 These pages are the official Clock handbook which will be integrated into the app in the future.
 
 You can sign on to Clock wiht your HRZ account at [clock.uni-frankfurt.de](http://clock.uni-frankfurt.de)
+
