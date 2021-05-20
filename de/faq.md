@@ -14,7 +14,7 @@ description: Häufige Fragen (und Antworten!) zu Clock.
 
 ## Q \| Ist Clock kostenlos?
 
-Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account geknüpft und funktioniert nur, so lange dieser gültig ist. Wenn Du z.B. exmatrikuliert wirst, kannst Du auf Clock nicht mehr zugreifen.
+Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account geknüpft und funktioniert nur, solange dieser gültig ist. Wenn Du z.B. exmatrikuliert wirst, kannst Du auf Clock nicht mehr zugreifen.
 
 ## Q \|  Wem gehört Clock?
 
@@ -28,13 +28,13 @@ Ja, Clock ist und bleibt kostenlos nutzbar. Clock ist aber an Deinen HRZ-Account
 
 **A** \| Wahrscheinlich hast Du den vorangegangenen Monat noch nicht _gesperrt_. Das ist notwendig, damit die Berechnung konsistent bleibt.
 
-Du kannst einen Monat erst anfordern wenn der vorangegangene Monat gesperrt ist.
+Du kannst einen Monat erst anfordern, wenn der vorangegangene Monat gesperrt ist.
 
 ## Q \|  Wer kann meine Daten sehen?
 
 **A** \| Du und die Clock-Admins, die sich aber nicht um Deine Daten, sondern um das System kümmern.
 
-"Die Uni" \(= Deine Dienststelle, also Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast _nachdem_ Du ihn exportiert und \(auf Papier\) abgegeben hast.
+"Die Uni" \(= Deine Dienststelle, also Institute, Labore, Bibliothek...\) kann nicht zugreifen und sieht nur, was Du auf Deinem Stundenzettel stehen hast, _nachdem_ Du ihn exportiert und \(auf Papier\) abgegeben hast.
 
 ## Q \| Wie ist das mit dem Datenschutz?
 

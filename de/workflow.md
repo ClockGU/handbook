@@ -11,7 +11,7 @@ Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz
 Die Anmeldung erfolgt mit Deinem HRZ-Account.
 
 {% hint style="info" %}
-Wir empfehlen Dir, Deinen studentischen Account \(s1234567\) zu benutzen und nicht Deinen Dienstaccount, falls Du einen hast. Dein Dienstaccount wird sofort nach Vertragsende ungültig und Du kannst Clock nicht mehr benutzen. Wenn du von Deinem Dienstaccount auf Deinen Studi-Account umziehen willst, melde Dich bei uns.
+Wir empfehlen Dir, Deinen studentischen Account \(s1234567\) zu benutzen und nicht Deinen Dienstaccount, falls Du einen hast. Dein Dienstaccount wird sofort nach Vertragsende ungültig, und Du kannst Clock nicht mehr benutzen. Wenn du von Deinem Dienstaccount auf Deinen Studi-Account umziehen willst, melde Dich bei uns.
 {% endhint %}
 
 Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, Dich über Dein HRZ-Konto zu authentifizieren.
@@ -28,7 +28,7 @@ Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract\)_ anlege
 
 Wenn Du bereits einen Vertrag \(oder mehrere\) angelegt hast, wirst Du immer auf den zuletzt bearbeiteten Vertrag weitergeleitet. Wenn Du die Ansicht wechselst, bleibst Du im jeweils ausgewählten Vertrag.
 
-Falls Du Deine Personalnummer gerade nicht zur Hand hast \(sie steht auf Deinen Gehaltsabrechnungen\), kannst Du die Eingabe überspringen. Du wirst dann beim Stundenzettel-Export nochmals nach der Nummer gefragt oder Du kannst Sie jederzeit in den `Einstellungen` eingeben.
+Falls Du Deine Personalnummer gerade nicht zur Hand hast \(sie steht auf Deinen Gehaltsabrechnungen\), kannst Du die Eingabe überspringen. Du wirst dann beim Stundenzettel-Export nochmals nach der Nummer gefragt, oder Du kannst Sie jederzeit in den `Einstellungen` eingeben.
 
 #### Datenschutzerklärung akzeptieren
 
@@ -75,7 +75,7 @@ Wiederholte Schichten werden nicht als Serie, sondern als einzelne Schichten ang
 
 Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In den verschiedenen Ansichten kannst Du nicht-überprüfte Schichten immer leicht erkennen. Sie werden im Kalender heller dargestellt, tragen ein ❌ in der Schicht-Tabelle oder einen Hinweis im "Letzte Aktivitäten"-Bereich auf dem Dashboard.
 
-Um eine Schicht zu überprüfen musst Du sie zum Bearbeiten öffnen und kannst den Haken zum Überprüfen setzen. Diesen Vorgang kannst Du nicht rückgängig machen, da es nicht möglich ist, in der Vergangenheit liegende, nicht-überprüfte Schichten abzuspeichern.
+Um eine Schicht zu überprüfen, musst Du sie zum Bearbeiten öffnen und kannst den Haken zum Überprüfen setzen. Eine Schicht kann nicht abgespeichert werden, wenn sie nicht überprüft wurde. Sobald sie zum Bearbeiten geöffnet wird, muss sie auch überprüft werden \(ansonsten kannst Du den Vorgang abbrechen, wenn Du Dir gerade nicht sicher bist\).
 
 ## Stundenzettel exportieren
 
@@ -83,7 +83,7 @@ Du kannst zu einem Monat einen Stundenzettel `anfordern` und dann herunterladen.
 
 Du kannst den Stundenzettel immer wieder neu erzeugen, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
 
-Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren_. Dann können keine Schichten mehr verändert werden und Du kannst den Stundenzettel für den nächsten Monat anfordern.
+Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren_. Dann können keine Schichten mehr verändert werden, und Du kannst den Stundenzettel für den nächsten Monat anfordern.
 
 {% hint style="warning" %}
 Um einen Stundenzettel für einen neuen Monat zu exportieren, **muss** der vorangegangene Monat gesperrt werden. Damit wird sichergestellt, dass der Stundenübertrag richtig berechnet wird.

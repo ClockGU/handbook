@@ -23,7 +23,7 @@ Das Frontend ist mit dem Javascript-Framework [Vue.js](http://vuejs.org) umgeset
 
 ### Design
 
-Apps verwenden wir \(fast\) alle - auf mobilen oder nichtmobilen Geräten - und da gibt es viele Varianten, die Benutzeroberfläche zu gestalten.
+Apps verwenden wir \(fast\) alle - auf mobilen oder nicht-mobilen Geräten - und da gibt es viele Varianten, die Benutzeroberfläche zu gestalten.
 
 Wir halten uns weitestgehend an die Designsprache [Material Design](http://material.io), die von Google entwickelt wurde und zu einem gewissen Standard im Web geworden ist.
 

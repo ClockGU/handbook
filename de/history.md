@@ -6,7 +6,7 @@ description: Zur Geschichte von Clock
 
 ## History
 
-Die Idee von Clock entstand ca. 2014 am [Zentrum Naturwissenschaften](https://www.starkerstart.uni-frankfurt.de/38922940/ZNWK). Damals wurden die monatlichen Stundenzettel neu eingeführt und das war ziemlich anstrengend und umständlich, denn alles musste von Hand eingetragen werden.
+Die Idee von Clock entstand ca. 2014 am [Zentrum Naturwissenschaften](https://www.starkerstart.uni-frankfurt.de/38922940/ZNWK). Damals wurden die monatlichen Stundenzettel neu eingeführt - und das war ziemlich anstrengend und umständlich, denn alles musste von Hand eingetragen werden.
 
 #### Beginnings
 
@@ -20,9 +20,9 @@ Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Feh
 
 Als dann das Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
 
-Außerdem hatten sich die gesammelten Programmierkenntnisse weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
+Außerdem hatten sich die gesammelten Programmierkenntnisse weiterentwickelt, und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
 
-Vor allem aber gab es eine Personalabteilung, die sehr interessiert daran war, eine gute Alternative zu der nicht ganz perfekten Excel-Methode anbieten zu können und sich vorstellen konnte, etwas in die Entwicklung zu investieren.
+Vor allem aber gab es eine Personalabteilung, die sehr interessiert daran war, eine gute Alternative zu der nicht ganz perfekten Excel-Methode anbieten zu können, und sich vorstellen konnte, etwas in die Entwicklung zu investieren.
 
 #### Der Weg zu Clock 1.0
 
@@ -40,7 +40,7 @@ Ein neues Produkt muss auch geprüft werden: ob es tut, was es soll, ob es keine
 
 ### It's alive!
 
-Im Herbst 2020 haben wir schließlich beschlossen, Clock allen zur Verfügung zu stellen - und Clock einfach bei den Formularen für Hilfskräfte verlinkt. Seither haben wir eine stetig steigende Benutzerzahl und werden das Produkt demnächst auch stärker bewerben.
+Im Herbst 2020 haben wir schließlich beschlossen, Clock allen zur Verfügung zu stellen - und Clock einfach bei den Formularen für Hilfskräfte verlinkt. Seither haben wir eine stetig steigende Benutzer\*innenzahl und werden das Produkt demnächst auch stärker bewerben.
 
 Es wird immer wieder dazu kommen, dass einige Details nachgearbeitet und Funktionen nachgereicht werden - und auch, dass mal etwas nicht perfekt funktioniert. Dafür ist auch Dein [Feedback](how2feedback.md) wichtig!
 

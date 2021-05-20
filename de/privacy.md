@@ -8,11 +8,11 @@ Clock ist eine Web-App für individuelle Benutzer\*innen.
 
 Das bedeutet, dass man Clock nur mit einem Benutzerkonto und einem Passwort benutzen kann, weil Deine gesammelten Arbeitszeiten nur _Dich_ etwas angehen.
 
-Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Artikel.
+Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind, und was damit geschieht, erklären wir in diesem Artikel.
 
 ## Gepeicherte Daten
 
-Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, werden in einer _Datenbank_ gespeichert. Dazu gehören
+Alle Daten, die Dich als Benutzer\*in betreffen, bzw. von Dir eingegeben wurden, werden in einer _Datenbank_ gespeichert. Dazu gehören...
 
 * die Daten Deines Benutzerkontos:
   * Login-Name\*
@@ -52,7 +52,7 @@ Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider
 
 Die Anmeldung bei Clock wird über den Zentralen Authentifizierungsdienst \(CAS\) des Hochschulrechenzentrums abgewickelt, der bei der erfolgreichen Anmeldung ein Cookie in Deinem Browser gesetzt.
 
-Clock setzt keine Cookies, nutzt aber den lokalen Speicher \_\_\(local Storage\) deines Browsers, um dort ein Anmelde-Token abzulegen. Beim Besuch von Clock wird beim CAS nachgefragt, ob die Token gültig sind und du ordnungsgemäß angemeldet bist. Wenn nicht, musst Dich erneut beim CAS-Server anmelden.
+Clock setzt keine Cookies, nutzt aber den lokalen Speicher \(local Storage\) deines Browsers, um dort ein Anmelde-Token abzulegen. Beim Besuch von Clock wird beim CAS nachgefragt, ob die Token gültig sind und du ordnungsgemäß angemeldet bist. Wenn nicht, musst Du Dich erneut beim CAS-Server anmelden.
 
 ## Wo liegen meine Daten?
 
@@ -62,13 +62,13 @@ Die Clock-Datenbank liegt auf einem Server im Hochschulrechenzentrum, der vom Cl
 
 Eigentlich nur Du.
 
-"Eigentlich" \_\_deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln aus technischen Gründen Zugriff auf die Datenbank haben müssen.
+"Eigentlich" deshalb, weil die Administratoren, die die Clock-App betreuen und weiterentwickeln, aus technischen Gründen Zugriff auf die Datenbank haben müssen.
 
-Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden.
+Sie werden aber nicht in Deine Arbeitszeitdaten hineinschauen, ohne Dich zu fragen, oder ohne von Dir dazu aufgefordert zu werden.
 
 ## Kann ich meine Daten einsehen?
 
-Clock enthält nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder live-Clocken von Schichten. Diese kannst Du immer einsehen.
+Clock enthält nur Daten, die Du selbst eingegeben hast - entweder durch manuelles Eintragen oder Live-Clocken von Schichten. Diese kannst Du immer einsehen.
 
 Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die, die Du nicht ändern kannst\).
 
@@ -76,7 +76,7 @@ Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die
 
 Einzelne Schichten kannst Du jederzeit selbsttätig löschen, sofern der Monat noch nicht gesperrt ist.
 
-Du kannst alle Daten komplett löschen indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestätigung musst Du dafür Deine Mailadresse eingeben. Diese sieht evtl. anders aus als Deine gewohnte Adresse, weil @stud-Adressen so genannte _Aliasse_ \(alternative Namen\) sind.
+Du kannst alle Daten komplett löschen, indem Du Deinen Account löschst \("Recht auf Vergessenwerden"\). Zur Bestätigung musst Du dafür Deine Mailadresse eingeben. Diese sieht evtl. anders aus als Deine gewohnte Adresse, weil @stud-Adressen so genannte _Aliasse_ \(alternative Namen\) sind.
 
 Natürlich hat das Löschen des Clock-Accounts keinen Einfluss auf Deinen HRZ-Account.
 
@@ -85,7 +85,7 @@ Aus technischen Gründen bleiben die Daten in den Sicherheitskopien erhalten. Be
 {% endhint %}
 
 {% hint style="danger" %}
-Ein gelöschter Account kann nicht wieder hergestellt werden!
+Ein gelöschter Account kann nicht wiederhergestellt werden!
 {% endhint %}
 
 ## Darf ich meine Daten haben?
