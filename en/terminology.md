@@ -47,7 +47,7 @@ If you record a Shift that carries on past midnight or comprises several days, C
 If two Shifts happen to overlap, a warning is displayed, and you need to resolve this conflict before you can export your time report. That's because you're unique ;-\)
 {% endhint %}
 
-_Active_ Shifts are currently running Shifts you stated by clocked in at the moment. Active Shifts may always be deleted directly, in case you logged in by mistake.
+_Active_ Shifts are currently running Shifts you started by clocking in. Active Shifts may always be deleted directly, in case you logged in by mistake.
 
 It is impossible to edit the record for a Shift while it is still active, e.g. because you logged in too late. You may change the record after terminating an active Shift, however \(and we are working on a way to improve this\).
 
