@@ -35,6 +35,8 @@ Feedback erreicht uns ansonsten auch per Mail über [clock-kontakt@dlist.uni-fra
 
 Bei Serverfehlern, die ab und an auftreten können, öffnet sich automatisch ein Fenster, in das man auch direkt einen Fehlerbericht eintragen kann.
 
+Bitte gib auch beim Feedback an, ob Du Clock auf einem Mobilgeräte oder auf einem großen Bildschirm verwendest. Manche Teile der Oberfläche verhalten sich unterschiedlich.
+
 ## 1. Fehler \| Bugs
 
 ...sind \(offensichtliche\) _Programmfehler_, die so schnell wie möglich behoben werden müssen.
