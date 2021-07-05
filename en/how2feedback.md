@@ -39,6 +39,8 @@ We also accept feedback via e-mail: [clock-kontakt@dlist.uni-frankfurt.de](mailt
 
 In case of server errors a window receiving an error report opens automatically. Please use it to inform us about any system errors.
 
+Please include information about your device, especially if you are using a mobile device or a desktop computer or tablet with a large screen. Some elements behave differently depending on screen size.
+
 ## 1. Bugs
 
 ...are \(evident\) programming errors that need to be corrected as soon as possible.
