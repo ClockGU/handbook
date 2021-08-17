@@ -47,16 +47,17 @@ Released Feb. 15, 2021 - 22:00
 * download of your own data \(GDPR\) works for all Users
 * correct computation of Shifts that are moved to another Contract
 
-## Fix 2021.06a
+## Fix 2021.08
 
 Released 
 
 ### New Features
 
 * simplified time input by keyboard
-* highlight of invalid dates in shift forms
+* invalid dates in shift forms are highlighted
 * GDPR-export filename contains user's name
 * new shift type _bank holdiay_
+* weekly and daily progress \(note: only saved and reviewed shifts are included\)
 
 ### Anpassungen
 
@@ -68,7 +69,10 @@ Released
 
 ### Fehlerbehebungen
 
-* shift and report views remember stay in the last-edited month upon update.
+* fixed 404-blocking error after locking the actual month
+
+  shift and report views remember stay in the last-edited month upon update.
+
 * correct update of dashboards after modification of _last activity_ shifts
 * repeated shifts are saved with a correct review status
 * corrections and translations
