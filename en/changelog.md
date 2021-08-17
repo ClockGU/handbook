@@ -49,7 +49,7 @@ Released Feb. 15, 2021 - 22:00
 
 ## Fix 2021.08
 
-Released 16.08. - 18:15 
+Released Aug. 16, 2021 - 18:15 
 
 ### New Features
 
