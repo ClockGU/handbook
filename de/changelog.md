@@ -47,23 +47,28 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 * Der Download der in Clock gespeicherten Daten \(nach DSGVO / GDPR\) funktioniert nun für alle User
 * korrekte Berechnung von Schichten, die in einen anderen Vertrag verschoben wurden
 
-## Fix 2021.06a
+## Release 2021.08
 
 **Neue Features**
 
-* Anzeige von falschen Daten im Schichtformular
+* leichtere Uhrzeiteingabe per Tastatur
+* Hervorhebung von falschen Daten im Schichtformular
 * Der Dateiname des Datenexports \(nach DSGVO / GDPR\) enthält den eigenen Namen
+* Feiertage können als Schichttyp ausgewählt werden
+* Wochen- und tagesbasierte Fortschrittsanzeige \(Hinweis: derzeit werden nur abgeschlossene und überprüfte Schichten berücksichtigt.\)
 
 **Anpassungen**
 
-* verbesserte Uhrzeiteingabe im Schichtformular per Tastatur
 * Anpassung der Datenschutzerklärung an die tatsächliche Verarbeitungspraxis
 * verbesserte Datenschutz-Dialoge
 * bessere Darstellung des _Einstellungen_-Dialogs auf kleinen Bildschirmen
 * transparentere Anzeige von überprüften Schichten im Schichtformular
+* Abwesenheitsgrund wird übersetzt angezeigt
+* verbesserte Uhrzeiteingabe im Schichtformular per Tastatur
 
 **Fehlerbehebungen**
 
+* 404-Blockade nach dem Sperren des aktuellen Monats behoben
 * Schichtansicht und Reportansicht springen bei Änderungen an vergangenen Monaten nicht mehr zum heutigen Monat
 * Das Dashboard aktualisiert sich bei Änderungen aus den _Letzten Aktivitäten_ heraus korrekt
 * Wiederholte Schichten werden mit dem korrekten "überprüft"-Status gespeichert \(dieser Fehler trat vor allem bei vergangenen Schichten auf, die in die Zukunft wiederholt werden\)
