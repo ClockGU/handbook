@@ -49,6 +49,8 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 
 ## Release 2021.08
 
+Veröffentlicht am 16.08.2021 - 18:15 Uhr
+
 **Neue Features**
 
 * leichtere Uhrzeiteingabe per Tastatur
