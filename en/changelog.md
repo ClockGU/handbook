@@ -21,14 +21,14 @@ Released Feb. 15, 2021 - 22:00
   * past and future \(scheduled\) Shifts are separated
   * better display of reviewed / unreviewed Shifts
   * batch editing of multiple Shifts \(delete, assign to Contract, review\)
-* Calendard
+* Calendar
   * unreviewed and future Shifts are displayed in a lighter tone
 
 ### Modifications
 
 * data storage consent \(Accept the privacy agreement\)
 * the week begins on monday
-* better display of expired Contracts
+* better display of expired Contracts‌
 
 ### Bugfixes
 
@@ -46,4 +46,31 @@ Released Feb. 15, 2021 - 22:00
 
 * download of your own data \(GDPR\) works for all Users
 * correct computation of Shifts that are moved to another Contract
+
+## Fix 2021.06a
+
+Released 
+
+### New Features
+
+* simplified time input by keyboard
+* highlight of invalid dates in shift forms
+* GDPR-export filename contains user's name
+* new shift type _bank holdiay_
+
+### Anpassungen
+
+* privacy information adapted to actual data processing
+* improved privacy dialog
+* improved _settings_ menu for smaller screens
+* improved display of a shift's review status
+* translation of worksheet export
+
+### Fehlerbehebungen
+
+* shift and report views remember stay in the last-edited month upon update.
+* correct update of dashboards after modification of _last activity_ shifts
+* repeated shifts are saved with a correct review status
+* corrections and translations
+* Smaller corrections and fixes
 
