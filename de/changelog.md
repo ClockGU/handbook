@@ -12,21 +12,21 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 
 * Nachrichten auf dem Dashboard!
 * verbessertes Schicht-Formular
-  * wiederholbare Schichten \(z.B. für wöchentliche Tutorien\)
+  * wiederholbare Schichten (z.B. für wöchentliche Tutorien)
   * verbesserte Uhrzeiteingabe per Tastatur
-  * Überprüfung \(review\) von geplanten Schichten
+  * Überprüfung (review) von geplanten Schichten
   * _Letzte Aktivität_ zeigt nur vergangene Schichten
   * Klick auf _Letzte Aktivität_ führt direkt zur Bearbeitung der Schicht
 * Neue Schichtansicht
-  * Trennung zwischen abgeschlossenen und geplanten \(zukünftigen\) Schichten
+  * Trennung zwischen abgeschlossenen und geplanten (zukünftigen) Schichten
   * transparente Darstellung von überprüften / nicht überprüften Schichten
-  * gleichzeitige Bearbeitung mehrerer Schichten \(Löschen, Vertrag ändern, überprüfen\)
+  * gleichzeitige Bearbeitung mehrerer Schichten (Löschen, Vertrag ändern, überprüfen)
 * Kalender
   * nicht überprüfte und zukünftige Schichten werden heller dargestellt
 
 #### **Anpassungen**
 
-* Einwilligung in die Datenverarbeitung \(Akzeptieren der Datenschutzerklärung\)
+* Einwilligung in die Datenverarbeitung (Akzeptieren der Datenschutzerklärung)
 * Wochenbeginn am Montag
 * abgelaufene Verträge werden überall klarer dargestellt
 
@@ -44,7 +44,7 @@ Veröffentlicht am 15.02.2021 - 22:00 Uhr
 
 #### Fehlerbehebungen
 
-* Der Download der in Clock gespeicherten Daten \(nach DSGVO / GDPR\) funktioniert nun für alle User
+* Der Download der in Clock gespeicherten Daten (nach DSGVO / GDPR) funktioniert nun für alle User
 * korrekte Berechnung von Schichten, die in einen anderen Vertrag verschoben wurden
 
 ## Release 2021.08
@@ -55,9 +55,9 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 
 * leichtere Uhrzeiteingabe per Tastatur
 * Hervorhebung von falschen Daten im Schichtformular
-* Der Dateiname des Datenexports \(nach DSGVO / GDPR\) enthält den eigenen Namen
+* Der Dateiname des Datenexports (nach DSGVO / GDPR) enthält den eigenen Namen
 * Feiertage können als Schichttyp ausgewählt werden
-* Wochen- und tagesbasierte Fortschrittsanzeige \(Hinweis: derzeit werden nur abgeschlossene und überprüfte Schichten berücksichtigt.\)
+* Wochen- und tagesbasierte Fortschrittsanzeige (Hinweis: derzeit werden nur abgeschlossene und überprüfte Schichten berücksichtigt.)
 
 **Anpassungen**
 
@@ -73,7 +73,50 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 * 404-Blockade nach dem Sperren des aktuellen Monats behoben
 * Schichtansicht und Reportansicht springen bei Änderungen an vergangenen Monaten nicht mehr zum heutigen Monat
 * Das Dashboard aktualisiert sich bei Änderungen aus den _Letzten Aktivitäten_ heraus korrekt
-* Wiederholte Schichten werden mit dem korrekten "überprüft"-Status gespeichert \(dieser Fehler trat vor allem bei vergangenen Schichten auf, die in die Zukunft wiederholt werden\)
+* Wiederholte Schichten werden mit dem korrekten "überprüft"-Status gespeichert (dieser Fehler trat vor allem bei vergangenen Schichten auf, die in die Zukunft wiederholt werden)
 * Korrekturen und Übersetzungen in den Anzeigetexten
 * kleinere Verbesserungen und Fehlerkorrekturen
 
+## Release 2022.06
+
+**Neue Features**
+
+* Onboarding:
+  * "Tour" mit Erklärungen zu den wichtigsten Clock-Funktionen
+  * "Onboarding nicht mehr anzeigen"-Funktion
+* verbesserte Zeiteingabe der Stundenzahl in Verträgen
+  * Unterstützung von einfachen Eingaben (h; hmm; ...)
+  * Unterstützung von dezimalen Minuten bei der monatlichen Arbeitszeit
+* Schichten:
+  * Schichttypen werden durch farbige Icons dargestellt
+  * Geplante bzw. manuell angelegte Schichten werden mit einem "live"-Marker angezeigt, wenn sie zum aktuellen Zeitpunkt gültig sind (nicht zu verwechseln mit live geclockten Schichten)
+* Schichttabelle:
+  * verbesserte Toolbar mit Icons für Sammelaktionen
+  * Schnelles Überprüfen (per Klick auf das X-Symbol)
+  * Anzeigen und Filtern/Suchen von Tags und Notizen
+  * Anzeige der Gesamtzeit der vergangenen und zukünftigen Schichten
+* Warnungen auf der Fortschrittsanzeige:
+  * Übertrag (mehr als 100% der monatlichen Arbeitszeit überschritten)
+  * maximal erlaubte Mehrarbeitsstunden (50%) überschritten
+  * maximale tägliche Arbeitszeit (8h) überschritten
+
+**Anpassungen**
+
+* Zustimmung zur Datenschutzerklärung vor dem Anlegen des ersten Vertrags im Onboarding
+* verbesserte Anzeige, wenn kein Vertrag angelegt wurde (kein automatischer Neustart des Onboardings)
+* Übertrag kann nicht verändert werden, wenn Monate gesperrt sind
+* Bei Überschneidungen wird die Zahl der beteiligten Schichten angezeigt und nicht die einzeln gezählten Überschneidungen
+* Archivbereich für abgelaufene Verträge
+* maximale Vertragslaufzeit von 7 Monaten
+* verpflichtende Angabe der Personalnummer für den Export
+* Bestätigungsdialog bei Änderung der Personalnummer
+
+**Fehlerbehebungen**
+
+* fehlende Dashboard-Aktualisierung nach geteilten Schichten behoben
+* korrekte Sortierung in der Schichttabelle
+* Mitternachts-Clock-out Bug behoben
+* Fehler bei wiederholten Schichten über Jahreswechsel behoben
+* Schichten können nicht mehr in abgelaufene Verträge verschoben werden
+* Korrekturen und Übersetzungen in den Anzeigetexten
+* kleinere Verbesserungen und Fehlerkorrekturen
