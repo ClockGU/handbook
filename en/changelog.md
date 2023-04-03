@@ -119,3 +119,35 @@ Released Aug. 16, 2021 - 18:15&#x20;
 * shifts can no longer be assigned to expired contracts
 * corrections and translations
 * smaller corrections and fixes
+
+## Release 2023.04
+
+**New Features**
+
+* Work times are now validated according to German legal requirements (Working Time Act a.k.a. ArbZG) and to the university's self-commitment declaration on working conditions for student workers
+  * a warning will be displayed if your working hours conflict with the Working Time Act
+  * no regular shifts are allowed on sundays and bank holidays (§9 ArbZG)
+* shifts of the type "sick" "holiday" are mutually exclusive on a given day
+* contact form to reach the ombudsperson for student affairs
+* The FAQ are now available in English
+* Messages are now available in English
+
+**Modifications**
+
+* the runtime of contracts is not limited
+* contact forms also send a mail in cc to the user
+* overlapping of shifts is not allowed across contracts
+* new shifts on a past date will automatically be saved as "reviewed"
+* new shifts in the future will not be saved as "reviewed"
+* breaks will automatically be subtracted according to the Working Time Act (§4 ArbZG) - this applies to single hifts longer than 6 hours.
+* The personnel number is no longer required to export your timesheet
+
+**Bugfixes**
+
+* corrections and translations
+* smaller corrections and fixes
+
+**Hints**
+
+* The data structure has been massively rebuild and Clock should show faster responses
+* Please report all errors and bugs as soon as possible!
