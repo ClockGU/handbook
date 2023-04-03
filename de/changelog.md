@@ -120,3 +120,34 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 * Schichten können nicht mehr in abgelaufene Verträge verschoben werden
 * Korrekturen und Übersetzungen in den Anzeigetexten
 * kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2023.04
+
+**Neue Features**
+
+* Arbeitszeitvalidierungen gemäß dem deutschen Arbeitsrecht (Arbeitszeitgesetz) und im Rahmen der Selbstverpflichtungserklärung der Goethe-Universität zu den Arbeitsbedingungen für studentische Hilfskräfte
+  * Warnungen, falls die Buchung im Konflikt mit den gesetzlichen Vorgaben steht
+  * An Sonn- und Feiertagen dürfen keine regulären Schichten geclockt werden (§9 ArbZG)
+* Bei Krankheit oder Urlaub ist der Schichttyp tageweise exklusiv.
+* Formular für den schnellen Kontakt zur Ombudsperson für Studierende
+* Das FAQ gibt es nun auch auf Englisch
+* Nachrichten gibt es nun ebenfalls auf Englisch
+
+**Anpassungen**
+
+* Arbeitsverträge haben keine zeitliche Laufzeitbeschränkung mehr
+* Die Formulare für Feedback und Ombudsperson setzen den User in CC.
+* Eine Überlappung von Schichten wird über einen Vertrag hinaus für einen User nicht mehr akzeptiert.
+* Neue Schichten in der Vergangenheit werden automatisch als "überprüft" gespeichert.
+* Neue Schichten in der Zukunft werden immer als "nicht überprüft" gespeichert.
+* Gesetzliche Mindestpausen werden bei Bedarf automatisiert von der gebuchten Arbeitszeit abgezogen (§4 Arbeitszeitgesetz).
+* Die Personalnummer ist nicht mehr zwingend erforderlich für einen Stundenzettelexport
+
+**Fehlerbehebungen**
+
+* Korrekturen und Übersetzungen in den Anzeigetexten
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+**Hinweise**
+
+* Im Hintergrund wurde die Datenstruktur umgebaut, was sich für die Nutzer:innen wenn, dann durch schnellere Zugriffszeiten bemerkbar machen sollte.
