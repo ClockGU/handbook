@@ -151,3 +151,36 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 **Hinweise**
 
 * Im Hintergrund wurde die Datenstruktur umgebaut, was sich für die Nutzer:innen wenn, dann durch schnellere Zugriffszeiten bemerkbar machen sollte.
+
+## Release 2023.05
+
+**Neue Features**
+
+* Wenn geclockte Schichten über Mitternacht hinausgehen, wird die Endzeit auf 23:59 gesetzt. Die Schicht muss nach dem Ausclocken nochmals bearbeitet werden.
+* In den ersten 5 Tagen eines Monats wird ein Hinweis angezeigt, der an den Export des Stundenzettels erinnert.
+
+**Anpassungen**
+
+* verbesserte Anzeige der Nachrichten
+* Die Spracheinstellungen können innerhalb der App in vielen Dialogen geändert werden.
+
+**Fehlerbehebungen**
+
+* Fehler in den Stundenberechnungen wurden behoben.
+* Auch bei untermonatigem Vertragsbeginn werden korrekte Zeiten angezeigt.
+* Korrekturen und Übersetzungen in den Anzeigetexten
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2023.06
+
+**Anpassungen**
+
+* Für wiederholte Schichten gibt es keine Auswahl mehr von Wiederholungen am Wochenende (§9 ArbZG).
+* Beim Löschen von Verträgen wird darauf hingewiesen, dass alle Schichten, die zu diesem Vertrag gehören, ebenfalls gelöscht werden.
+* Bei geclockten Schichten, die über 00:00 Uhr eines Tages gehen, wird ein verbesserter Hinweistext angezeigt.
+
+**Fehlerbehebungen**
+
+* Verträge können nun auch mit einem negativen Übertrag angelegt werden.
+* Korrekturen und Übersetzungen in den Anzeigetexten
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
