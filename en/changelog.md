@@ -151,3 +151,36 @@ Released Aug. 16, 2021 - 18:15&#x20;
 
 * The data structure has been massively rebuild and Clock should show faster responses
 * Please report all errors and bugs as soon as possible!
+
+## Release 2023.05
+
+**New Features**
+
+* Clocked shifts running past midnight will be set to end at 23:59 and must be edited before saving.
+* Users are reminded to export their time sheets during the first 5 days of a month.
+
+**Modifications**
+
+* improved message display
+* Language settings can be changed from many views within the app.
+
+**Bugfixes**
+
+* fix general errors in report calculations
+* fix errors in report calculations for contracts starting on the 16th of a month
+* minor corrections and fixes
+* revised translations and corrections
+
+## Release 2023.06
+
+**Modifications**
+
+* repeating shift rules exclude the weekend (§9 ArbZG - no work on sundays)
+* new warning that all shifts will be deleted if the associated contract is deleted
+* improved message display for shifts past midnight.
+
+**Bugfixes**
+
+* allow negative carryover value in contracts
+* minor corrections and fixes
+* revised translations and corrections
