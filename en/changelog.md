@@ -184,3 +184,22 @@ Released Aug. 16, 2021 - 18:15&#x20;
 * allow negative carryover value in contracts
 * minor corrections and fixes
 * revised translations and corrections
+
+## Release 2023.07
+
+**Modifications**
+
+* consistent and sufficient size for dialogs
+* The inital carryover can not be modified if a month is locked.
+* Shifts with warnings are highlighted with an exclamation mark.
+* The standard date for new Shifts matches the selected month in the shift table or the calendar.
+* The repeating rules of scheduled Shifts allows excludes weekends and allows weekday repetitions only.
+* Scheduled shifts will be qualified by their start time and correctly displayed as actually running shifts.
+
+**Bugfixes**
+
+* All repeating shifts will be generated.
+* "Holiday" shifts can only be saved on bank holidays.
+* The automatic subtraction of breaks is correctly reported on the worktime sheet.
+* minor corrections and fixes
+* revised translations and corrections
