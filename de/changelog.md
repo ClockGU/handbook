@@ -184,3 +184,22 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 * Verträge können nun auch mit einem negativen Übertrag angelegt werden.
 * Korrekturen und Übersetzungen in den Anzeigetexten
 * verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2023.07
+
+**Anpassungen**
+
+* Dialoge haben nun eine einheitliche und ausreichende Größe.
+* Der initiale Übertrag (Startwert) eines Vertrags kann nicht mehr verändert werden wenn ein Monat gesperrt wurde.
+* Schichten mit Warnungen werden in der Schichttabelle mit einem Ausrufezeichen markiert.
+* Das Standarddatum beim Anlegen neuer Schichten aus Kalender oder Tabelle heraus passt sich dem ausgewählten Monat an.
+* Wiederholung von Schichten nur noch "wochentags" und nicht mehr "täglich" möglich.
+* Geplante Schichten werden nach Startpunkt unterschieden und damit korrekt als "laufend" angezeigt.
+
+**Fehlerbehebungen**
+
+* Bei der Schichtplanung werden nun auch alle der Wiederholungsregel entsprechenden Schichten angelegt.
+* Feiertags-Schichten können nicht mehr an beliebigen Tagen gebucht werden.
+* Der automatische Pausenabzug wird korrekt im Stundenzettel angezeigt.
+* Korrekturen und Übersetzungen in den Anzeigetexten
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
