@@ -203,3 +203,39 @@ Released Aug. 16, 2021 - 18:15&#x20;
 * The automatic subtraction of breaks is correctly reported on the worktime sheet.
 * minor corrections and fixes
 * revised translations and corrections
+
+## Release 2023.10
+
+**New Features**
+
+* Clock goes dark! Introducing an new Dark Theme for the user interface
+* User data will be deleted one month afther the HRZ-account expires
+
+**Modifications**
+
+* Optimised mail handling for feedback messages with the HRZ mail server
+* Optimised representation for formatted messages
+
+**Bugfixes**
+
+* Alle months are accessible upon changing the contract's start/end dates
+* carryover is only shown once
+
+## Release 2023.11
+
+**New Features**
+
+* improved date switcher in caldendar view (weekly and monthly)
+
+**Modifications**
+
+* "Add Shift" form
+  * improved default date, especially with contracts starting on the 16th of a month
+  * form reacts to main view's selected contract
+  * all contracts shown and labelled (expired & future) for more transparency
+  * selecting a past contract invalidates the form
+
+**Bugfixes**
+
+* The problem with the GDPR-export have been solved.
+* All snack notifications are shown.
