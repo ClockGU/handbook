@@ -203,3 +203,39 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 * Der automatische Pausenabzug wird korrekt im Stundenzettel angezeigt.
 * Korrekturen und Übersetzungen in den Anzeigetexten
 * verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2023.10
+
+**Neue Features**
+
+* Clock goes dark - Einführung eines Dark Theme für die Benutzeroberfläche
+* Userdaten werden nach Ausscheiden (Ablauf des Accounts) automatisch gelöscht
+
+**Anpassungen**
+
+* Optimierung des Mailversands für Feedback-Nachrichten über den HRZ-Mailserver
+* Verbesserte Darstellung von Nachrichten mit Formatierung
+
+**Fehlerbehebungen**
+
+* Bei Veränderung des Vertragszeitraums sind nun alle Monate in der Schichtübersicht erreichbar
+* Monatsübertrag wird nicht mehr doppelt angezeigt
+
+## Release 2023.11
+
+**Neue Features**
+
+* Blättern von Wochen und Tagen in der Kalenderansicht
+
+**Anpassungen**
+
+* Formular "Schicht hinzufügen"
+  * Das vorausgewählte Datum berücksichtigt den Vertragsstart am 16. eines Monats
+  * Das Formular aktualisiert sich beim Wechsel eines Vertrags.
+  * Im Formular werden alle Verträge (abgelaufen und zukünftig) angezeigt.
+  * Die Auswahl eines abgelaufenen Vertrags invalidiert das Formular.
+
+**Fehlerbehebungen**
+
+* Der DSGVO-Export im JSON-Format ist wieder möglich.
+* Alle Snack-Benachrichtigungen werden wieder angezeigt.
