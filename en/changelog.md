@@ -239,3 +239,18 @@ Released Aug. 16, 2021 - 18:15&#x20;
 
 * The problem with the GDPR-export have been solved.
 * All snack notifications are shown.
+
+## Release 2023.12
+
+**New Features**
+
+* Introducing the unified calendar with shifts from all contracts
+* Introducing contract colors to distinguish different contracts
+
+**Modifications**
+
+* modified Shift Table headers for consistency ("past" and "future")
+
+**Bugfixes**
+
+* Repeating Shifts will be resetted if the option is first checked and then unchecked
