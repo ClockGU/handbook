@@ -254,3 +254,19 @@ Released Aug. 16, 2021 - 18:15&#x20;
 **Bugfixes**
 
 * Repeating Shifts will be resetted if the option is first checked and then unchecked
+
+## Release 2024.01
+
+**New Features**
+
+* Introducing the Vacation Overview to help you keeping track of your Vacation Shifts.
+* Bank holidays are shown with a (sunny) symbol in the Calendar View
+
+**Modifications**
+
+* Personnel number can not be changed (only by contacting support).
+* No carryover can be set for a contract before the start date.
+
+**Bugfixes**
+
+* minor corrections and fixes
