@@ -270,3 +270,54 @@ Released Aug. 16, 2021 - 18:15&#x20;
 **Bugfixes**
 
 * minor corrections and fixes
+
+## Release 2024.03
+
+**Neue Features**
+
+* Einführung von VZÄ-basierten Arbeitszeitmodellen für Beschäftigte und Beamte
+
+**Fehlerbehebungen**
+
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2024.04
+
+**Framework-Updates**
+
+* Update von Vue 2 auf Vue 3
+* Update von Vuetify 2 auf Vuetify 3
+* Hinweis: Einige Komponenten können in ihrer Funktion eingeschränkt sein bis weitere Updates zur Verfügung stehen.
+
+## Release 2024.08
+
+**Neue Features**
+
+* Beim Logout wird eine Abmeldung vom zentralen Authentifizierungsdienst (CAS) ausgelöst (verbesserte Sicherheit)
+
+**Anpassungen**
+
+* Verbesserte Vertrags-Reihenfolge im Auswahlfeld
+* Verbesserte Anzeige von VZÄ bei Verträgen für reguläre Angestellte
+
+**Fehlerbehebungen**
+
+* korrigierte Berechnung des Stundenübertrags
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2024.10
+
+**Neue Features**
+
+* Neue Referenz-ID für Verträge (für zukünftige Nutzung)
+* Neue und weniger aufdringliche Darstellung von Warningen bei Regelverstößen
+* Schichten in der Kalenderansicht können direkt geöffnet werden; Wochenbeginn ist am Montag
+
+**Anpassungen**
+
+* formatierte Einträge in den FAQ möglich
+
+**Fehlerbehebungen**
+
+* Clock in / Clock out Bug am ersten Tag des Monats behoben
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
