@@ -11,32 +11,40 @@ Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz
 Die Anmeldung erfolgt mit dem persönlichen HRZ-Account.&#x20;
 
 {% hint style="info" %}
-Wir empfehlen den dienstlichen Account zu benutzen, den Du nach Einstellung automatisch zugeschickt bekommst. Beachte aber, dass dieser nach Vertragsende nicht mehr gültig ist und Du Deine Arbeitszeiterfassung spätestens am letzten Arbeitstag abschließen musst.
+Wir empfehlen Dir, den dienstlichen Account zu benutzen, den Du nach der Einstellung als studentische Hilfskraft automatisch zugeschickt bekommst. Beachte aber, dass dieser nach Vertragsende nicht mehr gültig ist und Du Deine Arbeitszeiterfassung spätestens am letzten Arbeitstag abschließen musst.
 {% endhint %}
 
-Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, Dich über Dein HRZ-Konto zu authentifizieren. Dein Passwort wird nicht in Clock gespeichert.
+Bei der ersten Anmeldung wirst Du auf die Anmeldeseite der Goethe-Universität weitergeleitet, wo Du Dein Passwort eingeben und Clock die Erlaubnis geben musst, Dich über Dein HRZ-Konto zu authentifizieren. Dein Passwort selbst wird nicht in Clock gespeichert, die Anmeldung läuft immer über die Anmeldeseite des HRZ.
 
 {% hint style="info" %}
 Du bleibst auf einem Gerät (Handy, Tablet, Desktop) für 30 Tage angemeldet, wenn Du Dich nicht ausloggst (sondern z.B. nur das Fenster schließt). Nach Ablauf dieser Zeit musst Du Dich wieder bei der HRZ-Seite anmelden. Deine Daten bleiben selbstverständlich erhalten.
 {% endhint %}
 
-Du kannst auf mehreren Geräten gleichzeitig eingeloggt sein. Du musst Dich jedoch mit jedem neuen Gerät erneut einmal bei der Uni anmelden.
+Du kannst auf mehreren Geräten gleichzeitig eingeloggt sein. Du musst Dich jedoch mit jedem _neuen_ Gerät erneut einmal bei der Uni anmelden.
 
 {% hint style="warning" %}
-Wenn Du Dich aus Clock explizit abmeldest, wirst Du auch auf allen Geräten abgemeldet.
+Wenn Du Dich aus Clock explizit abmeldest, wirst Du auf allen Geräten und von allen Uni-Diensten abgemeldet, auf denen Du noch eingeloggt bist.
 {% endhint %}
-
-## Vertrag anlegen
-
-Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Ein Assistent führt Dich schrittweise durch die Erstellung des Vertrags.
-
-Wenn Du bereits einen Vertrag (oder mehrere) angelegt hast, wirst Du immer auf den zuletzt bearbeiteten Vertrag weitergeleitet. Wenn Du die Ansicht wechselst, bleibst Du im jeweils ausgewählten Vertrag.
-
-Falls Du Deine Personalnummer gerade nicht zur Hand hast (sie steht z.B. auf Deinen Gehaltsabrechnungen oder Du kannst sie in der [IDM-App](https://idm.uni-frankfurt.de/idm-webapp/div/accselfservice) sehen), kannst Du die Eingabe auch überspringen. Du wirst dann beim Abgeben Deines Stundenzettels nochmals nach der Nummer gefragt, oder Du kannst Sie jederzeit in den `Einstellungen` eingeben.
 
 #### Datenschutzerklärung akzeptieren
 
-Nach dem erstmaligen Anlegen eines Vertrags musst Du die Einwilligung dazu geben, dass wir Deine Daten verarbeiten dürfen. Dazu musst Du die Datenschutzerklärung akzeptieren. Mehr Informationen findest Du auch im Kapitel [Datenschutz](privacy.md).
+Nach der ersten Anmeldung musst Du die Einwilligung dazu geben, dass wir Deine Daten verarbeiten dürfen. Dazu musst Du die Datenschutzerklärung akzeptieren, sonst kannst Du Clock nicht verwenden. Mehr Informationen findest Du auch im Kapitel [Datenschutz](privacy.md).
+
+Du wirst außerdem durch ein kurzes Onboarding geführt, das Dich mit den wichtigsten Funktionen von Clock vertraut macht.
+
+## Vertrag anlegen
+
+Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Dazu musst Du dem Vertrag eine Bezeichnung geben, sowie Stundenzahl und Laufzeit angeben. Während des Onboardings hast Du die Möglichkeit, das zu tun. Ein Vertrag kann auch immer später hinzugefügt werden.
+
+{% hint style="info" %}
+Die Vertragsdaten müssen Deinem realen Arbeitsvertrag entsprechen, den Du unterschrieben hast. Wenn Du mehrere gleichzeitige Verträge mit der Universität hast, musst Du auch in Clock zwei Verträge anlegen.
+{% endhint %}
+
+Falls Du Deine Personalnummer gerade nicht zur Hand hast (sie steht z.B. auf Deinen Gehaltsabrechnungen oder Du kannst sie in der [IDM-App](https://idm.uni-frankfurt.de/idm-webapp/div/accselfservice) sehen), kannst Du die Eingabe auch überspringen. Du wirst dann beim Sperren Deines Stundenzettels nach der Nummer gefragt oder Du kannst Sie jederzeit in den `Einstellungen` nachtragen.
+
+Wenn Du Clock zu nutzen beginnst und bereits ein Arbeitszeitkonto anders geführt hast (z.B. mit Excel), kannst Du einen Übertrag aus dem Vormonat angeben. Das ist dann die Basis für die weitere Berechnung Deiner Stundenzahl. In diesem Fall muss der Vertrag in Clock an dem Zeitpunkt starten, an dem Du mit der Nutzung beginnst.
+
+Im Vertrags-Dialog wird Dir außerdem eine `Referenz-ID` angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
 
 ## Clocken
 
@@ -72,14 +80,14 @@ Eine **geplante Schicht** ist ein Schicht, die in der Zukunft liegt.
 Du kannst also Schichten anlegen, wenn Du schon weißt, wann Du arbeiten wirst. Es ist auch möglich, Wiederholungen anzugeben, z.B. für "Tutorium jeden Mittwoch". Natürlich kannst du geplante Schichten genauso ändern wie alle anderen.
 
 {% hint style="info" %}
-Wiederholte Schichten werden nicht als Serie, sondern als einzelne Schichten angelegt. Wenn du eine davon löschst bleiben die anderen erhalten.
+Wiederholte Schichten werden nicht als zusammenhängende Serie, sondern als einzelne Schichten angelegt. Wenn du eine Schicht löschst, bleiben die anderen erhalten.
 {% endhint %}
 
 ### Schichten überprüfen
 
-Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In den verschiedenen Ansichten kannst Du nicht-überprüfte Schichten immer leicht erkennen. Sie werden im Kalender heller dargestellt, tragen ein ❌ in der Schicht-Tabelle oder einen Hinweis im "Letzte Aktivitäten"-Bereich auf dem Dashboard.
+Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In der Schicht-Tabelle tragen sie ein ❌ und ebenso einen Hinweis im "Letzte Aktivitäten"-Bereich auf dem Dashboard.
 
-Um eine Schicht zu überprüfen, musst Du sie zum Bearbeiten öffnen und kannst den Haken zum Überprüfen setzen. Eine Schicht kann nicht abgespeichert werden, wenn sie nicht überprüft wurde. Sobald sie zum Bearbeiten geöffnet wird, muss sie auch überprüft werden (ansonsten kannst Du den Vorgang abbrechen, wenn Du Dir gerade nicht sicher bist).
+Um eine Schicht zu überprüfen, musst Du sie zum Bearbeiten öffnen und wieder speichern. Ebenso kannst Du sie  Eine Schicht kann nur überprüft abgespeichert werden, ansonsten kannst Du den Vorgang abbrechen, wenn Du Dir gerade nicht sicher bist. Du kannst auch in der Schichttabelle direkt auf das ❌ klicken und die Schicht überprüfen.
 
 ### Validierungen
 
@@ -87,23 +95,23 @@ Für Arbeitszeiten gelten die rechtlichen Regelungen des Arbeitszeitgesetzes und
 
 Alle Schichten werden gegen diese Regeln geprüft und Du bekommst Warnungen angezeigt, wenn Deine Schicht gegen eine der Regelungen verstößt. Weitere Informationen findest Du auf der Seite [Rechtliches](rechtliches.md).
 
-## Stundenzettel exportieren
+## Stundenzettel sperren und abgeben
 
-Du kannst zu einem Monat einen Stundenzettel `anfordern` und herunterladen.
+Du kannst zu einem Monat einen Stundenzettel `anfordern` und z.B. als PDF herunterladen.
 
-Du kannst den Stundenzettel immer wieder neu erzeugen, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
+Du kannst den Stundenzettel immer wieder neu anfordern, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
 
-Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren_. Dann können keine Schichten mehr verändert werden, und Du kannst den Stundenzettel für den nächsten Monat anfordern.
+Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren und abgeben_. Dabei wird Dein Stundenzettel in den TimeVault (Zeitspeicher) übertragen und dort für 2 Jahre gespeichert. Nach dem Sperren können keine Schichten mehr verändert werden. Deine Führungskraft kann nur auf die Daten im TimeVault zugreifen.
 
 {% hint style="warning" %}
-Um einen Stundenzettel für einen neuen Monat zu exportieren, **muss** der vorangegangene Monat gesperrt werden. Damit wird sichergestellt, dass der Stundenübertrag richtig berechnet wird.
+Um einen Stundenzettel für einen neuen Monat zu exportieren, **muss** der vorangegangene Monat gesperrt werden. Damit wird sichergestellt, dass der Stundenübertrag richtig berechnet wird. Eine Sperre kann nur durch den [Support](mailto:clock.uni-frankfurt.de) wieder aufgehoben werden.
 {% endhint %}
 
 ## Abmelden
 
 Wenn Du Dich abmelden möchtest (z.B. an einem öffentlichen Rechner) dann kannst Du dies jederzeit tun. Dann wirst Du allerdings von allen HRZ-Services abgemeldet und musst Dich erneut anmelden.
 
-Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 30 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
+Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 30 Tagen musst Du Dich erneut anmelden.
 
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
