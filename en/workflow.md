@@ -1,5 +1,5 @@
 ---
-description: Clock Workflow
+description: Clock Workflows
 ---
 
 # Quick Start
@@ -8,10 +8,10 @@ Working with Clock is easy, but you may not find it completely self-explanatory.
 
 ## Logging in
 
-You can log into Clock using your HRZ Account.
+Start by logging in into Clock using your HRZ Account.
 
 {% hint style="info" %}
-We recommend that you use the official account that is automatically sent to you after you are hired as a student assistant. Be aware, though, that your work account expires immediately after your contract ends and you may not be able to login anymore.
+We recommend that you use the employee account you receive as a student assistant. Be aware, though, that your work account expires immediately after your contract ends and you may not be able to login anymore.
 {% endhint %}
 
 During your initial login, you will be redirected to the Central Authentication Service of Goethe University (CAS). You will have to enter your password and allow Clock to use your HRZ Account to authenticate you as a user. Your password will not be stored in Clock, login will always be via the CAS website.
