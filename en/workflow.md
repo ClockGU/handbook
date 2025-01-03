@@ -4,31 +4,47 @@ description: Clock Workflow
 
 # Quick Start
 
-Working with Clock is quite easy. But perhaps not all of the tasks are self-explaining in all respects. So we have the most important procedurese explained here.
+Working with Clock is easy, but you may not find it completely self-explanatory. We have summarised the most important functionalities here.
 
 ## Logging in
 
 You can log into Clock using your HRZ Account.
 
 {% hint style="info" %}
-We recommend to use your student account (s1234567) and not your work account, which you might also have. Your work account expires immediately after your contract's end and you may not be able to use Clock anymore. Please contact us if you wish to transfer your clock data to your student account.
+We recommend that you use the official account that is automatically sent to you after you are hired as a student assistant. Be aware, though, that your work account expires immediately after your contract ends and you may not be able to login anymore.
 {% endhint %}
 
-During your initial login, you will be redirected to the Single Sign On-Page of Goethe University (CAS). You will have to enter your password and allow Clock to use your HRZ Account to authenticate you as a user.
+During your initial login, you will be redirected to the Central Authentication Service of Goethe University (CAS). You will have to enter your password and allow Clock to use your HRZ Account to authenticate you as a user. Your password will not be stored in Clock, login will always be via the CAS website.
 
 {% hint style="info" %}
-You will stay logged-in with clock on the same device (e.g. mobile, tablet, desktop computer) for 30 days, unless you log off yourself (instead of e.g. merely closing the window). Afterwards, you will have to login with the University once again. Nevertheless, your data remains permanently available, of course.
+You remeina logged in on a device (e.g. mobile, tablet, desktop computer) for 30 days, unless you log off yourself (instead of e.g. merely closing the window). Afterwards, you will have to login with the University once again. Your data remains permanently available, of course.
 {% endhint %}
 
-You can be logged in with several devices at once. However, you will need to login with the University for each device separately at least once.
+You can be logged in with several devices. However, you will need to login via CAS for each device separately at least once.
 
-## Initialising a Contract
+{% hint style="warning" %}
+If you log out actively, you will also be logged out on all devices and from all University services connected to the CAS authentiation.
+{% endhint %}
 
-Before you can start working with Clock, you have to set up a _Contract_. An onboarding wizard will guide you through this process step-by-step.
+#### Accepting the privacy agreement
 
-In case you do not have your Personnel Number ready (it is printed out on your salary statement), you can skip this step. Consequently, you will be asked for your Personnel Number each time you are about to export a time report; alternatively, it is always possible to change it in your Settings.
+After your first registration, you must give your consent for us to process your data and accept the privacy policy, otherwise you will not be able to use Clock. You can also find more information in the privacy section of this handbook.
 
-If you currently have (at least) one active Contract in Clock, you will always be redirected to the last-modified Contract. When changing to another view (e.g. the calendar), you stay in your selected Contract.
+You will also be lead through a short onboarding process that will familiarise you with the most important functions of Clock.
+
+Your can skip the entry of your personnel number (you can find it on your pay slip or in the [HRZ IDM account self service](https://idm.uni-frankfurt.de/idm-webapp/div/accselfservice)) for now but you will be asked for it later if you want to hand in your first  timesheet. You can also add the personnel number in the settings.
+
+## Setting up a Contract
+
+Before you can start working with Clock, you must create a **contract**. Enter a name to identify the contract, specify the number of hours and the duration. You can also add a carryover if you start using Clock mid-contract and used a different way to record your working time.
+
+If you are using Clock for the first time and recorded your working hours differently, you may also enter a carryover as a starting value, which is the basis for the subsequent caluclation of your due working time. Be careful to start your contract in the actual month.
+
+{% hint style="info" %}
+The contract data must correspond to the actual employment contract you have signed. If you have several simultaneous contracts with the university, you must also create corresponding contracts in Clock.
+{% endhint %}
+
+You will also be shown a **reference ID** in the contract dialogue. You must send this to your responsible manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract. You can generate a new reference ID, e.g. if your supervisor changes. Submitted working time records will be accesibly by the old ID.
 
 #### Accepting the Privacy Statement
 
@@ -36,14 +52,14 @@ When initialising your very first Contract in Clock, you have to grant us permis
 
 ## Clocking
 
-* To start a Shift, select the respective contract, and start recording your working time by clicking the `clock in` button. The current duration of the Shift will be displayed.
+* To start a **Shift**, select the respective contract, and start recording your working time by clicking the `clock in` button. The current duration of the Shift will be displayed.
 * An active Shift is terminated using the `clock out` button
 
 {% hint style="info" %}
 You may also clock "across devices", e.g. logging on with the desktop PC at work and off again using your mobile later on (after running to catch the subway...). In some cases, you will have to reload the page in order to view the current state of the Shift on the Dashboard.
 {% endhint %}
 
-## Entering/Changing Shifts manually
+## Entering/changing Shifts manually
 
 Apart from the clocking procedure, you may also enter Shifts manually (and edit them anytime).
 
@@ -59,7 +75,7 @@ Using the time input fields with the keyboard is rather flexible
 * "142" evaluates to "1:42" (!)
 {% endhint %}
 
-In the Shift View Mode, you may also select several Shifts and delete all Shifts at once or assign all selected Shifts to another Contract.
+In the **Shift View** Mode, you may also select several Shifts and delete all Shifts at once or assign all selected Shifts to another Contract.
 
 ## Scheduling and reviewing Shifts
 
@@ -73,31 +89,33 @@ Repeating Shifts are not saved as a series, but as individual Shifts. If you del
 
 ### Reviewing Shifts
 
-A Scheduled Shift will only be added to your Working Time Account after having been _individually reviewed._ Unreviewed Shifts are easy to recognise in Clock's different View Modes. They are displayed in a lighter color in the Calendar, are marked with a red ❌ in the Shift Table or have a Tag in the Last Activity panel.
+A Scheduled Shift will only be added to your Working Time Account after having been _individually reviewed._ Unreviewed Shifts are easy to recognise in Clock's different View Modes. They are marked with a red ❌ in the Shift Table or have a Tag in the _Last Activity_ panel.
 
-To review a shift, open it for editing and click the `review` checkbox. You may not undo the checking procedure, as Clock assumes that opening an unreviewed Shift actually means that you are reviewing it. It is impossible to save past unreviewed Shifts - they can only created in the future.
+To review a shift, open it for editing and save it again. You can also click on the ❌ in the Shift Table to review the shift.
 
 ### Validations
 
 Working times are subject to German Law (Working Time Act) and standards defined within a self-commitment made by the Goethe-University.
 
-All shifts will be validated and Clock will show warnings if your shifts conflict with the regulations. Some shifts can not be saved. You will finde more information on the page [Legal stuff](legal-stuff.md).&#x20;
+All shifts will be validated and Clock will show warnings if your shifts conflict with the regulations. Some shifts can not be saved, e.g. on bank holidays. You will finde more information on the page [Legal stuff](legal-stuff.md).&#x20;
 
-## Exporting your Time Sheet
+## Locking and submitting your timesheet
 
-You may request a Time Sheet and then download it.
+You may request a **timesheet** and then export a PDF if you wish.
 
-You may repeat the generation of Time Sheets as often as you like, e.g. if you spot a mistake or forgot to record a Shift.
+You may repeat the generation of timesheets as often as you like, e.g. if you spot a mistake or forgot to record a Shift.
 
-If the Time Sheet is ready for handing it in, you can _lock_ the month. After that, Shifts may not be modified anymore, and you will be able to request a Time Sheet for the following month.
+If all is ready for submission, you can click _lock & submit_. The recorded data will be transferred to the TimeVault database and stored for 2 years. After that, Shifts may not be modified anymore. Your supervisor can now access your time recording data with the contract's reference ID.
 
 {% hint style="warning" %}
-To export a Time Report for a new month, the previous month _must_ be locked. This guarantees that the balance and carry-over of working hours between months is calculated correctly.
+To export a Time Report for a new month, the previous month _must_ be locked. This guarantees that the balance and carry-over of working hours between months is calculated correctly. A lock is final and can only be reverted by the [support](mailto:clock.uni-frankfurt.de).
 {% endhint %}
 
 ## Logging Out
 
-If you would like to logout explicitly, e.g. at a public terminal, you are free to do so anytime. Alternatively, you may also simply close the window. In that case, you stay logged in with your current browser.
+If you wish to logout explicitly, e.g. at a public terminal, you are free to do so anytime. You will then be loggod out of all HRZ services.&#x20;
+
+Alternatively, you may also simply close the window. In that case, you stay logged in with your current browser.
 
 After 30 days, however, you will definitely have to login again.
 
