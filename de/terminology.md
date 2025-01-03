@@ -124,7 +124,7 @@ Clock macht keine expliziten Pausen, damit es schön einfach bleibt: Entweder Du
 
 Im AZK werden jedoch Pausenzeiten angegeben, da sie die Grundlage für die Netto-Arbeitszeit darstellen. Wenn Du an einem Tag mehrere Schichten arbeitest, dann wird die "Zeit dazwischen" zusammengezählt als Pausenzeit angenommen. Deine Netto-Arbeitszeit entspricht natürlich weiterhin der Summe Deiner eingetragenen Schichten.
 
-Laut Arbeitszeitgesetz musst Du bei mehr als 6 Stunden Arbeitszeit mindestens 30 Minuten Ruhepause machen und bei mehr als 9 Stunden mindestens 45 Minuten ([§4 ArbZG](https://www.gesetze-im-internet.de/arbzg/__4.html)). Clock zieht Dir diese Pausenzeit automatisch ab - auch, wenn Du die Arbeit nicht unterbrochen hast.
+Laut Arbeitszeitgesetz musst Du bei mehr als 6 Stunden Arbeitszeit mindestens 30 Minuten Ruhepause machen und bei mehr als 9 Stunden mindestens 45 Minuten ([§4 ArbZG](https://www.gesetze-im-internet.de/arbzg/__4.html)). Clock zieht Dir diese Pausenzeit automatisch ab - auch, wenn Du die Arbeit nicht unterbrochen hast. Du bekommst natürlich eine Warnung angezeigt.
 
 ## Benutzer\*in / User
 
