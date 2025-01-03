@@ -4,7 +4,7 @@ description: Clock-Arbeitsabläufe
 
 # Schnelleinstieg
 
-Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz selbsterklärend. Darum haben wir den Ablauf der wichtigsten Tätigkeiten hier zusammengestellt.
+Die Arbeit mit Clock ist einfach, aber vielleicht findest Du sie auch nicht ganz selbsterklärend. Darum haben wir den Ablauf der wichtigsten Funktionen hier zusammengestellt.
 
 ## Anmelden
 
@@ -32,19 +32,17 @@ Nach der ersten Anmeldung musst Du die Einwilligung dazu geben, dass wir Deine D
 
 Du wirst außerdem durch ein kurzes Onboarding geführt, das Dich mit den wichtigsten Funktionen von Clock vertraut macht.
 
+Falls Du Deine Personalnummer gerade nicht zur Hand hast (Du findest sie auf Deinen Gehaltsabrechnungen oder im [HRZ IDM account self service](https://idm.uni-frankfurt.de/idm-webapp/div/accselfservice)), kannst Du die Eingabe auch überspringen. Du wirst beim Abgaben Deines ersten "Stundenzettels" erneut nach der Nummer gefragt oder Du kannst Sie jederzeit in den `Einstellungen` nachtragen.
+
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Dazu musst Du dem Vertrag eine Bezeichnung geben, sowie Stundenzahl und Laufzeit angeben. Während des Onboardings hast Du die Möglichkeit, das zu tun. Ein Vertrag kann auch immer später hinzugefügt werden.
+Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Dazu musst Du dem Vertrag eine Bezeichnung geben, sowie Stundenzahl und Laufzeit angeben. Du kannst ebenso einen Übertrag aus dem Vormonat angeben, wenn Du während eines laufenden Vertrag mit der Nutzung von Clock beginnst.&#x20;
 
 {% hint style="info" %}
-Die Vertragsdaten müssen Deinem realen Arbeitsvertrag entsprechen, den Du unterschrieben hast. Wenn Du mehrere gleichzeitige Verträge mit der Universität hast, musst Du auch in Clock zwei Verträge anlegen.
+Die Vertragsdaten müssen Deinem realen Arbeitsvertrag entsprechen, den Du unterschrieben hast. Wenn Du mehrere gleichzeitige Verträge mit der Universität hast, musst Du auch in Clock mehrere Verträge anlegen.
 {% endhint %}
 
-Falls Du Deine Personalnummer gerade nicht zur Hand hast (sie steht z.B. auf Deinen Gehaltsabrechnungen oder Du kannst sie in der [IDM-App](https://idm.uni-frankfurt.de/idm-webapp/div/accselfservice) sehen), kannst Du die Eingabe auch überspringen. Du wirst dann beim Sperren Deines Stundenzettels nach der Nummer gefragt oder Du kannst Sie jederzeit in den `Einstellungen` nachtragen.
-
-Wenn Du Clock zu nutzen beginnst und bereits ein Arbeitszeitkonto anders geführt hast (z.B. mit Excel), kannst Du einen Übertrag aus dem Vormonat angeben. Das ist dann die Basis für die weitere Berechnung Deiner Stundenzahl. In diesem Fall muss der Vertrag in Clock an dem Zeitpunkt starten, an dem Du mit der Nutzung beginnst.
-
-Im Vertrags-Dialog wird Dir außerdem eine `Referenz-ID` angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
+Im Vertrags-Dialog wird Dir außerdem eine **Referenz-ID** angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
 
 ## Clocken
 
@@ -71,7 +69,7 @@ Die Angabe von Uhrzeiten per Tastatur ist flexibel:
 * "142" wird zu "1:42" (!)
 {% endhint %}
 
-In der Schicht-Ansicht kannst Du auch mehrere Schichten auswählen und sie gesammelt löschen oder einem anderen Vertrag zuweisen.
+In der **Schicht-Ansicht** kannst Du auch mehrere Schichten auswählen und sie gesammelt löschen oder einem anderen Vertrag zuweisen.
 
 ## Schichten planen und überprüfen
 
@@ -85,9 +83,9 @@ Wiederholte Schichten werden nicht als zusammenhängende Serie, sondern als einz
 
 ### Schichten überprüfen
 
-Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In der Schicht-Tabelle tragen sie ein ❌ und ebenso einen Hinweis im "Letzte Aktivitäten"-Bereich auf dem Dashboard.
+Eine geplante Schicht wird erst im Arbeitszeitkonto berücksichtigt, wenn sie _überprüft_ wurde. In der Schicht-Tabelle tragen sie ein ❌ und ebenso einen Hinweis im _Letzte Aktivitäten_-Bereich auf dem Dashboard.
 
-Um eine Schicht zu überprüfen, musst Du sie zum Bearbeiten öffnen und wieder speichern. Ebenso kannst Du sie  Eine Schicht kann nur überprüft abgespeichert werden, ansonsten kannst Du den Vorgang abbrechen, wenn Du Dir gerade nicht sicher bist. Du kannst auch in der Schichttabelle direkt auf das ❌ klicken und die Schicht überprüfen.
+Um eine Schicht zu überprüfen, musst Du sie zum Bearbeiten öffnen und wieder speichern. Du kannst auch in der Schichttabelle direkt auf das ❌ klicken und die Schicht überprüfen.
 
 ### Validierungen
 
@@ -101,7 +99,7 @@ Du kannst zu einem Monat einen Stundenzettel `anfordern` und z.B. als PDF herunt
 
 Du kannst den Stundenzettel immer wieder neu anfordern, z.B. wenn Du noch einen Fehler findest oder eine Schicht vergessen hast.
 
-Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren und abgeben_. Dabei wird Dein Stundenzettel in den TimeVault (Zeitspeicher) übertragen und dort für 2 Jahre gespeichert. Nach dem Sperren können keine Schichten mehr verändert werden. Deine Führungskraft kann nur auf die Daten im TimeVault zugreifen.
+Wenn der Stundenzettel schließlich abgabefertig ist, kannst Du den Monat _sperren und abgeben_. Dabei wird Deine Zeiterfassungsdaten in den TimeVault (Zeitspeicher) übertragen und dort für 2 Jahre gespeichert. Nach dem Sperren können keine Schichten mehr verändert werden. Deine Führungskraft nun kann mit der Referenz ID auf die Daten im TimeVault zugreifen.
 
 {% hint style="warning" %}
 Um einen Stundenzettel für einen neuen Monat zu exportieren, **muss** der vorangegangene Monat gesperrt werden. Damit wird sichergestellt, dass der Stundenübertrag richtig berechnet wird. Eine Sperre kann nur durch den [Support](mailto:clock.uni-frankfurt.de) wieder aufgehoben werden.
