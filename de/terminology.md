@@ -54,7 +54,7 @@ Für Schichten gelten einige Regeln:
 
 * Eine Schicht gehört immer zu einem Vertrag.
 * Eine Schicht darf nicht kürzer als 1 Minute sein.
-* Eine Schicht gehört immer zu einem festen Tag/Datum. Wenn Du über Mitternacht hinweg arbeitest, macht Clock daraus automatisch 2 Schichten.
+* Eine Schicht gehört immer zu einem festen Tag/Datum. Wenn Du über Mitternacht hinweg arbeitest, zeigt Clock einen Fehler an und Du musst die Schicht bearbeiten.
 * Schichten können nicht parallel liegen bzw. sich nicht überlappen.
 
 {% hint style="info" %}
@@ -78,7 +78,7 @@ _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das Beenden o
 * `Einclocken` beginnt eine Schicht.
 * `Ausclocken` beendet eine Schicht.
 
-Der Button zum Ein- und Ausclocken ist immer auf dem _Dashboard_ zu finden. Wenn eine Schicht _aktiv_ ist, wird Dir die aktuelle Laufzeit angezeigt. Du kannst eine laufende Schicht beenden oder auch ganz löschen. Eine geclockte Schicht taucht erst _nach_ dem Ausclocken in Deinem Arbeitszeitkonto auf.
+Der Button zum Ein- und Ausclocken ist immer auf dem _Dashboard_ zu finden. Wenn eine Schicht _aktiv_ ist, wird Dir die aktuelle Laufzeit angezeigt. Du kannst eine laufende Schicht beenden oder auch ganz löschen. Eine geclockte Schicht taucht erst _nach_ dem Ausclocken in Deinem Arbeitszeitkonto auf. Eine geclockte Schicht gilt immer als überprüft.
 
 ## Arbeitszeitkonto | AZK
 
@@ -96,7 +96,7 @@ Einzelne Schichten werden im AZK nicht abgebildet - diese existieren nur Clock-i
 
 ### F/K/U
 
-Als Hilfskraft hast Du Anspruch auf Urlaub (U) und Du darfst auch krankgeschrieben (K) sein. Und streng genommen gelten für Dich auch gesetzliche Feiertage (F).
+Als Hilfskraft hast Du Anspruch auf Urlaub (U) und Du darfst auch krankgeschrieben (K) sein. Ebenso gelten für Dich auch gesetzliche Feiertage (F).
 
 Aktuell kannst Du in Clock Schichten nur als normale `Schicht` (Standard), als `Urlaub` , als`Krank` oder als `Feiertag` markieren. Wenn Du Schichten als `Urlaub` , `Krank` oder `Feiertag` vermerkst, werden deren Zeiten im AZK entsprechend separat vermerkt.
 
