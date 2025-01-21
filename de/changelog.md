@@ -321,3 +321,22 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 
 * Clock in / Clock out Bug am ersten Tag des Monats behoben
 * verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2025.01
+
+**Neue Features**
+
+* neue mobile Ansicht der Schichttabelle
+* Zeitstempel an Benachrichtigungen
+* Zustimmung zur Dateneinsicht durch Admins bei Feedback
+
+#### Anpassungen
+
+* Warnung bei Schichten mit gleicher Start-und Endzeit
+* Leichte Überarbeitung der Datenschutzerklärung (Anpassung an Text der Goethe-Universität)
+
+**Fehlerbehebungen**
+
+* korrektes Verhalten des Kalender-Widgets im Vertragsformular (mobile Ansicht)
+* 24.12. (Hl. Abend) und 31.12. (Silvester) gelten nun als Feiertage
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
