@@ -273,51 +273,69 @@ Released Aug. 16, 2021 - 18:15&#x20;
 
 ## Release 2024.03
 
-**Neue Features**
+**New Features**
 
-* Einführung von VZÄ-basierten Arbeitszeitmodellen für Beschäftigte und Beamte
+* Introducing FTE-based worktime models for regular employees
 
-**Fehlerbehebungen**
+**Bugfixes**
 
-* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+* minor corrections and fixes
 
 ## Release 2024.04
 
-**Framework-Updates**
+**Framework updates**
 
-* Update von Vue 2 auf Vue 3
-* Update von Vuetify 2 auf Vuetify 3
-* Hinweis: Einige Komponenten können in ihrer Funktion eingeschränkt sein bis weitere Updates zur Verfügung stehen.
+* Update Vue 2 to Vue 3
+* Update Vuetify 2 to Vuetify 3
+* Please note that some components components may be limited in their function until further updates are available.
 
 ## Release 2024.08
 
 **Neue Features**
 
-* Beim Logout wird eine Abmeldung vom zentralen Authentifizierungsdienst (CAS) ausgelöst (verbesserte Sicherheit)
+* A logout triggers a signout from the central authentication service (CAS) for safety/security reasons
 
-**Anpassungen**
+**Modifications**
 
-* Verbesserte Vertrags-Reihenfolge im Auswahlfeld
-* Verbesserte Anzeige von VZÄ bei Verträgen für reguläre Angestellte
+* improved sorting of contracts in the contract dropdown
+* improved display of FTE in contracts for regular employees
 
-**Fehlerbehebungen**
+**Bugfixes**
 
-* korrigierte Berechnung des Stundenübertrags
-* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+* correct computation of overtime
+* minor corrections and fixes
 
 ## Release 2024.10
 
-**Neue Features**
+**New Features**
 
-* Neue Referenz-ID für Verträge (für zukünftige Nutzung)
-* Neue und weniger aufdringliche Darstellung von Warningen bei Regelverstößen
-* Schichten in der Kalenderansicht können direkt geöffnet werden; Wochenbeginn ist am Montag
+* New Reference ID for Contracts - this is to enable future functions
+* new and less intrusive display of warnings for non-compliant shifts
+* Calendar view with clickable shifts and weeks start on monday
 
-**Anpassungen**
+**Modifications**
 
-* formatierte Einträge in den FAQ möglich
+* formatted entries in the FAQ
 
-**Fehlerbehebungen**
+**Bugfixes**
 
-* Clock in / Clock out Bug am ersten Tag des Monats behoben
-* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+* fix clock-in / clock-out bug at the first day of a month
+* minor corrections and fixes
+
+## Release 2025.01
+
+**New Features**
+
+* new mobile design of the Shift Table
+* messages have timestamps
+* sending feedback requires consent to admins looking into userdata for support tasks
+
+**Modifications**
+
+* minor adaptations of the privacy policy (after minor adaptations of the Goethe-University's policy)
+
+**Bugfixes**
+
+* correct behaviour of th calendar widget in the Contrat Form
+* Dec 24 (Christmas Eve) and Dec 31 (New Year's Eve) are now regarded as bank holidays
+* minor corrections and fixes
