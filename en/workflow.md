@@ -38,13 +38,21 @@ Your can skip the entry of your personnel number (you can find it on your pay sl
 
 Before you can start working with Clock, you must create a **contract**. Enter a name to identify the contract, specify the number of hours and the duration. You can also add a carryover if you start using Clock mid-contract and used a different way to record your working time.
 
-If you are using Clock for the first time and recorded your working hours differently, you may also enter a carryover as a starting value, which is the basis for the subsequent caluclation of your due working time. Be careful to start your contract in the actual month.
+If you are using Clock for the first time, you may also enter a carryover as a starting value, which is the basis for the subsequent caluclation of your due working time. If you start during an existing contract period, be careful to start your virtual contract in the actual month.
 
 {% hint style="info" %}
 The contract data must correspond to the actual employment contract you have signed (unless you start clocking during an existing contract). If you have several simultaneous contracts with the university, you must also create corresponding contracts in Clock.
 {% endhint %}
 
-You will also be shown a **reference ID** in the contract dialogue. You must send this to your responsible manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract. You can generate a new reference ID, e.g. if your supervisor changes. Submitted working time records will be accesibly by the old ID.
+You will also be shown a **reference ID** in the contract dialogue. You must send this to your responsible manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract.
+
+{% hint style="warning" %}
+&#x20;You can generate a new reference ID, e.g. if your supervisor changes or you sent your ID to the wrong person. You will have to sent it again (to the right person).&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+&#x20;Submitted working time records will always be accesibly by the old ID (i.e. the ID of the contract upon the time of submission.
+{% endhint %}
 
 #### Accepting the Privacy Statement
 
