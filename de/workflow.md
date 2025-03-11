@@ -42,6 +42,10 @@ Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlege
 Die Vertragsdaten müssen Deinem realen Arbeitsvertrag entsprechen, den Du unterschrieben hast. Wenn Du mehrere gleichzeitige Verträge mit der Universität hast, musst Du auch in Clock mehrere Verträge anlegen.
 {% endhint %}
 
+{% hint style="warning" %}
+Wenn Du "untermonatig", also während eines bereits laufenden Vertrags bei Clock einsteigst, dann sollte der Clock-Vertrag zu dem Zeitpunkt starten, an dem du zum ersten Mal Clock benutzt - sonst müsstest Du ja die vergangenen Monate nachtragen (diese Abweichung vom realen Vertrag ist erlaubt).
+{% endhint %}
+
 Im Vertrags-Dialog wird Dir außerdem eine **Referenz-ID** angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
 
 ## Clocken
