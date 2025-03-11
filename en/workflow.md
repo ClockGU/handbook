@@ -41,7 +41,7 @@ Before you can start working with Clock, you must create a **contract**. Enter a
 If you are using Clock for the first time and recorded your working hours differently, you may also enter a carryover as a starting value, which is the basis for the subsequent caluclation of your due working time. Be careful to start your contract in the actual month.
 
 {% hint style="info" %}
-The contract data must correspond to the actual employment contract you have signed. If you have several simultaneous contracts with the university, you must also create corresponding contracts in Clock.
+The contract data must correspond to the actual employment contract you have signed (unless you start clocking during an existing contract). If you have several simultaneous contracts with the university, you must also create corresponding contracts in Clock.
 {% endhint %}
 
 You will also be shown a **reference ID** in the contract dialogue. You must send this to your responsible manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract. You can generate a new reference ID, e.g. if your supervisor changes. Submitted working time records will be accesibly by the old ID.
