@@ -48,7 +48,17 @@ Wenn Du Clock zum ersten Mal benutzt und Deine Zeit vorher anders erfasst hast, 
 Wenn Du während eines bereits laufenden Vertrags bei Clock einsteigst, sollte der Clock-Vertrag zu dem Zeitpunkt starten, an dem du zum ersten Mal Clock benutzt - sonst müsstest Du ja die vergangenen Monate nachtragen (diese Abweichung vom realen Vertrag ist erlaubt).
 {% endhint %}
 
-Im Vertrags-Dialog wird Dir außerdem eine **Referenz-ID** angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
+### Referenz-ID übermitteln
+
+Im Vertrags-Dialog wird Dir eine **Referenz-ID** angezeigt. Diese identifiziert den Vertrag in der TimeVault-Datenbank und muss an Deine verantwortliche Führungskraft übermittelt werden, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
+
+{% hint style="warning" %}
+Du kannst eine neue Referenz-ID genereieren, z.B. wenn sich Deine Führungskraft ändert oder Du versehentlich Deine Referenz-ID an die falsche Person gesendet hast. In diesem Fall musst Du die Referenz-ID natürlich wieder neu an die zuständige(n) Person(en) schicken.&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+Digital eingereichte "Stundenzettel" sind immer unter der Referenz-ID einsehbar, unter der sie abgegeben wurden - auch, wenn diese später geändert wird.
+{% endhint %}
 
 ## Clocken
 
