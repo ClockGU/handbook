@@ -53,7 +53,7 @@ Wenn Du während eines bereits laufenden Vertrags bei Clock einsteigst, sollte d
 Im Vertrags-Dialog wird Dir eine **Referenz-ID** angezeigt. Diese identifiziert den Vertrag in der TimeVault-Datenbank und muss an Deine verantwortliche Führungskraft übermittelt werden, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
 
 {% hint style="warning" %}
-Du kannst eine neue Referenz-ID genereieren, z.B. wenn sich Deine Führungskraft ändert oder Du versehentlich Deine Referenz-ID an die falsche Person gesendet hast. In diesem Fall musst Du die Referenz-ID natürlich wieder neu an die zuständige(n) Person(en) schicken.&#x20;
+Du kannst eine neue Referenz-ID generieren, z.B. wenn sich Deine Führungskraft ändert oder Du Deine ID versehentlich an die falsche Person gesendet hast. In diesem Fall musst Du die Referenz-ID natürlich wieder neu an die zuständige(n) Person(en) schicken.&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
