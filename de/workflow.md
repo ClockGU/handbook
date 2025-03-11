@@ -36,14 +36,16 @@ Falls Du Deine Personalnummer gerade nicht zur Hand hast (Du findest sie auf Dei
 
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Dazu musst Du dem Vertrag eine Bezeichnung geben, sowie Stundenzahl und Laufzeit angeben. Du kannst ebenso einen Übertrag aus dem Vormonat angeben, wenn Du während eines laufenden Vertrag mit der Nutzung von Clock beginnst.&#x20;
+Bevor Du mit Clock arbeiten kannst, musst Du einen **Vertrag** (Contract) anlegen. Dazu musst Du dem Vertrag eine Bezeichnung geben, sowie Stundenzahl und Laufzeit angeben.&#x20;
 
 {% hint style="info" %}
 Die Vertragsdaten müssen Deinem realen Arbeitsvertrag entsprechen, den Du unterschrieben hast. Wenn Du mehrere gleichzeitige Verträge mit der Universität hast, musst Du auch in Clock mehrere Verträge anlegen.
 {% endhint %}
 
+Wenn Du Clock zum ersten Mal benutzt und Deine Zeit vorher anders erfasst hast, kannst einen _Übertrag aus dem Vormonat_ angeben und damit einen Startwert setzen.
+
 {% hint style="warning" %}
-Wenn Du "untermonatig", also während eines bereits laufenden Vertrags bei Clock einsteigst, dann sollte der Clock-Vertrag zu dem Zeitpunkt starten, an dem du zum ersten Mal Clock benutzt - sonst müsstest Du ja die vergangenen Monate nachtragen (diese Abweichung vom realen Vertrag ist erlaubt).
+Wenn Du während eines bereits laufenden Vertrags bei Clock einsteigst, sollte der Clock-Vertrag zu dem Zeitpunkt starten, an dem du zum ersten Mal Clock benutzt - sonst müsstest Du ja die vergangenen Monate nachtragen (diese Abweichung vom realen Vertrag ist erlaubt).
 {% endhint %}
 
 Im Vertrags-Dialog wird Dir außerdem eine **Referenz-ID** angezeigt. Diese musst Du an Deine verantwortliche Führungskraft übermitteln, damit sie später Deine Arbeitszeitdokumentation einsehen kann.
