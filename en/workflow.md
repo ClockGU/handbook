@@ -44,14 +44,16 @@ If you are using Clock for the first time, you may also enter a carryover as a s
 The contract data must correspond to the actual employment contract you have signed (unless you start clocking during an existing contract). If you have several simultaneous contracts with the university, you must also create corresponding contracts in Clock.
 {% endhint %}
 
-You will also be shown a **reference ID** in the contract dialogue. You must send this to your responsible manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract.
+### Finding and submitting the reference ID
+
+You will also be shown a **reference ID** in the contract dialogue which identifies your contract in the TimeVault database. You must send this id to your supervisor/line manager so that they can view your working time documentation later. The reference ID must only be submitted once per contract.
 
 {% hint style="warning" %}
 &#x20;You can generate a new reference ID, e.g. if your supervisor changes or you sent your ID to the wrong person. You will have to sent it again (to the right person).&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-&#x20;Submitted working time records will always be accesibly by the old ID (i.e. the ID of the contract upon the time of submission.
+&#x20;Submitted working time records will always be accesibly by the old ID (i.e. the ID of the contract upon the time of submission).
 {% endhint %}
 
 #### Accepting the Privacy Statement
