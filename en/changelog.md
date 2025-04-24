@@ -339,3 +339,15 @@ Released Aug. 16, 2021 - 18:15&#x20;
 * correct behaviour of th calendar widget in the Contrat Form
 * Dec 24 (Christmas Eve) and Dec 31 (New Year's Eve) are now regarded as bank holidays
 * minor corrections and fixes
+
+## Release 2025.04
+
+**Modifications**
+
+* Shift selection resets on month change
+* worktime and vacation time carryovers automatically remove "+" signs and reset to zero if checkboxes are unchecked
+
+**Bugfixes**
+
+* correct behaviour of shift save on last contract day
+* minor corrections and fixes
