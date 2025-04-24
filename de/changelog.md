@@ -340,3 +340,17 @@ Veröffentlicht am 16.08.2021 - 18:15 Uhr
 * korrektes Verhalten des Kalender-Widgets im Vertragsformular (mobile Ansicht)
 * 24.12. (Hl. Abend) und 31.12. (Silvester) gelten nun als Feiertage
 * verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+
+## Release 2025.04
+
+**Anpassungen**
+
+* Schichtauswahl wird zurückgesetzt wenn der Monat geändert wird
+* Arbeitszeit und Urlaubszeitüberträge entfernen automatisch das "+" Zeichen und werden auf Null gesetzt sobald die Checkboxen abgewählt werden
+
+**Fehlerbehebungen**
+
+* korrektes Speicherverhalten am letzten Tag eines Vertrages
+* verschiedene kleinere Verbesserungen und Fehlerkorrekturen
+* correct behaviour of shift save on last contract day
+* minor corrections and fixes
